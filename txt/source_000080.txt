@@ -1,37 +1,37 @@
-Source: 1RXS J101015.9-311909
-source_id: 42
-reference_id: 
+Source: AP Librae
+source_id: 80
+reference_id: 2015A&A...573A..31H
 
-RA (J2000)  : 152.57 deg
-Dec (J2000) : -31.32 deg
-GLON        : 266.91 deg
-GLAT        : 20.05 deg
+RA (J2000)  : 229.42 deg
+Dec (J2000) : -24.37 deg
+GLON        : 340.68 deg
+GLAT        : 27.58 deg
 
 
 ===
 
-OrderedDict([('source_id', 42),
-             ('common_name', '1RXS J101015.9-311909'),
+OrderedDict([('source_id', 80),
+             ('common_name', 'AP Librae'),
              ('gamma_names', ''),
              ('fermi_names', ''),
-             ('other_names', ''),
+             ('other_names', 'PKS B1514-241'),
              ('where', 'egal'),
-             ('classes', 'hbl'),
+             ('classes', 'lbl'),
              ('discoverer', 'hess'),
              ('seen_by', 'hess'),
-             ('discovery_date', '2010-12'),
-             ('tevcat_id', 215),
-             ('tevcat2_id', '7fxWYa'),
-             ('tevcat_name', 'TeV J1010-313'),
-             ('tgevcat_id', 42),
-             ('tgevcat_name', 'TeV J1010-3118'),
-             ('reference_id', ''),
+             ('discovery_date', '2010-07'),
+             ('tevcat_id', 202),
+             ('tevcat2_id', 'qpaBdR'),
+             ('tevcat_name', 'TeV J1517-243'),
+             ('tgevcat_id', 80),
+             ('tgevcat_name', 'TeV J1517-2422'),
+             ('reference_id', '2015A&A...573A..31H'),
              ('significance', nan),
              ('livetime', <Quantity nan h>),
-             ('ra', <Quantity 152.56655883789062 deg>),
-             ('dec', <Quantity -31.318992614746094 deg>),
-             ('glon', <Quantity 266.9082336425781 deg>),
-             ('glat', <Quantity 20.053640365600586 deg>),
+             ('ra', <Quantity 229.42422485351562 deg>),
+             ('dec', <Quantity -24.3720760345459 deg>),
+             ('glon', <Quantity 340.6806335449219 deg>),
+             ('glat', <Quantity 27.57802963256836 deg>),
              ('pos_ra', <Quantity nan deg>),
              ('pos_dec', <Quantity nan deg>),
              ('pos_glon', <Quantity nan deg>),
@@ -70,12 +70,22 @@ OrderedDict([('source_id', 42),
              ('spec_flux_above_erange_min_err', <Quantity nan 1 / (cm2 s)>),
              ('spec_energy_flux_1TeV_10TeV', <Quantity nan TeV / (cm2 s)>),
              ('spec_energy_flux_1TeV_10TeV_err', <Quantity nan TeV / (cm2 s)>),
-             ('sed_reference_id', ''),
+             ('sed_reference_id', '2015A&A...573A..31H'),
              ('sed_e_ref',
-              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan] TeV>),
+              <Quantity [  1.60000000e+11,  2.11999998e+11,  2.83999994e+11,
+             3.82999986e+11,  5.13999995e+11,  6.89000022e+11,
+             9.61999995e+11,  1.40999996e+12,  2.08000005e+12,
+             3.05000009e+12,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan] TeV>),
              ('sed_e_min',
               <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
@@ -111,4 +121,4 @@ OrderedDict([('source_id', 42),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 42)])
+             ('catalog_row_index', 79)])

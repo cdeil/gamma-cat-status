@@ -1,17 +1,17 @@
-Source: 1RXS J101015.9-311909
-source_id: 42
+Source: SHBL J001355.9-185406
+source_id: 2
 reference_id: 
 
-RA (J2000)  : 152.57 deg
-Dec (J2000) : -31.32 deg
-GLON        : 266.91 deg
-GLAT        : 20.05 deg
+RA (J2000)  : 3.48 deg
+Dec (J2000) : -18.90 deg
+GLON        : 74.63 deg
+GLAT        : -78.09 deg
 
 
 ===
 
-OrderedDict([('source_id', 42),
-             ('common_name', '1RXS J101015.9-311909'),
+OrderedDict([('source_id', 2),
+             ('common_name', 'SHBL J001355.9-185406'),
              ('gamma_names', ''),
              ('fermi_names', ''),
              ('other_names', ''),
@@ -19,19 +19,19 @@ OrderedDict([('source_id', 42),
              ('classes', 'hbl'),
              ('discoverer', 'hess'),
              ('seen_by', 'hess'),
-             ('discovery_date', '2010-12'),
-             ('tevcat_id', 215),
-             ('tevcat2_id', '7fxWYa'),
-             ('tevcat_name', 'TeV J1010-313'),
-             ('tgevcat_id', 42),
-             ('tgevcat_name', 'TeV J1010-3118'),
+             ('discovery_date', ''),
+             ('tevcat_id', 213),
+             ('tevcat2_id', '70hRXZ'),
+             ('tevcat_name', 'TeV J0013-188'),
+             ('tgevcat_id', 2),
+             ('tgevcat_name', 'TeV J0013-1853'),
              ('reference_id', ''),
              ('significance', nan),
              ('livetime', <Quantity nan h>),
-             ('ra', <Quantity 152.56655883789062 deg>),
-             ('dec', <Quantity -31.318992614746094 deg>),
-             ('glon', <Quantity 266.9082336425781 deg>),
-             ('glat', <Quantity 20.053640365600586 deg>),
+             ('ra', <Quantity 3.483558416366577 deg>),
+             ('dec', <Quantity -18.90184783935547 deg>),
+             ('glon', <Quantity 74.63201141357422 deg>),
+             ('glat', <Quantity -78.0869369506836 deg>),
              ('pos_ra', <Quantity nan deg>),
              ('pos_dec', <Quantity nan deg>),
              ('pos_glon', <Quantity nan deg>),
@@ -111,4 +111,4 @@ OrderedDict([('source_id', 42),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 42)])
+             ('catalog_row_index', 1)])

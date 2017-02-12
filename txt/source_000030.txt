@@ -1,43 +1,43 @@
-Source: 1RXS J101015.9-311909
-source_id: 42
-reference_id: 
+Source: HESS J0632+057
+source_id: 30
+reference_id: 2007A&A...469L...1A
 
-RA (J2000)  : 152.57 deg
-Dec (J2000) : -31.32 deg
-GLON        : 266.91 deg
-GLAT        : 20.05 deg
+RA (J2000)  : 98.25 deg
+Dec (J2000) : 5.80 deg
+GLON        : 205.67 deg
+GLAT        : -1.44 deg
 
 
 ===
 
-OrderedDict([('source_id', 42),
-             ('common_name', '1RXS J101015.9-311909'),
-             ('gamma_names', ''),
+OrderedDict([('source_id', 30),
+             ('common_name', 'HESS J0632+057'),
+             ('gamma_names', 'HESS J0632+057,VER J0633+057'),
              ('fermi_names', ''),
-             ('other_names', ''),
-             ('where', 'egal'),
-             ('classes', 'hbl'),
+             ('other_names', 'HD 259440'),
+             ('where', 'gal'),
+             ('classes', 'bin'),
              ('discoverer', 'hess'),
-             ('seen_by', 'hess'),
-             ('discovery_date', '2010-12'),
-             ('tevcat_id', 215),
-             ('tevcat2_id', '7fxWYa'),
-             ('tevcat_name', 'TeV J1010-313'),
-             ('tgevcat_id', 42),
-             ('tgevcat_name', 'TeV J1010-3118'),
-             ('reference_id', ''),
+             ('seen_by', 'hess,veritas,magic'),
+             ('discovery_date', ''),
+             ('tevcat_id', 134),
+             ('tevcat2_id', 'jPeNQq'),
+             ('tevcat_name', 'TeV J0632+058'),
+             ('tgevcat_id', 30),
+             ('tgevcat_name', 'TeV J0632+0548'),
+             ('reference_id', '2007A&A...469L...1A'),
              ('significance', nan),
-             ('livetime', <Quantity nan h>),
-             ('ra', <Quantity 152.56655883789062 deg>),
-             ('dec', <Quantity -31.318992614746094 deg>),
-             ('glon', <Quantity 266.9082336425781 deg>),
-             ('glat', <Quantity 20.053640365600586 deg>),
-             ('pos_ra', <Quantity nan deg>),
-             ('pos_dec', <Quantity nan deg>),
-             ('pos_glon', <Quantity nan deg>),
-             ('pos_glat', <Quantity nan deg>),
-             ('pos_err', <Quantity nan deg>),
-             ('morph_type', ''),
+             ('livetime', <Quantity 13.5 h>),
+             ('ra', <Quantity 98.24689483642578 deg>),
+             ('dec', <Quantity 5.800327301025391 deg>),
+             ('glon', <Quantity 205.66653442382812 deg>),
+             ('glat', <Quantity -1.4395283460617065 deg>),
+             ('pos_ra', <Quantity 98.24166870117188 deg>),
+             ('pos_dec', <Quantity 5.80555534362793 deg>),
+             ('pos_glon', <Quantity 205.6595001220703 deg>),
+             ('pos_glat', <Quantity -1.4417325258255005 deg>),
+             ('pos_err', <Quantity 0.11832159757614136 deg>),
+             ('morph_type', 'point'),
              ('morph_sigma', <Quantity nan deg>),
              ('morph_sigma_err', <Quantity nan deg>),
              ('morph_sigma2', <Quantity nan deg>),
@@ -45,20 +45,20 @@ OrderedDict([('source_id', 42),
              ('morph_pa', <Quantity nan deg>),
              ('morph_pa_err', <Quantity nan deg>),
              ('morph_pa_frame', ''),
-             ('spec_type', ''),
-             ('spec_erange_min', <Quantity nan TeV>),
+             ('spec_type', 'pl'),
+             ('spec_erange_min', <Quantity 0.4000000059604645 TeV>),
              ('spec_erange_max', <Quantity nan TeV>),
-             ('spec_theta', <Quantity nan deg>),
-             ('spec_ref', <Quantity nan TeV>),
-             ('spec_norm', nan),
-             ('spec_norm_err', nan),
-             ('spec_norm_err_sys', nan),
+             ('spec_theta', <Quantity 0.10999999940395355 deg>),
+             ('spec_ref', <Quantity 1.0 TeV>),
+             ('spec_norm', 9.1000005e-13),
+             ('spec_norm_err', 1.7e-13),
+             ('spec_norm_err_sys', 2.9999999e-13),
              ('spec_norm_err_tot', nan),
              ('spec_norm_1TeV', nan),
              ('spec_norm_1TeV_err', nan),
-             ('spec_index', nan),
-             ('spec_index_err', nan),
-             ('spec_index_err_sys', nan),
+             ('spec_index', 2.53),
+             ('spec_index_err', 0.25999999),
+             ('spec_index_err_sys', 0.2),
              ('spec_index_err_tot', nan),
              ('spec_ecut', <Quantity nan TeV>),
              ('spec_ecut_err', nan),
@@ -111,4 +111,4 @@ OrderedDict([('source_id', 42),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 42)])
+             ('catalog_row_index', 30)])
