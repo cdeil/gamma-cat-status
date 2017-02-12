@@ -1,0 +1,9 @@
+Source: 1RXS J101015.9-311909
+source_id: 42
+reference_id: 
+
+RA (J2000)  : 152.57 deg
+Dec (J2000) : -31.32 deg
+GLON        : 266.91 deg
+GLAT        : 20.05 deg
+

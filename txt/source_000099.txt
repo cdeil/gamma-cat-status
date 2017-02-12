@@ -1,0 +1,9 @@
+Source: H 1722+119
+source_id: 100
+reference_id: 
+
+RA (J2000)  : 261.27 deg
+Dec (J2000) : 11.87 deg
+GLON        : 34.12 deg
+GLAT        : 24.48 deg
+
