@@ -5,6 +5,21 @@ import os
 from astropy.table import Table
 
 
+def write_table(table, filename_base):
+    """Write table in two formats.
+
+    - CSV rendered nicely by Github
+    - TXT nicely readable in an editor
+    """
+    filename = filename_base + '.csv'
+    print('Writing {}'.format(filename))
+    table.write(filename, format='ascii.csv', overwrite=True)
+
+    filename = filename_base + '.txt'
+    print('Writing {}'.format(filename))
+    table.write(filename, format='ascii.fixed_width', delimiter=',', overwrite=True)
+
+
 class GammaCatStatus:
     def __init__(self):
         folder = os.environ['GAMMA_CAT']
@@ -21,20 +36,14 @@ class GammaCatStatus:
 
     def make_cat_table_summary(self):
         table = self.table.info('stats', out=None)
-
-        # import IPython; IPython.embed()
-        filename = 'cat_table_summary.csv'
-        print('Writing {}'.format(filename))
-        table.write(filename, format='ascii.fixed_width', delimiter=',', overwrite=True)
+        write_table(table, 'cat_table_summary')
 
     def make_cat_table_printout(self):
         cols = ['source_id', 'common_name', 'where', 'classes', 'reference_id', 'morph_type', 'spec_type']
         table = self.table[cols].copy()
         table.sort(['where', 'source_id'])
 
-        filename = 'cat_table_printout.csv'
-        print('Writing {}'.format(filename))
-        table.write(filename, format='ascii.fixed_width', delimiter=',', overwrite=True)
+        write_table(table, 'cat_table_printout')
 
 
 if __name__ == '__main__':

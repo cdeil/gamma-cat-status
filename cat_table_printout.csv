@@ -1,163 +1,163 @@
-| source_id |           common_name | where |     classes |        reference_id | morph_type | spec_type |
-|         2 | SHBL J001355.9-185406 |  egal |         hbl |                     |            |           |
-|         4 |        KUV 00311-1938 |  egal |         hbl |                     |            |           |
-|         5 |          1ES 0033+595 |  egal |         hbl |                     |            |           |
-|         6 |               NGC 253 |  egal |      galaxy |                     |            |           |
-|         7 |         RGB J0136+391 |  egal |         hbl |                     |            |           |
-|         8 |         RGB J0152+017 |  egal |         hbl |                     |            |           |
-|        10 |            S3 0218+35 |  egal |      blazar |                     |            |           |
-|        11 |                3C 66A |  egal |         ibl |                     |            |           |
-|        13 |          1ES 0229+200 |  egal |         hbl |                     |            |           |
-|        15 |          PKS 0301-243 |  egal |         hbl |                     |            |           |
-|        16 |                IC 310 |  egal |         hbl |                     |            |           |
-|        17 |              RBS 0413 |  egal |         hbl |                     |            |           |
-|        18 |              NGC 1275 |  egal |         fri |                     |            |           |
-|        19 |          1ES 0347-121 |  egal |         hbl |                     |            |           |
-|        20 |          1ES 0414+009 |  egal |         hbl |                     |            |           |
-|        21 |          PKS 0447-439 |  egal |         hbl |                     |            |           |
-|        22 |          1ES 0502+675 |  egal |         hbl |                     |            |           |
-|        23 |         RGB J0521+212 |  egal |         ibl |                     |            |           |
-|        24 |             LMC N132D |  egal |      snr,mc | 2015Sci...347..406H |            |           |
-|        26 |              30 Dor C |  egal |       other | 2015Sci...347..406H |            |           |
-|        27 |                N 157B |  egal |         pwn | 2015Sci...347..406H |            |           |
-|        28 |          PKS 0548-322 |  egal |         hbl |                     |            |           |
-|        32 |       RX J0648.7+1516 |  egal |         hbl |                     |            |           |
-|        33 |          1ES 0647+250 |  egal |         hbl |                     |            |           |
-|        34 |         RGB J0710+591 |  egal |         hbl |                     |            |           |
-|        35 |           S5 0716+714 |  egal |         ibl |                     |            |           |
-|        36 |          1ES 0806+524 |  egal |         hbl |                     |            |           |
-|        38 |              RBS 0723 |  egal |         hbl |                     |            |           |
-|        40 |                  M 82 |  egal |      galaxy |                     |            |           |
-|        41 |            S4 0954+65 |  egal |      blazar |                     |            |           |
-|        42 | 1RXS J101015.9-311909 |  egal |         hbl |                     |            |           |
-|        43 |          1ES 1011+496 |  egal |         hbl |                     |            |           |
-|        48 |          1ES 1101-232 |  egal |         hbl |                     |            |           |
-|        49 |         Markarian 421 |  egal |         hbl | 2005A&A...437...95A |            |           |
-|        51 |       RX J1136.5+6737 |  egal |         hbl |                     |            |           |
-|        52 |         Markarian 180 |  egal |         hbl |                     |            |           |
-|        53 |          1ES 1215+303 |  egal |         hbl |                     |            |           |
-|        54 |               W Comae |  egal |         ibl |                     |            |           |
-|        55 |          1ES 1218+304 |  egal |         hbl |                     |            |           |
-|        56 |          PKS 1222+216 |  egal |        fsrq |                     |            |           |
-|        57 |         MS1221.8+2452 |  egal |         hbl |                     |            |           |
-|        58 |                  M 87 |  egal |         fri |                     |            |           |
-|        59 |                3C 279 |  egal |        fsrq |                     |            |           |
-|        62 |          1ES 1312-423 |  egal |         hbl |                     |            |           |
-|        63 |           Centaurus A |  egal |         fri |                     |            |           |
-|        67 |          PKS 1424+240 |  egal |         hbl |                     |            |           |
-|        69 |            H 1426+428 |  egal |         hbl |                     |            |           |
-|        71 |          1ES 1440+122 |  egal |         hbl |                     |            |           |
-|        78 |          PKS 1510-089 |  egal |        fsrq |                     |            |           |
-|        80 |             AP Librae |  egal |         lbl | 2015A&A...573A..31H |            |           |
-|        82 |           PG 1553+113 |  egal |         hbl | 2015ApJ...802...65A |            |           |
-|        91 |         Markarian 501 |  egal |         hbl |                     |            |           |
-|       100 |            H 1722+119 |  egal |         hbl |                     |            |           |
-|       101 |          1ES 1727+502 |  egal |         hbl |                     |            |           |
-|       105 |          1ES 1741+196 |  egal |         hbl |                     |            |           |
-|       137 |        HESS J1943+213 |  egal |         hbl | 2011A&A...529A..49H |      point |        pl |
-|       138 |          1ES 1959+650 |  egal |         hbl |                     |            |           |
-|       139 |       MAGIC J2001+435 |  egal |         ibl |                     |            |           |
-|       140 |          PKS 2005-489 |  egal |         hbl |                     |            |           |
-|       147 |          PKS 2155-304 |  egal |         hbl |                     |            |           |
-|       148 |           BL Lacertae |  egal |         lbl |                     |            |           |
-|       151 |         RGB J2243+203 |  egal |         ibl |                     |            |           |
-|       152 |           B3 2247+381 |  egal |         hbl |                     |            |           |
-|       154 |          1ES 2344+514 |  egal |         hbl |                     |            |           |
-|       155 |            H 2356-309 |  egal |         hbl |                     |            |           |
-|         1 |                 CTA 1 |   gal |     pwn,snr | 2013ApJ...764...38A |      gauss |        pl |
-|         3 |             Tycho SNR |   gal |         snr |                     |            |           |
-|         9 |                 3C 58 |   gal |         pwn |                     |            |           |
-|        14 |          LS I +61 303 |   gal |         bin |                     |            |           |
-|        25 |           Crab nebula |   gal |         pwn | 2008ICRC....2..803K |            |           |
-|        29 |                IC 443 |   gal |         snr |                     |            |           |
-|        30 |        HESS J0632+057 |   gal |         bin | 2007A&A...469L...1A |      point |        pl |
-|        31 |               Geminga |   gal |     psr,pwn |                     |            |           |
-|        37 |                Vela X |   gal |         pwn | 2012A&A...548A..38A |      gauss |      ecpl |
-|        39 |           Vela Junior |   gal |         snr | 2016arXiv161101863H |      shell |      ecpl |
-|        44 |      HESS J1018-589 B |   gal |         pwn | 2012A&A...541A...5H |      gauss |        pl |
-|        45 |      HESS J1018-589 A |   gal |         bin | 2015A&A...577A.131H |      point |        pl |
-|        46 |          Westerlund 2 |   gal |        unid | 2011A&A...525A..46H |      gauss |        pl |
-|        47 |        HESS J1026-582 |   gal |         pwn | 2011A&A...525A..46H |      gauss |        pl |
-|        50 |        HESS J1119-614 |   gal |         pwn |                     |            |           |
-|        60 |          PSR B1259-63 |   gal |         bin |                     |            |           |
-|        61 |        HESS J1303-631 |   gal |         pwn | 2012A&A...548A..46H |      gauss |      ecpl |
-|        64 |        HESS J1356-645 |   gal |         pwn | 2011A&A...533A.103H |      gauss |        pl |
-|        65 |        HESS J1418-609 |   gal |         pwn | 2006A&A...456..245A |      gauss |       pl2 |
-|        66 |        HESS J1420-607 |   gal |         pwn | 2006A&A...456..245A |      gauss |       pl2 |
-|        68 |        HESS J1427-608 |   gal |        unid | 2008A&A...477..353A |      gauss |        pl |
-|        70 |                RCW 86 |   gal |         snr | 2016arXiv160104461H |      shell |      ecpl |
-|        72 |        HESS J1457-593 |   gal |      snr,mc |                     |            |           |
-|        73 |        HESS J1458-608 |   gal |         pwn |                     |            |           |
-|        74 |               SN 1006 |   gal |         snr | 2010A&A...516A..62A |            |           |
-|        75 |        HESS J1503-582 |   gal |        unid | 2008AIPC.1085..281R |      gauss |        pl |
-|        77 |        HESS J1507-622 |   gal |        unid | 2011A&A...525A..45H |      gauss |        pl |
-|        79 |           MSH 15-5-02 |   gal |         pwn | 2005A&A...435L..17A |      gauss |        pl |
-|        81 |        SNR G327.1-1.1 |   gal |         pwn | 2011ICRC....7..185A |      gauss |        pl |
-|        83 |        HESS J1614-518 |   gal |        unid | 2006ApJ...636..777A |      gauss |       pl2 |
-|        84 |        HESS J1616-508 |   gal |         pwn | 2006ApJ...636..777A |      gauss |       pl2 |
-|        85 |        HESS J1626-490 |   gal |        unid | 2008A&A...477..353A |      gauss |        pl |
-|        86 |        HESS J1632-478 |   gal |         pwn | 2006ApJ...636..777A |      gauss |       pl2 |
-|        87 |        HESS J1634-472 |   gal |        unid | 2006ApJ...636..777A |      gauss |       pl2 |
-|        88 |        HESS J1640-465 |   gal |         pwn | 2014MNRAS.439.2828A |      gauss |      ecpl |
-|        89 |        HESS J1641-463 |   gal |        unid | 2014ApJ...794L...1A |      point |        pl |
-|        90 |          Westerlund 1 |   gal |        unid | 2012A&A...537A.114A |      gauss |        pl |
-|        92 |        HESS J1702-420 |   gal |        unid | 2008A&A...477..353A |      gauss |        pl |
-|        93 |        HESS J1708-410 |   gal |        unid | 2008A&A...477..353A |      gauss |        pl |
-|        94 |        HESS J1708-443 |   gal |         pwn | 2011A&A...528A.143H |      gauss |        pl |
-|        95 |               CTB 37B |   gal |         snr | 2008A&A...486..829A |      gauss |        pl |
-|        96 |       RX J1713.7-3946 |   gal |         snr | 2016arXiv160908671H |      shell |      ecpl |
-|        97 |               CTB 37A |   gal |      snr,mc | 2008A&A...490..685A |            |           |
-|        98 |        SNR G349.7+0.2 |   gal |      snr,mc | 2015A&A...574A.100H |      point |       pl2 |
-|        99 |        HESS J1718-385 |   gal |         pwn | 2007A&A...472..489A |      gauss |      ecpl |
-|       102 |        HESS J1729-345 |   gal |        unid | 2011A&A...531A..81H |      gauss |        pl |
-|       103 |        HESS J1731-347 |   gal |         snr | 2011A&A...531A..81H |      shell |        pl |
-|       104 |        HESS J1741-302 |   gal |        unid | 2008AIPC.1085..249T |            |           |
-|       106 |       Galactic Centre |   gal |        unid | 2016Natur.531..476H |      point |      ecpl |
-|       107 | Galactic Centre ridge |   gal |        unid |                     |            |           |
-|       108 |        HESS J1745-303 |   gal | unid,snr,mc | 2008A&A...483..509A |      gauss |        pl |
-|       109 |              Terzan 5 |   gal |     unid,gc | 2011A&A...531L..18H |      gauss |        pl |
-|       110 |          SNR G0.9+0.1 |   gal |         pwn | 2005A&A...432L..25A |      point |       pl2 |
-|       111 |       HESS J1800-240A |   gal |      snr,mc |                     |            |           |
-|       112 |                   W28 |   gal |      snr,mc | 2008A&A...481..401A |      gauss |        pl |
-|       113 |        HESS J1804-216 |   gal |        unid | 2006ApJ...636..777A |      gauss |       pl2 |
-|       114 |        HESS J1808-204 |   gal |        unid |                     |            |           |
-|       115 |        HESS J1809-193 |   gal |        unid | 2007A&A...472..489A |      gauss |        pl |
-|       116 |        HESS J1813-178 |   gal |         pwn | 2006ApJ...636..777A |      gauss |       pl2 |
-|       117 |         SNR G15.4+0.1 |   gal |     pwn,snr | 2014A&A...562A..40H |      gauss |        pl |
-|       118 |        HESS J1825-137 |   gal |         pwn | 2006A&A...460..365A |      gauss |      ecpl |
-|       119 |               LS 5039 |   gal |         bin | 2006A&A...460..743A |      point |      ecpl |
-|       120 |        HESS J1831-098 |   gal |    unid,pwn | 2011ICRC....7..244S |      gauss |        pl |
-|       121 |        HESS J1832-093 |   gal |    bin,unid | 2015MNRAS.446.1163H |      gauss |        pl |
-|       122 |        HESS J1833-105 |   gal |         pwn |                     |            |           |
-|       123 |        HESS J1834-087 |   gal |        unid | 2006ApJ...636..777A |      gauss |       pl2 |
-|       124 |        HESS J1837-069 |   gal |         pwn | 2006ApJ...636..777A |      gauss |       pl2 |
-|       125 |        HESS J1841-055 |   gal |        unid | 2008A&A...477..353A |      gauss |        pl |
-|       126 |        HESS J1843-033 |   gal |        unid |                     |            |           |
-|       127 |        HESS J1846-029 |   gal |         pwn |                     |            |           |
-|       128 |        HESS J1848-018 |   gal |        unid | 2008AIPC.1085..372C |      gauss |        pl |
-|       129 |        HESS J1849-000 |   gal |         pwn |                     |            |           |
-|       130 |        HESS J1857+026 |   gal |        unid | 2008A&A...477..353A |      gauss |        pl |
-|       131 |        HESS J1858+020 |   gal |        unid | 2008A&A...477..353A |      gauss |        pl |
-|       132 |         MGRO J1908+06 |   gal |        unid | 2009A&A...499..723A |      gauss |        pl |
-|       133 |                 W 49B |   gal |      snr,mc | 2016arXiv160900600H |      point |        pl |
-|       134 |        HESS J1912+101 |   gal |        unid | 2008A&A...484..435A |      gauss |        pl |
-|       135 |                 W 51C |   gal |      snr,mc |                     |            |           |
-|       136 |       SNR G054.1+00.3 |   gal |     pwn,snr | 2010ApJ...719L..69A |      gauss |        pl |
-|       141 |         VER J2016+371 |   gal |     pwn,snr |                     |            |           |
-|       142 |             Dragonfly |   gal |    pwn,unid |                     |            |           |
-|       143 |         VER J2019+368 |   gal |        unid |                     |            |           |
-|       144 |           Gamma Cygni |   gal |        unid |                     |            |           |
-|       145 |         MGRO J2031+41 |   gal |        unid |                     |            |           |
-|       146 |        TeV J2032+4130 |   gal |        unid |                     |            |           |
-|       150 |         Boomerang PWN |   gal |     pwn,snr |                     |            |           |
-|       153 |          Cassiopeia A |   gal |         snr |                     |            |           |
-|       156 |       HESS J1800-240B |   gal |      snr,mc | 2008A&A...481..401A |      gauss |        pl |
-|       157 |        HESS J1852-000 |   gal |        unid |                     |            |           |
-|       158 |       SNR G323.7-01.0 |   gal |         snr |                     |            |           |
-|       159 |            Arc source |   gal |        unid |                     |            |           |
-|       160 |        HESS J1813-126 |   gal |        unid |                     |            |           |
-|       161 |        HESS J1826-130 |   gal |        unid |                     |            |           |
-|       162 |        HESS J1828-099 |   gal |        unid |                     |            |           |
-|       163 |        HESS J1832-085 |   gal |        unid |                     |            |           |
-|       164 |        HESS J1844-030 |   gal |        unid |                     |            |           |
-|        12 |       MAGIC J0223+403 |  unid |        unid |                     |            |           |
+source_id,common_name,where,classes,reference_id,morph_type,spec_type
+2,SHBL J001355.9-185406,egal,hbl,,,
+4,KUV 00311-1938,egal,hbl,,,
+5,1ES 0033+595,egal,hbl,,,
+6,NGC 253,egal,galaxy,,,
+7,RGB J0136+391,egal,hbl,,,
+8,RGB J0152+017,egal,hbl,,,
+10,S3 0218+35,egal,blazar,,,
+11,3C 66A,egal,ibl,,,
+13,1ES 0229+200,egal,hbl,,,
+15,PKS 0301-243,egal,hbl,,,
+16,IC 310,egal,hbl,,,
+17,RBS 0413,egal,hbl,,,
+18,NGC 1275,egal,fri,,,
+19,1ES 0347-121,egal,hbl,,,
+20,1ES 0414+009,egal,hbl,,,
+21,PKS 0447-439,egal,hbl,,,
+22,1ES 0502+675,egal,hbl,,,
+23,RGB J0521+212,egal,ibl,,,
+24,LMC N132D,egal,"snr,mc",2015Sci...347..406H,,
+26,30 Dor C,egal,other,2015Sci...347..406H,,
+27,N 157B,egal,pwn,2015Sci...347..406H,,
+28,PKS 0548-322,egal,hbl,,,
+32,RX J0648.7+1516,egal,hbl,,,
+33,1ES 0647+250,egal,hbl,,,
+34,RGB J0710+591,egal,hbl,,,
+35,S5 0716+714,egal,ibl,,,
+36,1ES 0806+524,egal,hbl,,,
+38,RBS 0723,egal,hbl,,,
+40,M 82,egal,galaxy,,,
+41,S4 0954+65,egal,blazar,,,
+42,1RXS J101015.9-311909,egal,hbl,,,
+43,1ES 1011+496,egal,hbl,,,
+48,1ES 1101-232,egal,hbl,,,
+49,Markarian 421,egal,hbl,2005A&A...437...95A,,
+51,RX J1136.5+6737,egal,hbl,,,
+52,Markarian 180,egal,hbl,,,
+53,1ES 1215+303,egal,hbl,,,
+54,W Comae,egal,ibl,,,
+55,1ES 1218+304,egal,hbl,,,
+56,PKS 1222+216,egal,fsrq,,,
+57,MS1221.8+2452,egal,hbl,,,
+58,M 87,egal,fri,,,
+59,3C 279,egal,fsrq,,,
+62,1ES 1312-423,egal,hbl,,,
+63,Centaurus A,egal,fri,,,
+67,PKS 1424+240,egal,hbl,,,
+69,H 1426+428,egal,hbl,,,
+71,1ES 1440+122,egal,hbl,,,
+78,PKS 1510-089,egal,fsrq,,,
+80,AP Librae,egal,lbl,2015A&A...573A..31H,,
+82,PG 1553+113,egal,hbl,2015ApJ...802...65A,,
+91,Markarian 501,egal,hbl,,,
+100,H 1722+119,egal,hbl,,,
+101,1ES 1727+502,egal,hbl,,,
+105,1ES 1741+196,egal,hbl,,,
+137,HESS J1943+213,egal,hbl,2011A&A...529A..49H,point,pl
+138,1ES 1959+650,egal,hbl,,,
+139,MAGIC J2001+435,egal,ibl,,,
+140,PKS 2005-489,egal,hbl,,,
+147,PKS 2155-304,egal,hbl,,,
+148,BL Lacertae,egal,lbl,,,
+151,RGB J2243+203,egal,ibl,,,
+152,B3 2247+381,egal,hbl,,,
+154,1ES 2344+514,egal,hbl,,,
+155,H 2356-309,egal,hbl,,,
+1,CTA 1,gal,"pwn,snr",2013ApJ...764...38A,gauss,pl
+3,Tycho SNR,gal,snr,,,
+9,3C 58,gal,pwn,,,
+14,LS I +61 303,gal,bin,,,
+25,Crab nebula,gal,pwn,2008ICRC....2..803K,,
+29,IC 443,gal,snr,,,
+30,HESS J0632+057,gal,bin,2007A&A...469L...1A,point,pl
+31,Geminga,gal,"psr,pwn",,,
+37,Vela X,gal,pwn,2012A&A...548A..38A,gauss,ecpl
+39,Vela Junior,gal,snr,2016arXiv161101863H,shell,ecpl
+44,HESS J1018-589 B,gal,pwn,2012A&A...541A...5H,gauss,pl
+45,HESS J1018-589 A,gal,bin,2015A&A...577A.131H,point,pl
+46,Westerlund 2,gal,unid,2011A&A...525A..46H,gauss,pl
+47,HESS J1026-582,gal,pwn,2011A&A...525A..46H,gauss,pl
+50,HESS J1119-614,gal,pwn,,,
+60,PSR B1259-63,gal,bin,,,
+61,HESS J1303-631,gal,pwn,2012A&A...548A..46H,gauss,ecpl
+64,HESS J1356-645,gal,pwn,2011A&A...533A.103H,gauss,pl
+65,HESS J1418-609,gal,pwn,2006A&A...456..245A,gauss,pl2
+66,HESS J1420-607,gal,pwn,2006A&A...456..245A,gauss,pl2
+68,HESS J1427-608,gal,unid,2008A&A...477..353A,gauss,pl
+70,RCW 86,gal,snr,2016arXiv160104461H,shell,ecpl
+72,HESS J1457-593,gal,"snr,mc",,,
+73,HESS J1458-608,gal,pwn,,,
+74,SN 1006,gal,snr,2010A&A...516A..62A,,
+75,HESS J1503-582,gal,unid,2008AIPC.1085..281R,gauss,pl
+77,HESS J1507-622,gal,unid,2011A&A...525A..45H,gauss,pl
+79,MSH 15-5-02,gal,pwn,2005A&A...435L..17A,gauss,pl
+81,SNR G327.1-1.1,gal,pwn,2011ICRC....7..185A,gauss,pl
+83,HESS J1614-518,gal,unid,2006ApJ...636..777A,gauss,pl2
+84,HESS J1616-508,gal,pwn,2006ApJ...636..777A,gauss,pl2
+85,HESS J1626-490,gal,unid,2008A&A...477..353A,gauss,pl
+86,HESS J1632-478,gal,pwn,2006ApJ...636..777A,gauss,pl2
+87,HESS J1634-472,gal,unid,2006ApJ...636..777A,gauss,pl2
+88,HESS J1640-465,gal,pwn,2014MNRAS.439.2828A,gauss,ecpl
+89,HESS J1641-463,gal,unid,2014ApJ...794L...1A,point,pl
+90,Westerlund 1,gal,unid,2012A&A...537A.114A,gauss,pl
+92,HESS J1702-420,gal,unid,2008A&A...477..353A,gauss,pl
+93,HESS J1708-410,gal,unid,2008A&A...477..353A,gauss,pl
+94,HESS J1708-443,gal,pwn,2011A&A...528A.143H,gauss,pl
+95,CTB 37B,gal,snr,2008A&A...486..829A,gauss,pl
+96,RX J1713.7-3946,gal,snr,2016arXiv160908671H,shell,ecpl
+97,CTB 37A,gal,"snr,mc",2008A&A...490..685A,,
+98,SNR G349.7+0.2,gal,"snr,mc",2015A&A...574A.100H,point,pl2
+99,HESS J1718-385,gal,pwn,2007A&A...472..489A,gauss,ecpl
+102,HESS J1729-345,gal,unid,2011A&A...531A..81H,gauss,pl
+103,HESS J1731-347,gal,snr,2011A&A...531A..81H,shell,pl
+104,HESS J1741-302,gal,unid,2008AIPC.1085..249T,,
+106,Galactic Centre,gal,unid,2016Natur.531..476H,point,ecpl
+107,Galactic Centre ridge,gal,unid,,,
+108,HESS J1745-303,gal,"unid,snr,mc",2008A&A...483..509A,gauss,pl
+109,Terzan 5,gal,"unid,gc",2011A&A...531L..18H,gauss,pl
+110,SNR G0.9+0.1,gal,pwn,2005A&A...432L..25A,point,pl2
+111,HESS J1800-240A,gal,"snr,mc",,,
+112,W28,gal,"snr,mc",2008A&A...481..401A,gauss,pl
+113,HESS J1804-216,gal,unid,2006ApJ...636..777A,gauss,pl2
+114,HESS J1808-204,gal,unid,,,
+115,HESS J1809-193,gal,unid,2007A&A...472..489A,gauss,pl
+116,HESS J1813-178,gal,pwn,2006ApJ...636..777A,gauss,pl2
+117,SNR G15.4+0.1,gal,"pwn,snr",2014A&A...562A..40H,gauss,pl
+118,HESS J1825-137,gal,pwn,2006A&A...460..365A,gauss,ecpl
+119,LS 5039,gal,bin,2006A&A...460..743A,point,ecpl
+120,HESS J1831-098,gal,"unid,pwn",2011ICRC....7..244S,gauss,pl
+121,HESS J1832-093,gal,"bin,unid",2015MNRAS.446.1163H,gauss,pl
+122,HESS J1833-105,gal,pwn,,,
+123,HESS J1834-087,gal,unid,2006ApJ...636..777A,gauss,pl2
+124,HESS J1837-069,gal,pwn,2006ApJ...636..777A,gauss,pl2
+125,HESS J1841-055,gal,unid,2008A&A...477..353A,gauss,pl
+126,HESS J1843-033,gal,unid,,,
+127,HESS J1846-029,gal,pwn,,,
+128,HESS J1848-018,gal,unid,2008AIPC.1085..372C,gauss,pl
+129,HESS J1849-000,gal,pwn,,,
+130,HESS J1857+026,gal,unid,2008A&A...477..353A,gauss,pl
+131,HESS J1858+020,gal,unid,2008A&A...477..353A,gauss,pl
+132,MGRO J1908+06,gal,unid,2009A&A...499..723A,gauss,pl
+133,W 49B,gal,"snr,mc",2016arXiv160900600H,point,pl
+134,HESS J1912+101,gal,unid,2008A&A...484..435A,gauss,pl
+135,W 51C,gal,"snr,mc",,,
+136,SNR G054.1+00.3,gal,"pwn,snr",2010ApJ...719L..69A,gauss,pl
+141,VER J2016+371,gal,"pwn,snr",,,
+142,Dragonfly,gal,"pwn,unid",,,
+143,VER J2019+368,gal,unid,,,
+144,Gamma Cygni,gal,unid,,,
+145,MGRO J2031+41,gal,unid,,,
+146,TeV J2032+4130,gal,unid,,,
+150,Boomerang PWN,gal,"pwn,snr",,,
+153,Cassiopeia A,gal,snr,,,
+156,HESS J1800-240B,gal,"snr,mc",2008A&A...481..401A,gauss,pl
+157,HESS J1852-000,gal,unid,,,
+158,SNR G323.7-01.0,gal,snr,,,
+159,Arc source,gal,unid,,,
+160,HESS J1813-126,gal,unid,,,
+161,HESS J1826-130,gal,unid,,,
+162,HESS J1828-099,gal,unid,,,
+163,HESS J1832-085,gal,unid,,,
+164,HESS J1844-030,gal,unid,,,
+12,MAGIC J0223+403,unid,unid,,,
