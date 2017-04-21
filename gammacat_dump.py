@@ -12,6 +12,7 @@ from pprint import pprint
 
 import astropy.units as u
 from gammapy.catalog import SourceCatalogGammaCat
+from gammapy.catalog.gammacat import NoDataAvailableError
 
 import matplotlib
 
@@ -95,15 +96,16 @@ class GammaCatDump:
         energy_range = [0.2, 50] * u.TeV
         energy_power = 2
 
-
+        opts = dict(energy_power=energy_power, flux_unit='erg-1 cm-2 s-1', color='k')
         try:
-            source.spectral_model.plot(energy_range=energy_range, energy_power=energy_power)
-        except ValueError:
-            print('Missing spectral model for {}'.format(title))
+            source.spectral_model.plot_error(energy_range=energy_range, alpha=0.2, **opts)
+            source.spectral_model.plot(energy_range=energy_range, alpha=0.5, **opts)
+        except NoDataAvailableError:
+            print('No spectral model: {}'.format(title))
         try:
-            source.flux_points.plot(energy_power=energy_power)
-        except KeyError as exc:
-            print('ERROR', type(exc), exc)
+            source.flux_points.plot(**opts)
+        except NoDataAvailableError:
+            print('No flux points: {}'.format(title))
 
         plt.title(title)
         plt.loglog()

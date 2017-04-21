@@ -2,8 +2,8 @@ Source: HESS J1640-465
 source_id: 88
 reference_id: 2014MNRAS.439.2828A
 
-RA (J2000)  : 250.12 deg
-Dec (J2000) : -46.55 deg
+RA          : 250.12 deg
+DEC         : -46.55 deg
 GLON        : 338.28 deg
 GLAT        : -0.00 deg
 
@@ -50,26 +50,34 @@ OrderedDict([('source_id', 88),
              ('spec_erange_max', <Quantity nan TeV>),
              ('spec_theta', <Quantity nan deg>),
              ('spec_ref', <Quantity 1.0 TeV>),
-             ('spec_norm', 3.3e-12),
-             ('spec_norm_err', 9.9999998e-14),
-             ('spec_norm_err_sys', 5.9999998e-13),
-             ('spec_norm_err_tot', nan),
-             ('spec_norm_1TeV', nan),
-             ('spec_norm_1TeV_err', nan),
+             ('spec_norm', <Quantity 3.3000000301819377e-12 1 / (cm2 s TeV)>),
+             ('spec_norm_err', <Quantity 9.9999998245167e-14 1 / (cm2 s TeV)>),
+             ('spec_norm_err_sys',
+              <Quantity 5.999999759184749e-13 1 / (cm2 s TeV)>),
+             ('spec_norm_err_tot',
+              <Quantity 6.08276233202143e-13 1 / (cm2 s TeV)>),
+             ('spec_norm_1TeV',
+              <Quantity 2.793389651534195e-12 1 / (cm2 s TeV)>),
+             ('spec_norm_1TeV_err',
+              <Quantity 1.7677309269159558e-13 1 / (cm2 s TeV)>),
              ('spec_index', 2.1099999),
              ('spec_index_err', 0.090000004),
              ('spec_index_err_sys', 0.1),
-             ('spec_index_err_tot', nan),
+             ('spec_index_err_tot', 0.13453624),
              ('spec_ecut', <Quantity 6.0 TeV>),
-             ('spec_ecut_err', 2.0),
-             ('spec_flux_above_1TeV', <Quantity nan 1 / (cm2 s)>),
-             ('spec_flux_above_1TeV_err', <Quantity nan 1 / (cm2 s)>),
-             ('spec_flux_above_1TeV_crab', nan),
-             ('spec_flux_above_1TeV_crab_err', nan),
+             ('spec_ecut_err', <Quantity 2.0 TeV>),
+             ('spec_flux_above_1TeV',
+              <Quantity 1.9056416600965465e-12 1 / (cm2 s)>),
+             ('spec_flux_above_1TeV_err',
+              <Quantity 2.5448249735791906e-13 1 / (cm2 s)>),
+             ('spec_flux_above_1TeV_crab', 9.1862783),
+             ('spec_flux_above_1TeV_crab_err', 1.2267507),
              ('spec_flux_above_erange_min', <Quantity nan 1 / (cm2 s)>),
              ('spec_flux_above_erange_min_err', <Quantity nan 1 / (cm2 s)>),
-             ('spec_energy_flux_1TeV_10TeV', <Quantity nan TeV / (cm2 s)>),
-             ('spec_energy_flux_1TeV_10TeV_err', <Quantity nan TeV / (cm2 s)>),
+             ('spec_energy_flux_1TeV_10TeV',
+              <Quantity 4.0684608459962135e-12 TeV / (cm2 s)>),
+             ('spec_energy_flux_1TeV_10TeV_err',
+              <Quantity 8.663315832942164e-13 TeV / (cm2 s)>),
              ('sed_reference_id', '2014MNRAS.439.2828A'),
              ('sed_e_ref',
               <Quantity [  0.29030001,  0.35100001,  0.4237    ,  0.5104    ,
@@ -157,4 +165,4 @@ OrderedDict([('source_id', 88),
                         nan,             nan,             nan,
                         nan,             nan,             nan,
                         nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 88)])
+             ('catalog_row_index', 87)])

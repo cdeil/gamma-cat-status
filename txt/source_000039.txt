@@ -2,8 +2,8 @@ Source: Vela Junior
 source_id: 39
 reference_id: 2016arXiv161101863H
 
-RA (J2000)  : 133.00 deg
-Dec (J2000) : -46.33 deg
+RA          : 133.00 deg
+DEC         : -46.33 deg
 GLON        : 266.26 deg
 GLAT        : -1.22 deg
 
@@ -51,26 +51,35 @@ OrderedDict([('source_id', 39),
              ('spec_erange_max', <Quantity 30.0 TeV>),
              ('spec_theta', <Quantity 1.0 deg>),
              ('spec_ref', <Quantity 1.0 TeV>),
-             ('spec_norm', 3.2163001e-11),
-             ('spec_norm_err', 1.4643e-12),
-             ('spec_norm_err_sys', nan),
-             ('spec_norm_err_tot', nan),
-             ('spec_norm_1TeV', nan),
-             ('spec_norm_1TeV_err', nan),
+             ('spec_norm', <Quantity 3.2163001428830995e-11 1 / (cm2 s TeV)>),
+             ('spec_norm_err',
+              <Quantity 1.4643000353919966e-12 1 / (cm2 s TeV)>),
+             ('spec_norm_err_sys', <Quantity nan 1 / (cm2 s TeV)>),
+             ('spec_norm_err_tot', <Quantity nan 1 / (cm2 s TeV)>),
+             ('spec_norm_1TeV',
+              <Quantity 2.7691259008033597e-11 1 / (cm2 s TeV)>),
+             ('spec_norm_1TeV_err',
+              <Quantity 1.4757228642206521e-12 1 / (cm2 s TeV)>),
              ('spec_index', 1.8118),
              ('spec_index_err', 0.081600003),
              ('spec_index_err_sys', nan),
              ('spec_index_err_tot', nan),
              ('spec_ecut', <Quantity 6.68002986907959 TeV>),
-             ('spec_ecut_err', 1.23605),
-             ('spec_flux_above_1TeV', <Quantity nan 1 / (cm2 s)>),
-             ('spec_flux_above_1TeV_err', <Quantity nan 1 / (cm2 s)>),
-             ('spec_flux_above_1TeV_crab', nan),
-             ('spec_flux_above_1TeV_crab_err', nan),
-             ('spec_flux_above_erange_min', <Quantity nan 1 / (cm2 s)>),
-             ('spec_flux_above_erange_min_err', <Quantity nan 1 / (cm2 s)>),
-             ('spec_energy_flux_1TeV_10TeV', <Quantity nan TeV / (cm2 s)>),
-             ('spec_energy_flux_1TeV_10TeV_err', <Quantity nan TeV / (cm2 s)>),
+             ('spec_ecut_err', <Quantity 1.236050009727478 TeV>),
+             ('spec_flux_above_1TeV',
+              <Quantity 2.3394971723766922e-11 1 / (cm2 s)>),
+             ('spec_flux_above_1TeV_err',
+              <Quantity 2.346073639178381e-12 1 / (cm2 s)>),
+             ('spec_flux_above_1TeV_crab', 112.7771),
+             ('spec_flux_above_1TeV_crab_err', 11.309412),
+             ('spec_flux_above_erange_min',
+              <Quantity 7.994716000325752e-11 1 / (cm2 s)>),
+             ('spec_flux_above_erange_min_err',
+              <Quantity 4.7338391886975195e-12 1 / (cm2 s)>),
+             ('spec_energy_flux_1TeV_10TeV',
+              <Quantity 5.810725164923092e-11 TeV / (cm2 s)>),
+             ('spec_energy_flux_1TeV_10TeV_err',
+              <Quantity 9.410248621999351e-12 TeV / (cm2 s)>),
              ('sed_reference_id', '2016arXiv161101863H'),
              ('sed_e_ref',
               <Quantity [  0.40740001,  0.57050002,  0.82639998,  1.21099997,
@@ -148,4 +157,4 @@ OrderedDict([('source_id', 39),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 39)])
+             ('catalog_row_index', 38)])
