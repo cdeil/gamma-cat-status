@@ -112,3 +112,7 @@ OrderedDict([('source_id', 19),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
              ('catalog_row_index', 18)])
+
+===
+
+No flux points available.

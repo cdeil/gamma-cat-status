@@ -4,7 +4,7 @@ Dump gamma-cat to plots and printouts
 import os
 import json
 from pprint import pprint
-
+import logging
 # import sys
 # gammacat_path = os.environ['GAMMA_CAT']
 # sys.path.append(gammacat_path)
@@ -20,15 +20,16 @@ matplotlib.use('agg')
 
 import matplotlib.pyplot as plt
 
-
 # plt.style.use('ggplot')
+
+log = logging.getLogger(__name__)
 
 
 class GammaCatDump:
     def __init__(self, row_idxs=None):
         folder = os.environ['GAMMA_CAT']
         filename = os.path.join(folder, 'docs/data/gammacat.fits.gz')
-        print('Reading {}'.format(filename))
+        log.info('Reading {}'.format(filename))
         self.cat = SourceCatalogGammaCat(filename)
 
         all_row_idxs = list(range(len(self.cat.table)))
@@ -66,11 +67,19 @@ class GammaCatDump:
         text = str(source)
 
         filename = 'txt/source_{:06d}.txt'.format(source_id)
-        print('Writing {}'.format(filename))
+        log.info('Writing {}'.format(filename))
         with open(filename, 'w') as fh:
             fh.write(text)
             fh.write('\n===\n\n')
             pprint(source.data, stream=fh)
+            fh.write('\n===\n\n')
+            try:
+                lines = source.flux_points.table.pformat(-1)
+                fh.write('\n'.join(lines))
+            except NoDataAvailableError:
+                fh.write('No flux points available.')
+            except ValueError:
+                log.error('Invalid SED for: source_id={}'.format(source_id))
 
     def make_json_one(self, row_idx):
         source = self.cat[row_idx]
@@ -78,7 +87,7 @@ class GammaCatDump:
         text = json.dumps(source.data, indent=4)
 
         filename = 'json/source_{:06d}.json'.format(source_id)
-        print('Writing {}'.format(filename))
+        log.info('Writing {}'.format(filename))
         with open(filename, 'w') as fh:
             fh.write(text)
 
@@ -101,25 +110,35 @@ class GammaCatDump:
             source.spectral_model.plot_error(energy_range=energy_range, alpha=0.2, **opts)
             source.spectral_model.plot(energy_range=energy_range, alpha=0.5, **opts)
         except NoDataAvailableError:
-            print('No spectral model: {}'.format(title))
+            log.debug('No spectral model: {}'.format(title))
         try:
+            # TODO: move this logic to the FluxPoints.plot()
+            fp = source.flux_points
+            # if 'dnde_errn' not in fp.table.colnames:
+            #     fp.table['dnde_errn'] = fp.table['dnde_err']
+            # if 'dnde_errp' not in fp.table.colnames:
+            #     fp.table['dnde_errp'] = fp.table['dnde_err']
             source.flux_points.plot(**opts)
         except NoDataAvailableError:
-            print('No flux points: {}'.format(title))
+            log.debug('No flux points: {}'.format(title))
+        except ValueError:
+            log.error('Invalid SED for: source_id={}'.format(source_id))
 
         plt.title(title)
         plt.loglog()
 
         filename = 'sed_png/source_{:06d}.png'.format(source_id)
-        print('Writing {}'.format(filename))
+        log.info('Writing {}'.format(filename))
         plt.savefig(filename)
         # import IPython; IPython.embed()
 
 
 if __name__ == '__main__':
+    logging.basicConfig(level=logging.INFO)
     # row_idxs = [42, 24, 99]
     # row_idxs = list(range(30))
     row_idxs = None
+    # row_idxs = [77]
     dump = GammaCatDump(row_idxs=row_idxs)
     dump.make_txt_all()
     # JSON serialisation doesn't work at the moment

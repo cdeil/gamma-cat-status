@@ -157,3 +157,16 @@ OrderedDict([('source_id', 136),
                         nan,             nan,             nan,
                         nan] 1 / (cm2 s TeV)>),
              ('catalog_row_index', 143)])
+
+===
+
+ e_ref        dnde          dnde_err        dnde_ul    
+  TeV   1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
+------- --------------- --------------- ---------------
+0.31071       1.098e-11     5.66021e-12             nan
+0.49244     4.23584e-12     1.43402e-12             nan
+0.78047     1.11824e-12     4.53778e-13             nan
+1.23697     6.16714e-13     1.65801e-13             nan
+1.96046             nan             nan     2.89359e-13
+3.10712     3.94788e-14     2.11699e-14             nan
+4.92446             nan             nan     3.80571e-14
