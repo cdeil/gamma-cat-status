@@ -126,6 +126,7 @@ class GammaCatDump:
 
         plt.title(title)
         plt.loglog()
+        plt.grid()
 
         filename = 'sed_png/source_{:06d}.png'.format(source_id)
         log.info('Writing {}'.format(filename))
