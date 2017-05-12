@@ -106,11 +106,13 @@ class GammaCatDump:
         energy_power = 2
 
         opts = dict(energy_power=energy_power, flux_unit='erg-1 cm-2 s-1', color='k')
-        try:
+
+        if source.data['spec_type'] != 'none':
             source.spectral_model.plot_error(energy_range=energy_range, alpha=0.2, **opts)
             source.spectral_model.plot(energy_range=energy_range, alpha=0.5, **opts)
-        except NoDataAvailableError:
+        else:
             log.debug('No spectral model: {}'.format(title))
+
         try:
             # TODO: move this logic to the FluxPoints.plot()
             fp = source.flux_points
@@ -131,7 +133,6 @@ class GammaCatDump:
         filename = 'sed_png/source_{:06d}.png'.format(source_id)
         log.info('Writing {}'.format(filename))
         plt.savefig(filename)
-        # import IPython; IPython.embed()
 
 
 if __name__ == '__main__':
