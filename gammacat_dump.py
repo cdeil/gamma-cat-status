@@ -5,11 +5,6 @@ import os
 import json
 from pprint import pprint
 import logging
-# import sys
-# gammacat_path = os.environ['GAMMA_CAT']
-# sys.path.append(gammacat_path)
-# from gammacat.utils import write_json
-
 import astropy.units as u
 from gammapy.catalog import SourceCatalogGammaCat
 from gammapy.catalog.gammacat import NoDataAvailableError
@@ -19,8 +14,6 @@ import matplotlib
 matplotlib.use('agg')
 
 import matplotlib.pyplot as plt
-
-# plt.style.use('ggplot')
 
 log = logging.getLogger(__name__)
 
