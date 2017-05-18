@@ -1,6 +1,6 @@
 Source: TeV J2032+4130
 source_id: 146
-reference_id: 
+reference_id: 2012ApJ...753..159A
 
 RA          : 308.02 deg
 DEC         : 41.57 deg
@@ -25,7 +25,7 @@ OrderedDict([('source_id', 146),
              ('tevcat_name', 'TeV J2032+415'),
              ('tgevcat_id', 146),
              ('tgevcat_name', 'TeV J2031+4133'),
-             ('reference_id', ''),
+             ('reference_id', '2012ApJ...753..159A'),
              ('significance', nan),
              ('livetime', <Quantity nan h>),
              ('ra', <Quantity 308.0249938964844 deg>),

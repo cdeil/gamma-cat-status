@@ -1,6 +1,6 @@
 Source: VER J2019+368
 source_id: 143
-reference_id: 
+reference_id: 2012ApJ...753..159A
 
 RA          : 304.01 deg
 DEC         : 37.20 deg
@@ -25,7 +25,7 @@ OrderedDict([('source_id', 143),
              ('tevcat_name', 'TeV J2019+368'),
              ('tgevcat_id', 143),
              ('tgevcat_name', 'TeV J2019+3648'),
-             ('reference_id', ''),
+             ('reference_id', '2012ApJ...753..159A'),
              ('significance', nan),
              ('livetime', <Quantity nan h>),
              ('ra', <Quantity 304.00830078125 deg>),
