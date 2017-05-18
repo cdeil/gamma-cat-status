@@ -133,15 +133,35 @@ OrderedDict([('source_id', 74),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
              ('sed_dnde_errp',
-              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan] 1 / (cm2 s TeV)>),
+              <Quantity [  1.18560001e-12,  2.08999999e-13,  4.38999999e-14,
+             1.29400004e-14,  3.23899999e-15,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan] 1 / (cm2 s TeV)>),
              ('sed_dnde_errn',
-              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan] 1 / (cm2 s TeV)>),
+              <Quantity [  7.35400022e-13,  2.05299997e-13,  4.27200017e-14,
+             1.24500003e-14,  1.83829994e-15,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan] 1 / (cm2 s TeV)>),
              ('sed_dnde_ul',
               <Quantity [             nan,             nan,             nan,
                         nan,             nan,  4.34500003e-16,
@@ -161,13 +181,13 @@ OrderedDict([('source_id', 74),
 
 ===
 
-e_ref        dnde          dnde_ul    
- TeV   1 / (cm2 s TeV) 1 / (cm2 s TeV)
------- --------------- ---------------
-0.2943       8.844e-13             nan
-0.5617       1.001e-12             nan
- 1.189       1.363e-13             nan
- 2.524       4.217e-14             nan
- 5.547       2.186e-15             nan
- 15.16             nan       4.345e-16
- 49.63             nan       3.964e-17
+e_ref        dnde         dnde_errn       dnde_errp        dnde_ul    
+ TeV   1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
+------ --------------- --------------- --------------- ---------------
+0.2943       8.844e-13       7.354e-13      1.1856e-12             nan
+0.5617       1.001e-12       2.053e-13        2.09e-13             nan
+ 1.189       1.363e-13       4.272e-14        4.39e-14             nan
+ 2.524       4.217e-14       1.245e-14       1.294e-14             nan
+ 5.547       2.186e-15      1.8383e-15       3.239e-15             nan
+ 15.16             nan             nan             nan       4.345e-16
+ 49.63             nan             nan             nan       3.964e-17

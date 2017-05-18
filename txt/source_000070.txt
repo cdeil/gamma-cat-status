@@ -134,15 +134,35 @@ OrderedDict([('source_id', 70),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
              ('sed_dnde_errp',
-              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan] 1 / (cm2 s TeV)>),
+              <Quantity [  4.95200018e-12,  2.01700007e-12,  1.18200003e-12,
+             7.87000022e-13,  5.10999988e-13,  3.38999987e-13,
+             2.45999998e-13,  1.60999998e-13,  1.16100001e-13,
+             8.24999994e-14,  5.89000013e-14,  4.27999988e-14,
+             2.96899990e-14,  2.27900008e-14,  1.04440001e-14,
+             6.31300008e-15,  4.34999996e-15,  8.02000017e-16,
+             2.26899993e-17,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan] 1 / (cm2 s TeV)>),
              ('sed_dnde_errn',
-              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan] 1 / (cm2 s TeV)>),
+              <Quantity [  4.80400008e-12,  1.98299992e-12,  1.15899998e-12,
+             7.71000017e-13,  5.01000012e-13,  3.31999998e-13,
+             2.41000010e-13,  1.56299995e-13,  1.12699997e-13,
+             7.99000013e-14,  5.68000000e-14,  4.12000010e-14,
+             2.83199994e-14,  2.16499995e-14,  7.14300005e-15,
+             4.84600001e-15,  3.09700000e-15,  7.30900019e-16,
+             1.15909999e-17,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan] 1 / (cm2 s TeV)>),
              ('sed_dnde_ul',
               <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
@@ -152,25 +172,25 @@ OrderedDict([('source_id', 70),
 
 ===
 
-e_ref        dnde     
- TeV   1 / (cm2 s TeV)
------- ---------------
-0.4818       8.908e-12
-0.5662        6.78e-12
-0.6923       5.669e-12
- 0.842       5.694e-12
- 1.018       3.012e-12
- 1.228       1.802e-12
- 1.481       1.592e-12
- 1.792       7.422e-13
- 2.172       6.864e-13
- 2.635       4.584e-13
- 3.198       2.324e-13
- 3.899       1.607e-13
- 4.714       5.858e-14
- 5.693       8.041e-14
- 7.359       9.076e-15
- 10.38       6.687e-15
- 14.97        4.05e-15
- 22.66       1.304e-15
- 33.91       1.346e-17
+e_ref        dnde         dnde_errn       dnde_errp   
+ TeV   1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
+------ --------------- --------------- ---------------
+0.4818       8.908e-12       4.804e-12       4.952e-12
+0.5662        6.78e-12       1.983e-12       2.017e-12
+0.6923       5.669e-12       1.159e-12       1.182e-12
+ 0.842       5.694e-12        7.71e-13        7.87e-13
+ 1.018       3.012e-12        5.01e-13        5.11e-13
+ 1.228       1.802e-12        3.32e-13        3.39e-13
+ 1.481       1.592e-12        2.41e-13        2.46e-13
+ 1.792       7.422e-13       1.563e-13        1.61e-13
+ 2.172       6.864e-13       1.127e-13       1.161e-13
+ 2.635       4.584e-13        7.99e-14        8.25e-14
+ 3.198       2.324e-13        5.68e-14        5.89e-14
+ 3.899       1.607e-13        4.12e-14        4.28e-14
+ 4.714       5.858e-14       2.832e-14       2.969e-14
+ 5.693       8.041e-14       2.165e-14       2.279e-14
+ 7.359       9.076e-15       7.143e-15      1.0444e-14
+ 10.38       6.687e-15       4.846e-15       6.313e-15
+ 14.97        4.05e-15       3.097e-15        4.35e-15
+ 22.66       1.304e-15       7.309e-16        8.02e-16
+ 33.91       1.346e-17      1.1591e-17       2.269e-17

@@ -101,15 +101,23 @@ OrderedDict([('source_id', 121),
                    nan,        nan,        nan,        nan,        nan,
                    nan,        nan,        nan,        nan,        nan] TeV>),
              ('sed_e_min',
-              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan] TeV>),
+              <Quantity [ 0.40000001, 0.60939997, 0.92830002, 1.41419995, 2.15440011,
+            3.28209996,        nan,        nan,        nan,        nan,
+                   nan,        nan,        nan,        nan,        nan,
+                   nan,        nan,        nan,        nan,        nan,
+                   nan,        nan,        nan,        nan,        nan,
+                   nan,        nan,        nan,        nan,        nan,
+                   nan,        nan,        nan,        nan,        nan,
+                   nan,        nan,        nan,        nan,        nan] TeV>),
              ('sed_e_max',
-              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan] TeV>),
+              <Quantity [ 0.60939997, 0.92830002, 1.41419995, 2.15440011, 3.28209996,
+            5.        ,        nan,        nan,        nan,        nan,
+                   nan,        nan,        nan,        nan,        nan,
+                   nan,        nan,        nan,        nan,        nan,
+                   nan,        nan,        nan,        nan,        nan,
+                   nan,        nan,        nan,        nan,        nan,
+                   nan,        nan,        nan,        nan,        nan,
+                   nan,        nan,        nan,        nan,        nan] TeV>),
              ('sed_dnde',
               <Quantity [  2.83999994e-12,  1.36000000e-12,  3.48000003e-13,
              8.64000034e-14,  6.09000019e-14,  1.21000003e-14,
@@ -169,12 +177,12 @@ OrderedDict([('source_id', 121),
 
 ===
 
-e_ref        dnde         dnde_errn       dnde_errp   
- TeV   1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
------- --------------- --------------- ---------------
-0.4758        2.84e-12        1.08e-12        1.08e-12
-0.7246        1.36e-12        3.84e-13        3.84e-13
-1.1034        3.48e-13        1.51e-13        1.51e-13
-1.6803        8.64e-14        4.86e-14        4.92e-14
- 2.559        6.09e-14        2.67e-14        2.66e-14
- 3.897        1.21e-14        7.37e-15        7.68e-15
+e_ref  e_min  e_max        dnde         dnde_errn       dnde_errp   
+ TeV    TeV    TeV   1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
+------ ------ ------ --------------- --------------- ---------------
+0.4758    0.4 0.6094        2.84e-12        1.08e-12        1.08e-12
+0.7246 0.6094 0.9283        1.36e-12        3.84e-13        3.84e-13
+1.1034 0.9283 1.4142        3.48e-13        1.51e-13        1.51e-13
+1.6803 1.4142 2.1544        8.64e-14        4.86e-14        4.92e-14
+ 2.559 2.1544 3.2821        6.09e-14        2.67e-14        2.66e-14
+ 3.897 3.2821    5.0        1.21e-14        7.37e-15        7.68e-15

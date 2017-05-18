@@ -104,15 +104,27 @@ OrderedDict([('source_id', 89),
                     nan,         nan,         nan,         nan,
                     nan,         nan,         nan,         nan] TeV>),
              ('sed_e_min',
-              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan] TeV>),
+              <Quantity [  0.56230003,  1.00039995,  1.77859998,  3.16300011,
+             5.62300014,  9.99800014, 17.78300095,         nan,
+                    nan,         nan,         nan,         nan,
+                    nan,         nan,         nan,         nan,
+                    nan,         nan,         nan,         nan,
+                    nan,         nan,         nan,         nan,
+                    nan,         nan,         nan,         nan,
+                    nan,         nan,         nan,         nan,
+                    nan,         nan,         nan,         nan,
+                    nan,         nan,         nan,         nan] TeV>),
              ('sed_e_max',
-              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan] TeV>),
+              <Quantity [  1.        ,  1.77869999,  3.16260004,  5.62400007,
+            10.        , 17.78100014, 31.62299919,         nan,
+                    nan,         nan,         nan,         nan,
+                    nan,         nan,         nan,         nan,
+                    nan,         nan,         nan,         nan,
+                    nan,         nan,         nan,         nan,
+                    nan,         nan,         nan,         nan,
+                    nan,         nan,         nan,         nan,
+                    nan,         nan,         nan,         nan,
+                    nan,         nan,         nan,         nan] TeV>),
              ('sed_dnde',
               <Quantity [  4.33199998e-13,  3.03699991e-13,  3.79700001e-14,
              1.52199996e-14,  1.11999999e-14,  2.07600004e-15,
@@ -182,15 +194,15 @@ OrderedDict([('source_id', 89),
 
 ===
 
-e_ref       dnde         dnde_errn       dnde_errp        dnde_ul    
- TeV  1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
------ --------------- --------------- --------------- ---------------
-0.815       4.332e-13        2.09e-13       2.253e-13             nan
-1.347       3.037e-13        5.68e-14       6.099e-14             nan
-2.384       3.797e-14       1.259e-14         1.4e-14             nan
-4.207       1.522e-14       5.048e-15       5.605e-15             nan
-7.439        1.12e-14        2.39e-15       2.642e-15             nan
-13.19       2.076e-15       7.588e-16       8.833e-16             nan
- 23.4       6.192e-16       2.896e-16       3.551e-16             nan
-41.55             nan             nan             nan       4.101e-16
-68.72             nan             nan             nan       2.884e-16
+e_ref e_min  e_max        dnde         dnde_errn       dnde_errp        dnde_ul    
+ TeV   TeV    TeV   1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
+----- ------ ------ --------------- --------------- --------------- ---------------
+0.815 0.5623    1.0       4.332e-13        2.09e-13       2.253e-13             nan
+1.347 1.0004 1.7787       3.037e-13        5.68e-14       6.099e-14             nan
+2.384 1.7786 3.1626       3.797e-14       1.259e-14         1.4e-14             nan
+4.207  3.163  5.624       1.522e-14       5.048e-15       5.605e-15             nan
+7.439  5.623   10.0        1.12e-14        2.39e-15       2.642e-15             nan
+13.19  9.998 17.781       2.076e-15       7.588e-16       8.833e-16             nan
+ 23.4 17.783 31.623       6.192e-16       2.896e-16       3.551e-16             nan
+41.55    nan    nan             nan             nan             nan       4.101e-16
+68.72    nan    nan             nan             nan             nan       2.884e-16
