@@ -71,6 +71,7 @@ class GammaCatDump:
                 fh.write('\n'.join(lines))
             except NoDataAvailableError:
                 fh.write('No flux points available.')
+            # TODO: fix!
             except ValueError:
                 log.error('Invalid SED for: source_id={}'.format(source_id))
 
@@ -84,17 +85,15 @@ class GammaCatDump:
         with open(filename, 'w') as fh:
             fh.write(text)
 
-            # write_json(source.data, filename)
-
     def make_sed_png_one(self, row_idx):
         source = self.cat[row_idx]
         source_id = source.data['source_id']
         common_name = source.data['common_name']
         title = 'row_idx: {:03d}, source_id: {:03d}, common_name: {}'.format(row_idx, source_id, common_name)
 
-        # fig = plt.figure()
         plt.clf()
 
+        # TODO: read range from source by default (not clear how yet)
         energy_range = [0.2, 50] * u.TeV
         energy_power = 2
 
@@ -107,17 +106,14 @@ class GammaCatDump:
             log.debug('No spectral model: {}'.format(title))
 
         try:
-            # TODO: move this logic to the FluxPoints.plot()
-            fp = source.flux_points
-            # if 'dnde_errn' not in fp.table.colnames:
-            #     fp.table['dnde_errn'] = fp.table['dnde_err']
-            # if 'dnde_errp' not in fp.table.colnames:
-            #     fp.table['dnde_errp'] = fp.table['dnde_err']
             source.flux_points.plot(**opts)
         except NoDataAvailableError:
-            log.debug('No flux points: {}'.format(title))
+            log.debug('No SED points: {}'.format(title))
+        # TODO: figure out why this occurs!? Is shouldn't, right?
         except ValueError:
-            log.error('Invalid SED for: source_id={}'.format(source_id))
+            log.error('Invalid SED points: source_id={}'.format(source_id))
+
+        # import IPython; IPython.embed(); 1/0
 
         plt.title(title)
         plt.loglog()
@@ -133,7 +129,7 @@ if __name__ == '__main__':
     # row_idxs = [42, 24, 99]
     # row_idxs = list(range(30))
     row_idxs = None
-    # row_idxs = [77]
+    # row_idxs = [23]
     dump = GammaCatDump(row_idxs=row_idxs)
     dump.make_txt_all()
     # JSON serialisation doesn't work at the moment
