@@ -129,7 +129,7 @@ if __name__ == '__main__':
     # row_idxs = [42, 24, 99]
     # row_idxs = list(range(30))
     row_idxs = None
-    # row_idxs = [23]
+    row_idxs = [93]
     dump = GammaCatDump(row_idxs=row_idxs)
     dump.make_txt_all()
     # JSON serialisation doesn't work at the moment
