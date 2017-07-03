@@ -113,10 +113,7 @@ class GammaCatDump:
         except ValueError:
             log.error('Invalid SED points: source_id={}'.format(source_id))
 
-        # import IPython; IPython.embed(); 1/0
-
         plt.title(title)
-        plt.loglog()
         plt.grid()
 
         filename = 'sed_png/source_{:06d}.png'.format(source_id)
