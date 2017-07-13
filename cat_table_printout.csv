@@ -32,7 +32,7 @@ source_id,common_name,where,classes,reference_id,morph_type,spec_type
 42,1RXS J101015.9-311909,egal,hbl,,none,none
 43,1ES 1011+496,egal,hbl,,none,none
 48,1ES 1101-232,egal,hbl,,none,none
-49,Markarian 421,egal,hbl,2017ApJ...834....2A,none,none
+49,Markarian 421,egal,hbl,,none,none
 51,RX J1136.5+6737,egal,hbl,,none,none
 52,Markarian 180,egal,hbl,,none,none
 53,1ES 1215+303,egal,hbl,,none,none
@@ -49,7 +49,7 @@ source_id,common_name,where,classes,reference_id,morph_type,spec_type
 71,1ES 1440+122,egal,hbl,,none,none
 78,PKS 1510-089,egal,fsrq,,none,none
 80,AP Librae,egal,lbl,2015A&A...573A..31H,none,none
-82,PG 1553+113,egal,hbl,2015ApJ...802...65A,none,none
+82,PG 1553+113,egal,hbl,,none,none
 91,Markarian 501,egal,hbl,,none,none
 100,H 1722+119,egal,hbl,,none,none
 101,1ES 1727+502,egal,hbl,,none,none
