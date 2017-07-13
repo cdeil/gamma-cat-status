@@ -1,12 +1,78 @@
-Source: Gamma Cygni
-source_id: 144
-reference_id: 
 
-RA          : 305.56 deg
-DEC         : 40.26 deg
-GLON        : 78.15 deg
-GLAT        : 1.87 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 151
+Common name     : Gamma Cygni
+Other names     : VER J2019+407,1FGL J2020.0+4049,SNR G78.2+2.1
+Location        : gal
+Class           : unid
+
+TeVCat ID       : 201
+TeVCat 2 ID     : IWrXQp
+TeVCat name     : TeV J2019+407
+
+TGeVCat ID      : 144
+TGeVCat name    : TeV J2020+4045
+
+Discoverer      : veritas
+Discovery date  : 2009-11
+Seen by         : veritas
+Reference       : 
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 305.557 deg
+DEC                  : 40.257 deg
+GLON                 : 78.149 deg
+GLAT                 : 1.867 deg
+
+Measurement:
+RA                   : nan deg
+DEC                  : nan deg
+GLON                 : nan deg
+GLAT                 : nan deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : none
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : nan h
+
+Spectrum type   : none 
+
+Spectral model printout not yet implemented.
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : nan +- nan cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan (crab units)
+Integrated flux (1-10 TeV)     : nan +- nan erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 

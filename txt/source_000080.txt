@@ -1,12 +1,89 @@
-Source: AP Librae
-source_id: 80
-reference_id: 2015A&A...573A..31H
 
-RA          : 229.42 deg
-DEC         : -24.37 deg
-GLON        : 340.68 deg
-GLAT        : 27.58 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 78
+Common name     : AP Librae
+Other names     : PKS B1514-241
+Location        : egal
+Class           : lbl
+
+TeVCat ID       : 202
+TeVCat 2 ID     : qpaBdR
+TeVCat name     : TeV J1517-243
+
+TGeVCat ID      : 80
+TGeVCat name    : TeV J1517-2422
+
+Discoverer      : hess
+Discovery date  : 2010-07
+Seen by         : hess
+Reference       : 2015A&A...573A..31H
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 229.424 deg
+DEC                  : -24.372 deg
+GLON                 : 340.681 deg
+GLAT                 : 27.578 deg
+
+Measurement:
+RA                   : nan deg
+DEC                  : nan deg
+GLON                 : nan deg
+GLAT                 : nan deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : none
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : nan h
+
+Spectrum type   : none 
+
+Spectral model printout not yet implemented.
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : nan +- nan cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan (crab units)
+Integrated flux (1-10 TeV)     : nan +- nan erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 2015A&A...573A..31H
+Number of spectral points : 10
+Number of upper limits    : 0
+
+e_ref       dnde          dnde_err   
+ TeV  1 / (cm2 s TeV) 1 / (cm2 s TeV)
+----- --------------- ---------------
+  0.2     3.97409e-11     3.09637e-11
+  0.2     3.56904e-11     1.07071e-11
+  0.3     1.71793e-11     4.64306e-12
+  0.4     6.08455e-12     2.03386e-12
+  0.5     3.09481e-12     1.07255e-12
+  0.7     1.35422e-12     5.87704e-13
+  1.0     2.04354e-13     1.80748e-13
+  1.4     3.45338e-13      1.2338e-13
+  2.1     5.30898e-14     4.42896e-14
+  3.0     4.32763e-14     2.73747e-14
 
 ===
 

@@ -1,12 +1,112 @@
-Source: Galactic Centre
-source_id: 106
-reference_id: 2016Natur.531..476H
 
-RA          : 266.42 deg
-DEC         : -29.01 deg
-GLON        : 359.94 deg
-GLAT        : -0.05 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 106
+Common name     : Galactic Centre
+Other names     : HESS J1745-290,VER J1745-290,Sgr A*,Sagittarius A*
+Location        : gal
+Class           : unid
+
+TeVCat ID       : 81
+TeVCat 2 ID     : UvKbRe
+TeVCat name     : TeV J1745-290
+
+TGeVCat ID      : 106
+TGeVCat name    : TeV J1745-2900
+
+Discoverer      : cangaroo
+Discovery date  : 2004-05
+Seen by         : cangaroo,whipple,hess,veritas,magic
+Reference       : 2016Natur.531..476H
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 266.417 deg
+DEC                  : -29.008 deg
+GLON                 : 359.944 deg
+GLAT                 : -0.046 deg
+
+Measurement:
+RA                   : 266.415 deg
+DEC                  : -29.006 deg
+GLON                 : 359.945 deg
+GLAT                 : -0.044 deg
+Position error       : 0.002 deg
+
+*** Morphology info ***
+
+Morphology model type     : point
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : 226.000 h
+
+Spectrum type   : ecpl 
+norm            : 2.55e-12 +- 4e-14 cm-2 s-1 TeV-1 (statistical)
+                  2.55e-12 +- 3.7e-13 cm-2 s-1 TeV-1 (systematic)
+index           : 2.14 +- 0.02 (statistical)
+                  2.14 +- 0.1 (systematic)
+e_cut           : 10.7 +- 2.0 TeV (statistical)
+                  10.7 +- 2.1 TeV (systematic)
+reference       : 1.0 TeV
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : 0.1 deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : 2.32e-12 +- 5.45e-14 cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : 1.7e-12 +- 7.91e-14 cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : 8.21 +- 0.381 (crab units)
+Integrated flux (1-10 TeV)     : 5.84e-12 +- 3.56e-13 erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 2016Natur.531..476H
+Number of spectral points : 25
+Number of upper limits    : 3
+
+e_ref  e_min    e_max         dnde         dnde_errn       dnde_errp        dnde_ul    
+ TeV    TeV      TeV    1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
+----- -------- -------- --------------- --------------- --------------- ---------------
+  0.2 0.151863 0.183999     1.42756e-10     1.26572e-11     1.31137e-11             nan
+  0.2 0.183999 0.226832     7.84682e-11     4.22794e-12     4.32291e-12             nan
+  0.3 0.226832 0.277849     4.92253e-11     2.22465e-12     2.26921e-12             nan
+  0.3 0.277849 0.339177     3.17322e-11     1.34423e-12     1.37106e-12             nan
+  0.4 0.339177 0.413493     1.88826e-11     8.38354e-13     8.56021e-13             nan
+  0.5 0.413493 0.503443     1.30342e-11     5.51143e-13     5.63314e-13             nan
+  0.6 0.503443 0.612123     7.63817e-12     3.53804e-13     3.62343e-13             nan
+  0.7 0.612123 0.743917     5.91062e-12     2.58869e-13     2.65156e-13             nan
+  0.8 0.743917 0.903632     3.53094e-12     1.72814e-13     1.77517e-13             nan
+  1.0 0.903632  1.09695     2.46356e-12     1.24793e-13     1.28394e-13             nan
+  1.2  1.09695  1.33048     1.58521e-12     8.71175e-14     8.98834e-14             nan
+  1.5  1.33048  1.61353     9.65578e-13     6.03626e-14     6.25093e-14             nan
+  1.8  1.61353  1.95704     6.24255e-13     4.25154e-14      4.4212e-14             nan
+  2.2  1.95704  2.37313     4.21874e-13     3.10654e-14     3.24015e-14             nan
+  2.6  2.37313  2.87727     2.83298e-13     2.29301e-14     2.39933e-14             nan
+  3.2  2.87727    3.488     1.53879e-13     1.50827e-14     1.59049e-14             nan
+  3.8    3.488  4.23043     9.87131e-14     1.08991e-14     1.15732e-14             nan
+  4.7  4.23043  5.13511     6.01009e-14     7.52039e-15     8.04791e-15             nan
+  5.7  5.13511  6.23692     3.19129e-14     5.08528e-15     5.51678e-15             nan
+  6.9  6.23692  7.56401     1.86931e-14     3.52064e-15     3.88864e-15             nan
+  8.3  7.56401  9.14642     1.57526e-14     2.90474e-15      3.2259e-15             nan
+ 10.1  9.14642  11.0314     5.44977e-15     1.71146e-15     2.00251e-15             nan
+ 12.1  11.0314  13.2638     3.60859e-15     1.44548e-15     1.70083e-15             nan
+ 14.5  13.2638  15.8982     2.89817e-15     1.11208e-15     1.33694e-15             nan
+ 17.4  15.8982  19.0281       1.114e-15     6.56857e-16     8.73177e-16             nan
+ 23.0  19.0281  29.9638             nan             nan             nan     6.85741e-16
+ 39.0  30.7975  49.3947             nan             nan             nan     3.20152e-16
+ 62.6  49.3947  79.2221             nan             nan             nan     1.96617e-16
 
 ===
 
@@ -85,11 +185,11 @@ OrderedDict([('source_id', 106),
              ('spec_flux_1TeV_err',
               <Quantity 7.910593160338417e-14 1 / (cm2 s)>),
              ('spec_flux_1TeV_crab', 8.21346),
-             ('spec_flux_1TeV_crab_err', 0.38133568),
+             ('spec_flux_1TeV_crab_err', 0.38133571),
              ('spec_eflux_1TeV_10TeV',
               <Quantity 5.835075044674509e-12 erg / (cm2 s)>),
              ('spec_eflux_1TeV_10TeV_err',
-              <Quantity 3.5610896826840377e-13 erg / (cm2 s)>),
+              <Quantity 3.561089953734581e-13 erg / (cm2 s)>),
              ('sed_reference_id', '2016Natur.531..476H'),
              ('sed_n_points', 25),
              ('sed_n_ul', 3),

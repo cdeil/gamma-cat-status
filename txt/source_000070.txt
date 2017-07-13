@@ -1,12 +1,103 @@
-Source: RCW 86
-source_id: 70
-reference_id: 2016arXiv160104461H
 
-RA          : 220.12 deg
-DEC         : -62.65 deg
-GLON        : 315.09 deg
-GLAT        : -2.38 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 69
+Common name     : RCW 86
+Other names     : HESS J1442-624,G315.4-2.3,MSH 14-63
+Location        : gal
+Class           : snr
+
+TeVCat ID       : 168
+TeVCat 2 ID     : gc4bRT
+TeVCat name     : TeV J1442-624
+
+TGeVCat ID      : 70
+TGeVCat name    : TeV J1442-6226
+
+Discoverer      : hess
+Discovery date  : 2008-10
+Seen by         : hess
+Reference       : 2016arXiv160104461H
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 220.121 deg
+DEC                  : -62.645 deg
+GLON                 : 315.093 deg
+GLAT                 : -2.377 deg
+
+Measurement:
+RA                   : 220.721 deg
+DEC                  : -62.430 deg
+GLON                 : 315.434 deg
+GLAT                 : -2.295 deg
+Position error       : 0.030 deg
+
+*** Morphology info ***
+
+Morphology model type     : shell
+Sigma                     : 0.190 deg
+Sigma error               : 0.030 deg
+Sigma2                    : 0.300 deg
+Sigma2 error              : 0.020 deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : 57.000 h
+
+Spectrum type   : ecpl 
+norm            : 4e-12 +- 2.67e-13 cm-2 s-1 TeV-1 (statistical)
+                  4e-12 +- 8e-13 cm-2 s-1 TeV-1 (systematic)
+index           : 1.59 +- 0.22 (statistical)
+                  1.59 +- 0.2 (systematic)
+e_cut           : 3.47 +- 1.23 TeV (statistical)
+                  3.47 +- nan TeV (systematic)
+reference       : 1.0 TeV
+
+energy range min     : 0.4 TeV
+energy range max     : 50.0 TeV
+theta                : 0.41 deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : 3e-12 +- 3.66e-13 cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : 2.44e-12 +- 6.7e-13 cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : 11.8 +- 3.23 (crab units)
+Integrated flux (1-10 TeV)     : 8.39e-12 +- 3.16e-12 erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 2016arXiv160104461H
+Number of spectral points : 19
+Number of upper limits    : 0
+
+e_ref       dnde         dnde_errn       dnde_errp   
+ TeV  1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
+----- --------------- --------------- ---------------
+  0.5       8.908e-12       4.804e-12       4.952e-12
+  0.6        6.78e-12       1.983e-12       2.017e-12
+  0.7       5.669e-12       1.159e-12       1.182e-12
+  0.8       5.694e-12        7.71e-13        7.87e-13
+  1.0       3.012e-12        5.01e-13        5.11e-13
+  1.2       1.802e-12        3.32e-13        3.39e-13
+  1.5       1.592e-12        2.41e-13        2.46e-13
+  1.8       7.422e-13       1.563e-13        1.61e-13
+  2.2       6.864e-13       1.127e-13       1.161e-13
+  2.6       4.584e-13        7.99e-14        8.25e-14
+  3.2       2.324e-13        5.68e-14        5.89e-14
+  3.9       1.607e-13        4.12e-14        4.28e-14
+  4.7       5.858e-14       2.832e-14       2.969e-14
+  5.7       8.041e-14       2.165e-14       2.279e-14
+  7.4       9.076e-15       7.143e-15      1.0444e-14
+ 10.4       6.687e-15       4.846e-15       6.313e-15
+ 15.0        4.05e-15       3.097e-15        4.35e-15
+ 22.7       1.304e-15       7.309e-16        8.02e-16
+ 33.9       1.346e-17      1.1591e-17       2.269e-17
 
 ===
 
@@ -84,12 +175,12 @@ OrderedDict([('source_id', 70),
              ('spec_flux_1TeV', <Quantity 2.443045332006788e-12 1 / (cm2 s)>),
              ('spec_flux_1TeV_err',
               <Quantity 6.700216011353011e-13 1 / (cm2 s)>),
-             ('spec_flux_1TeV_crab', 11.776871),
+             ('spec_flux_1TeV_crab', 11.776872),
              ('spec_flux_1TeV_crab_err', 3.2298861),
              ('spec_eflux_1TeV_10TeV',
               <Quantity 8.389160026378573e-12 erg / (cm2 s)>),
              ('spec_eflux_1TeV_10TeV_err',
-              <Quantity 3.1586753612006246e-12 erg / (cm2 s)>),
+              <Quantity 3.158675578041059e-12 erg / (cm2 s)>),
              ('sed_reference_id', '2016arXiv160104461H'),
              ('sed_n_points', 19),
              ('sed_n_ul', 0),

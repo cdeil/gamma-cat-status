@@ -1,12 +1,87 @@
-Source: W 49B
-source_id: 133
-reference_id: 2016arXiv160900600H
 
-RA          : 287.75 deg
-DEC         : 9.10 deg
-GLON        : 43.25 deg
-GLAT        : -0.16 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 140
+Common name     : W 49B
+Other names     : HESS J1911+090,SNR G043.3-00.2,0FGL J1911.0+0905,1FGL J1910.9+0906c
+Location        : gal
+Class           : snr,mc
+
+TeVCat ID       : 218
+TeVCat 2 ID     : tHQw4n
+TeVCat name     : TeV J1911+090
+
+TGeVCat ID      : 133
+TGeVCat name    : TeV J1911+0905
+
+Discoverer      : hess
+Discovery date  : 2010-12
+Seen by         : hess
+Reference       : 2016arXiv160900600H
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 287.746 deg
+DEC                  : 9.102 deg
+GLON                 : 43.251 deg
+GLAT                 : -0.156 deg
+
+Measurement:
+RA                   : 287.780 deg
+DEC                  : 9.094 deg
+GLON                 : 43.260 deg
+GLAT                 : -0.190 deg
+Position error       : 0.005 deg
+
+*** Morphology info ***
+
+Morphology model type     : point
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : 12.900
+Livetime        : 75.000 h
+
+Spectrum type   : pl 
+norm            : 3.15e-13 +- 4.6e-14 cm-2 s-1 TeV-1 (statistical)
+                  3.15e-13 +- 6.3e-14 cm-2 s-1 TeV-1 (systematic)
+index           : 3.14 +- 0.24 (statistical)
+                  3.14 +- 0.29 (systematic)
+reference       : 1.0 TeV
+
+energy range min     : 0.29 TeV
+energy range max     : nan TeV
+theta                : 0.1 deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : 3.15e-13 +- 4.6e-14 cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : 1.47e-13 +- 2.71e-14 cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : 0.71 +- 0.131 (crab units)
+Integrated flux (1-10 TeV)     : 4.11e-13 +- 9.12e-14 erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 2016arXiv160900600H
+Number of spectral points : 4
+Number of upper limits    : 1
+
+e_ref e_min  e_max        dnde         dnde_errn       dnde_errp        dnde_ul    
+ TeV   TeV    TeV   1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
+----- ------ ------ --------------- --------------- --------------- ---------------
+  0.4 0.2922 0.4801       4.791e-12       1.303e-12       1.377e-12             nan
+  0.6 0.4801 0.7889       1.675e-12        2.57e-13        2.66e-13             nan
+  1.0 0.7889  1.296       3.208e-13        8.07e-14        8.52e-14             nan
+  1.6  1.296   2.13       8.466e-14       3.018e-14       3.234e-14             nan
+  3.9   2.13  113.2             nan             nan             nan       9.539e-15
 
 ===
 
@@ -90,7 +165,7 @@ OrderedDict([('source_id', 133),
              ('spec_eflux_1TeV_10TeV',
               <Quantity 4.1063541998155595e-13 erg / (cm2 s)>),
              ('spec_eflux_1TeV_10TeV_err',
-              <Quantity 9.120968005394206e-14 erg / (cm2 s)>),
+              <Quantity 9.120968683020564e-14 erg / (cm2 s)>),
              ('sed_reference_id', '2016arXiv160900600H'),
              ('sed_n_points', 4),
              ('sed_n_ul', 1),

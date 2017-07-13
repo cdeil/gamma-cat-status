@@ -1,12 +1,84 @@
-Source: IC 310
-source_id: 16
-reference_id: 
 
-RA          : 49.18 deg
-DEC         : 41.32 deg
-GLON        : 150.18 deg
-GLAT        : -13.73 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 15
+Common name     : IC 310
+Other names     : MAGIC J0317+413
+Location        : egal
+Class           : hbl
+
+TeVCat ID       : 208
+TeVCat 2 ID     : hooot9
+TeVCat name     : TeV J0316+413
+
+TGeVCat ID      : 16
+TGeVCat name    : TeV J0316+4119
+
+Discoverer      : magic
+Discovery date  : 2010-03
+Seen by         : magic
+Reference       : 
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 49.179 deg
+DEC                  : 41.325 deg
+GLON                 : 150.183 deg
+GLAT                 : -13.734 deg
+
+Measurement:
+RA                   : nan deg
+DEC                  : nan deg
+GLON                 : nan deg
+GLAT                 : nan deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : none
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : nan h
+
+Spectrum type   : none 
+
+Spectral model printout not yet implemented.
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : nan +- nan cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan (crab units)
+Integrated flux (1-10 TeV)     : nan +- nan erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 2014A&A...563A..91A
+Number of spectral points : 5
+Number of upper limits    : 0
+
+e_ref       dnde         dnde_errn       dnde_errp   
+ TeV  1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
+----- --------------- --------------- ---------------
+  0.2        1.28e-11        7.46e-12        7.46e-12
+  0.5     2.28999e-12     7.81997e-13     7.81997e-13
+  1.1     5.85999e-13        1.79e-13        1.79e-13
+  2.5        1.25e-13        4.22e-14        4.22e-14
+  5.7        1.56e-14         8.3e-15         8.3e-15
 
 ===
 
@@ -82,14 +154,18 @@ OrderedDict([('source_id', 16),
              ('spec_flux_1TeV_crab_err', nan),
              ('spec_eflux_1TeV_10TeV', <Quantity nan erg / (cm2 s)>),
              ('spec_eflux_1TeV_10TeV_err', <Quantity nan erg / (cm2 s)>),
-             ('sed_reference_id', ''),
-             ('sed_n_points', 0),
+             ('sed_reference_id', '2014A&A...563A..91A'),
+             ('sed_n_points', 5),
              ('sed_n_ul', 0),
              ('sed_e_ref',
-              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan] TeV>),
+              <Quantity [ 0.199     , 0.459001  , 1.05999994, 2.45000005, 5.65899992,
+                   nan,        nan,        nan,        nan,        nan,
+                   nan,        nan,        nan,        nan,        nan,
+                   nan,        nan,        nan,        nan,        nan,
+                   nan,        nan,        nan,        nan,        nan,
+                   nan,        nan,        nan,        nan,        nan,
+                   nan,        nan,        nan,        nan,        nan,
+                   nan,        nan,        nan,        nan,        nan] TeV>),
              ('sed_e_min',
               <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
@@ -101,25 +177,55 @@ OrderedDict([('source_id', 16),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] TeV>),
              ('sed_dnde',
-              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan] 1 / (cm2 s TeV)>),
+              <Quantity [  1.27999998e-11,  2.28999003e-12,  5.85999023e-13,
+             1.25000000e-13,  1.56000006e-14,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan] 1 / (cm2 s TeV)>),
              ('sed_dnde_err',
               <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
              ('sed_dnde_errp',
-              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan] 1 / (cm2 s TeV)>),
+              <Quantity [  7.45999963e-12,  7.81997026e-13,  1.79000003e-13,
+             4.22000014e-14,  8.29999962e-15,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan] 1 / (cm2 s TeV)>),
              ('sed_dnde_errn',
-              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-            nan, nan, nan, nan] 1 / (cm2 s TeV)>),
+              <Quantity [  7.45999963e-12,  7.81997026e-13,  1.79000003e-13,
+             4.22000014e-14,  8.29999962e-15,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan,             nan,             nan,
+                        nan] 1 / (cm2 s TeV)>),
              ('sed_dnde_ul',
               <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
@@ -129,4 +235,11 @@ OrderedDict([('source_id', 16),
 
 ===
 
-No flux points available.
+ e_ref         dnde         dnde_errn       dnde_errp   
+  TeV    1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
+-------- --------------- --------------- ---------------
+   0.199        1.28e-11        7.46e-12        7.46e-12
+0.459001     2.28999e-12     7.81997e-13     7.81997e-13
+    1.06     5.85999e-13        1.79e-13        1.79e-13
+    2.45        1.25e-13        4.22e-14        4.22e-14
+   5.659        1.56e-14         8.3e-15         8.3e-15

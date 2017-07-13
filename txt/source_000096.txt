@@ -1,12 +1,114 @@
-Source: RX J1713.7-3946
-source_id: 96
-reference_id: 2016arXiv160908671H
 
-RA          : 258.11 deg
-DEC         : -39.69 deg
-GLON        : 347.27 deg
-GLAT        : -0.26 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 94
+Common name     : RX J1713.7-3946
+Other names     : HESS J1713-397,SNR G347.3-00.5
+Location        : gal
+Class           : snr
+
+TeVCat ID       : 84
+TeVCat 2 ID     : Q6SXwo
+TeVCat name     : TeV J1713-397
+
+TGeVCat ID      : 96
+TGeVCat name    : TeV J1713-3945
+
+Discoverer      : cangaroo
+Discovery date  : 2000-02
+Seen by         : cangaroo,hess
+Reference       : 2016arXiv160908671H
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 258.112 deg
+DEC                  : -39.687 deg
+GLON                 : 347.269 deg
+GLAT                 : -0.257 deg
+
+Measurement:
+RA                   : 258.355 deg
+DEC                  : -39.771 deg
+GLON                 : 347.311 deg
+GLAT                 : -0.457 deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : shell
+Sigma                     : 0.500 deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : 164.000 h
+
+Spectrum type   : ecpl 
+norm            : 2.3e-11 +- 1e-12 cm-2 s-1 TeV-1 (statistical)
+                  2.3e-11 +- nan cm-2 s-1 TeV-1 (systematic)
+index           : 2.06 +- 0.02 (statistical)
+                  2.06 +- 0.1 (systematic)
+e_cut           : 12.9 +- 1.1 TeV (statistical)
+                  12.9 +- nan TeV (systematic)
+reference       : 1.0 TeV
+
+energy range min     : 0.2 TeV
+energy range max     : 40.0 TeV
+theta                : 0.6 deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : 2.13e-11 +- 9.36e-13 cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : 1.69e-11 +- 8.24e-13 cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : 81.4 +- 3.97 (crab units)
+Integrated flux (1-10 TeV)     : 6e-11 +- 3.17e-12 erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 2016arXiv160908671H
+Number of spectral points : 30
+Number of upper limits    : 0
+
+e_ref e_min e_max       dnde          dnde_err   
+ TeV   TeV   TeV  1 / (cm2 s TeV) 1 / (cm2 s TeV)
+----- ----- ----- --------------- ---------------
+  0.2  0.21  0.25     5.23862e-10     9.85191e-11
+  0.3  0.25  0.29     3.41613e-10     4.42642e-11
+  0.3  0.29  0.35     2.60876e-10     2.14552e-11
+  0.4  0.35  0.41     1.69437e-10     1.04169e-11
+  0.4  0.41  0.49     1.22056e-10     6.28774e-12
+  0.5  0.49  0.58     7.51025e-11     3.84401e-12
+  0.6  0.58  0.69      5.3939e-11     2.21732e-12
+  0.8  0.69  0.81     3.78374e-11     1.48687e-12
+  0.9  0.81  0.96     2.52938e-11     9.61323e-13
+  1.0  0.96  1.14      1.6644e-11     6.34058e-13
+  1.2  1.14  1.36     1.20636e-11     4.35408e-13
+  1.5  1.36  1.61     9.26082e-12     3.04895e-13
+  1.8  1.61  1.91      6.0247e-12      2.0351e-13
+  2.1  1.91  2.26     4.45781e-12     1.71676e-13
+  2.5  2.26  2.68     2.68038e-12     1.26858e-13
+  2.9  2.68  3.18     1.84666e-12     8.50629e-14
+  3.5  3.18  3.77     1.34255e-12     6.11664e-14
+  4.1  3.77  4.47     8.78806e-13     4.70658e-14
+  4.9  4.47  5.29     6.55224e-13      3.2237e-14
+  5.8  5.29  6.28     4.35661e-13     2.43895e-14
+  6.9  6.28  7.44     2.66586e-13     1.83029e-14
+  8.1  7.44  8.83     1.63904e-13     1.42239e-14
+  9.6  8.83 10.47     9.51751e-14     1.02548e-14
+ 11.4 10.47 12.41      7.5352e-14     7.58289e-15
+ 13.6 12.41 14.71     2.83098e-14     5.77058e-15
+ 16.1 14.71 17.45     2.33423e-14      4.0312e-15
+ 20.0 17.45 22.53     5.96661e-15     2.20233e-15
+ 24.6 22.53 26.71     5.84873e-15     1.80199e-15
+ 29.2 26.71 31.67     2.04374e-15     1.15006e-15
+ 34.6 31.67 37.55     2.64698e-15     6.61744e-16
 
 ===
 
@@ -84,7 +186,7 @@ OrderedDict([('source_id', 96),
              ('spec_flux_1TeV_err',
               <Quantity 8.237373999055164e-13 1 / (cm2 s)>),
              ('spec_flux_1TeV_crab', 81.367332),
-             ('spec_flux_1TeV_crab_err', 3.9708836),
+             ('spec_flux_1TeV_crab_err', 3.9708838),
              ('spec_eflux_1TeV_10TeV',
               <Quantity 5.999627877839586e-11 erg / (cm2 s)>),
              ('spec_eflux_1TeV_10TeV_err',

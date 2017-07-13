@@ -1,12 +1,78 @@
-Source: M 87
-source_id: 58
-reference_id: 
 
-RA          : 187.71 deg
-DEC         : 12.39 deg
-GLON        : 283.78 deg
-GLAT        : 74.49 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 57
+Common name     : M 87
+Other names     : 1ES 1228+126,1H 1226+128
+Location        : egal
+Class           : fri
+
+TeVCat ID       : 80
+TeVCat 2 ID     : XheKQH
+TeVCat name     : TeV J1230+123
+
+TGeVCat ID      : 58
+TGeVCat name    : TeV J1230+1223
+
+Discoverer      : hegra
+Discovery date  : 2003-05
+Seen by         : hegra,hess,veritas,magic
+Reference       : 
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 187.706 deg
+DEC                  : 12.391 deg
+GLON                 : 283.778 deg
+GLAT                 : 74.491 deg
+
+Measurement:
+RA                   : nan deg
+DEC                  : nan deg
+GLON                 : nan deg
+GLAT                 : nan deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : none
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : nan h
+
+Spectrum type   : none 
+
+Spectral model printout not yet implemented.
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : nan +- nan cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan (crab units)
+Integrated flux (1-10 TeV)     : nan +- nan erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 

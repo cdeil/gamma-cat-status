@@ -1,12 +1,78 @@
-Source: NGC 1275
-source_id: 18
-reference_id: 
 
-RA          : 49.95 deg
-DEC         : 41.51 deg
-GLON        : 150.58 deg
-GLAT        : -13.26 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 16
+Common name     : NGC 1275
+Other names     : 
+Location        : egal
+Class           : fri
+
+TeVCat ID       : 212
+TeVCat 2 ID     : 9dfnMH
+TeVCat name     : TeV J0319+415
+
+TGeVCat ID      : 18
+TGeVCat name    : TeV J0319+4130
+
+Discoverer      : magic
+Discovery date  : 2010-10
+Seen by         : magic
+Reference       : 
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 49.951 deg
+DEC                  : 41.512 deg
+GLON                 : 150.576 deg
+GLAT                 : -13.261 deg
+
+Measurement:
+RA                   : nan deg
+DEC                  : nan deg
+GLON                 : nan deg
+GLAT                 : nan deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : none
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : nan h
+
+Spectrum type   : none 
+
+Spectral model printout not yet implemented.
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : nan +- nan cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan (crab units)
+Integrated flux (1-10 TeV)     : nan +- nan erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 

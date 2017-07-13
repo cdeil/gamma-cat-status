@@ -1,12 +1,90 @@
-Source: HESS J1858+020
-source_id: 131
-reference_id: 2008A&A...477..353A
 
-RA          : 284.58 deg
-DEC         : 2.09 deg
-GLON        : 35.58 deg
-GLAT        : -0.58 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 138
+Common name     : HESS J1858+020
+Other names     : 1HWC J1857+023,G35.6-0.4
+Location        : gal
+Class           : unid
+
+TeVCat ID       : 144
+TeVCat 2 ID     : KxJfNI
+TeVCat name     : TeV J1858+020
+
+TGeVCat ID      : 131
+TGeVCat name    : TeV J1858+0205
+
+Discoverer      : hess
+Discovery date  : 2007-07
+Seen by         : hess,hawc
+Reference       : 2008A&A...477..353A
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 284.583 deg
+DEC                  : 2.090 deg
+GLON                 : 35.578 deg
+GLAT                 : -0.580 deg
+
+Measurement:
+RA                   : 284.584 deg
+DEC                  : 2.090 deg
+GLON                 : 35.578 deg
+GLAT                 : -0.581 deg
+Position error       : 0.050 deg
+
+*** Morphology info ***
+
+Morphology model type     : gauss
+Sigma                     : 0.080 deg
+Sigma error               : 0.020 deg
+Sigma2                    : 0.020 deg
+Sigma2 error              : 0.040 deg
+Position angle            : 4.000 deg
+Position angle error      : 17.000 deg
+Position angle frame      : radec
+
+*** Spectral info ***
+
+Significance    : 7.000
+Livetime        : 25.000 h
+
+Spectrum type   : pl 
+norm            : 6e-13 +- 1e-13 cm-2 s-1 TeV-1 (statistical)
+                  6e-13 +- 2e-13 cm-2 s-1 TeV-1 (systematic)
+index           : 2.17 +- 0.12 (statistical)
+                  2.17 +- 0.2 (systematic)
+reference       : 1.0 TeV
+
+energy range min     : 0.5 TeV
+energy range max     : 80.0 TeV
+theta                : 0.15 deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : 6e-13 +- 1e-13 cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : 5.13e-13 +- 1e-13 cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : 2.47 +- 0.484 (crab units)
+Integrated flux (1-10 TeV)     : 1.83e-12 +- 3.86e-13 erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 2008A&A...477..353A
+Number of spectral points : 8
+Number of upper limits    : 0
+
+e_ref       dnde         dnde_errn       dnde_errp   
+ TeV  1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
+----- --------------- --------------- ---------------
+  0.8     1.27006e-12     4.28811e-13     4.58488e-13
+  1.4     2.18991e-13     8.68049e-14     9.45621e-14
+  2.5     6.06834e-14     2.48145e-14     2.77192e-14
+  4.5     3.43868e-14      8.6324e-15     9.85432e-15
+  7.9     1.01307e-14     3.57134e-15     4.15328e-15
+ 14.0     2.48266e-15     1.22116e-15     1.51151e-15
+ 24.7      1.0012e-15     4.66018e-16     6.24378e-16
+ 43.9     1.17554e-16     6.73699e-17     6.73699e-17
 
 ===
 
@@ -86,9 +164,9 @@ OrderedDict([('source_id', 131),
              ('spec_flux_1TeV_crab', 2.4720869),
              ('spec_flux_1TeV_crab_err', 0.48377889),
              ('spec_eflux_1TeV_10TeV',
-              <Quantity 1.831666762708295e-12 erg / (cm2 s)>),
+              <Quantity 1.8316669795487295e-12 erg / (cm2 s)>),
              ('spec_eflux_1TeV_10TeV_err',
-              <Quantity 3.862226022940257e-13 erg / (cm2 s)>),
+              <Quantity 3.8622262939908003e-13 erg / (cm2 s)>),
              ('sed_reference_id', '2008A&A...477..353A'),
              ('sed_n_points', 8),
              ('sed_n_ul', 0),

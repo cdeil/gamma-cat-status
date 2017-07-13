@@ -1,12 +1,90 @@
-Source: SNR G0.9+0.1
-source_id: 110
-reference_id: 2005A&A...432L..25A
 
-RA          : 266.83 deg
-DEC         : -28.15 deg
-GLON        : 0.86 deg
-GLAT        : 0.09 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 109
+Common name     : SNR G0.9+0.1
+Other names     : HESS J1747-281,SNR G000.9+00.1
+Location        : gal
+Class           : pwn
+
+TeVCat ID       : 112
+TeVCat 2 ID     : jvz6ag
+TeVCat name     : TeV J1747-281
+
+TGeVCat ID      : 110
+TGeVCat name    : TeV J1747-2809
+
+Discoverer      : hess
+Discovery date  : 2005-03
+Seen by         : hess,veritas
+Reference       : 2005A&A...432L..25A
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 266.825 deg
+DEC                  : -28.150 deg
+GLON                 : 0.863 deg
+GLAT                 : 0.093 deg
+
+Measurement:
+RA                   : 266.847 deg
+DEC                  : -28.152 deg
+GLON                 : 0.872 deg
+GLAT                 : 0.076 deg
+Position error       : 0.005 deg
+
+*** Morphology info ***
+
+Morphology model type     : point
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : 13.000
+Livetime        : 50.000 h
+
+Spectrum type   : pl2 (integral power law)
+flux            : 5.7e-12 +- 7e-13 cm-2 s-1 (statistical)
+                  5.7e-12 +- 1.2e-12 cm-2 s-1 (systematic)
+index           : 2.4 +- 0.11 (statistical)
+                  2.4 +- 0.2 (systematic)
+e_min           : 0.2 TeV
+e_max           : nan TeV
+
+energy range min     : 0.35 TeV
+energy range max     : nan TeV
+theta                : 0.1 deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : 8.38e-13 +- 1.32e-13 cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : 5.99e-13 +- 1.29e-13 cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : 2.89 +- 0.622 (crab units)
+Integrated flux (1-10 TeV)     : 2.02e-12 +- 4.85e-13 erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 2005A&A...432L..25A
+Number of spectral points : 7
+Number of upper limits    : 0
+
+e_ref       dnde          dnde_err   
+ TeV  1 / (cm2 s TeV) 1 / (cm2 s TeV)
+----- --------------- ---------------
+  0.2        2.42e-11         8.6e-12
+  0.4         8.2e-12        1.49e-12
+  0.7        2.34e-12        3.78e-13
+  1.2        6.97e-13         1.2e-13
+  2.1        1.28e-13        4.24e-14
+  3.9        1.58e-14         1.4e-14
+  6.2        9.39e-15        5.99e-15
 
 ===
 
@@ -83,10 +161,10 @@ OrderedDict([('source_id', 110),
              ('spec_flux_1TeV', <Quantity 5.988483363708608e-13 1 / (cm2 s)>),
              ('spec_flux_1TeV_err',
               <Quantity 1.290293555594041e-13 1 / (cm2 s)>),
-             ('spec_flux_1TeV_crab', 2.8867903),
+             ('spec_flux_1TeV_crab', 2.8867905),
              ('spec_flux_1TeV_crab_err', 0.62199503),
              ('spec_eflux_1TeV_10TeV',
-              <Quantity 2.0212239000561016e-12 erg / (cm2 s)>),
+              <Quantity 2.021224116896536e-12 erg / (cm2 s)>),
              ('spec_eflux_1TeV_10TeV_err',
               <Quantity 4.846389674122153e-13 erg / (cm2 s)>),
              ('sed_reference_id', '2005A&A...432L..25A'),

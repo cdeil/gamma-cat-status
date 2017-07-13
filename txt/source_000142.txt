@@ -1,12 +1,78 @@
-Source: Dragonfly
-source_id: 142
-reference_id: 
 
-RA          : 305.27 deg
-DEC         : 36.85 deg
-GLON        : 75.22 deg
-GLAT        : 0.11 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 150
+Common name     : Dragonfly
+Other names     : MGRO J2019+37,VER J2019+368,VER J2016+371,0FGL J2020.8+3649
+Location        : gal
+Class           : pwn,unid
+
+TeVCat ID       : 145
+TeVCat 2 ID     : RZ7qzv
+TeVCat name     : TeV J2019+368
+
+TGeVCat ID      : 142
+TGeVCat name    : TeV J2018+3642
+
+Discoverer      : milagro
+Discovery date  : 2007-03
+Seen by         : milagro,veritas
+Reference       : 
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 305.273 deg
+DEC                  : 36.851 deg
+GLON                 : 75.222 deg
+GLAT                 : 0.111 deg
+
+Measurement:
+RA                   : nan deg
+DEC                  : nan deg
+GLON                 : nan deg
+GLAT                 : nan deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : none
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : nan h
+
+Spectrum type   : none 
+
+Spectral model printout not yet implemented.
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : nan +- nan cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan (crab units)
+Integrated flux (1-10 TeV)     : nan +- nan erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 

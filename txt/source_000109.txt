@@ -1,12 +1,81 @@
-Source: Terzan 5
-source_id: 109
-reference_id: 2011A&A...531L..18H
 
-RA          : 267.02 deg
-DEC         : -24.78 deg
-GLON        : 3.84 deg
-GLAT        : 1.69 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 110
+Common name     : Terzan 5
+Other names     : HESS J1747-248
+Location        : gal
+Class           : unid,gc
+
+TeVCat ID       : 234
+TeVCat 2 ID     : xhmRbS
+TeVCat name     : TeV J1747-248
+
+TGeVCat ID      : 109
+TGeVCat name    : TeV J1747-2448
+
+Discoverer      : hess
+Discovery date  : 2011-07
+Seen by         : hess
+Reference       : 2011A&A...531L..18H
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 267.021 deg
+DEC                  : -24.780 deg
+GLON                 : 3.839 deg
+GLAT                 : 1.686 deg
+
+Measurement:
+RA                   : 266.954 deg
+DEC                  : -24.808 deg
+GLON                 : 3.783 deg
+GLAT                 : 1.723 deg
+Position error       : 0.067 deg
+
+*** Morphology info ***
+
+Morphology model type     : gauss
+Sigma                     : 0.160 deg
+Sigma error               : 0.040 deg
+Sigma2                    : 0.030 deg
+Sigma2 error              : 0.020 deg
+Position angle            : 92.000 deg
+Position angle error      : 6.000 deg
+Position angle frame      : radec
+
+*** Spectral info ***
+
+Significance    : 7.500
+Livetime        : 62.000 h
+
+Spectrum type   : pl 
+norm            : 5.2e-13 +- 1.1e-13 cm-2 s-1 TeV-1 (statistical)
+                  5.2e-13 +- nan cm-2 s-1 TeV-1 (systematic)
+index           : 2.5 +- 0.3 (statistical)
+                  2.5 +- 0.2 (systematic)
+reference       : 1.0 TeV
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : 5.2e-13 +- 1.1e-13 cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : 3.47e-13 +- 1.01e-13 cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : 1.67 +- 0.486 (crab units)
+Integrated flux (1-10 TeV)     : 1.14e-12 +- 4e-13 erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 
@@ -82,12 +151,12 @@ OrderedDict([('source_id', 109),
              ('spec_flux_1TeV', <Quantity 3.466666786532818e-13 1 / (cm2 s)>),
              ('spec_flux_1TeV_err',
               <Quantity 1.009202080628005e-13 1 / (cm2 s)>),
-             ('spec_flux_1TeV_crab', 1.6711309),
+             ('spec_flux_1TeV_crab', 1.671131),
              ('spec_flux_1TeV_crab_err', 0.48649293),
              ('spec_eflux_1TeV_10TeV',
               <Quantity 1.1393448033983344e-12 erg / (cm2 s)>),
              ('spec_eflux_1TeV_10TeV_err',
-              <Quantity 4.003098850666187e-13 erg / (cm2 s)>),
+              <Quantity 4.00309912171673e-13 erg / (cm2 s)>),
              ('sed_reference_id', ''),
              ('sed_n_points', 0),
              ('sed_n_ul', 0),

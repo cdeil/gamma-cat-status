@@ -1,12 +1,78 @@
-Source: HESS J1843-033
-source_id: 126
-reference_id: 
 
-RA          : 280.75 deg
-DEC         : -3.30 deg
-GLON        : 29.03 deg
-GLAT        : 0.37 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 131
+Common name     : HESS J1843-033
+Other names     : HESS J1843-033,ARGO J1841-0332 1HWC J1844-031c
+Location        : gal
+Class           : unid
+
+TeVCat ID       : 190
+TeVCat 2 ID     : DTC72E
+TeVCat name     : TeV J1843-030
+
+TGeVCat ID      : 126
+TGeVCat name    : TeV J1843-0318
+
+Discoverer      : hess
+Discovery date  : 2008-07
+Seen by         : hess,argo,hawc
+Reference       : 
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 280.750 deg
+DEC                  : -3.300 deg
+GLON                 : 29.033 deg
+GLAT                 : 0.370 deg
+
+Measurement:
+RA                   : nan deg
+DEC                  : nan deg
+GLON                 : nan deg
+GLAT                 : nan deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : none
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : nan h
+
+Spectrum type   : none 
+
+Spectral model printout not yet implemented.
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : nan +- nan cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan (crab units)
+Integrated flux (1-10 TeV)     : nan +- nan erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 

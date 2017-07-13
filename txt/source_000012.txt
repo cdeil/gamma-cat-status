@@ -1,12 +1,78 @@
-Source: MAGIC J0223+403
-source_id: 12
-reference_id: 
 
-RA          : 35.67 deg
-DEC         : 43.04 deg
-GLON        : 140.14 deg
-GLAT        : -16.77 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 11
+Common name     : MAGIC J0223+403
+Other names     : MAGIC J0223+403,3C 66A/B Region
+Location        : unid
+Class           : unid
+
+TeVCat ID       : 138
+TeVCat 2 ID     : y6gVxa
+TeVCat name     : TeV J0223+430
+
+TGeVCat ID      : 12
+TGeVCat name    : TeV J0223+4259
+
+Discoverer      : magic
+Discovery date  : 2009-02
+Seen by         : magic
+Reference       : 
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 35.665 deg
+DEC                  : 43.036 deg
+GLON                 : 140.143 deg
+GLAT                 : -16.767 deg
+
+Measurement:
+RA                   : nan deg
+DEC                  : nan deg
+GLON                 : nan deg
+GLAT                 : nan deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : none
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : nan h
+
+Spectrum type   : none 
+
+Spectral model printout not yet implemented.
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : nan +- nan cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan (crab units)
+Integrated flux (1-10 TeV)     : nan +- nan erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 

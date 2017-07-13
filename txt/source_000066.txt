@@ -1,12 +1,92 @@
-Source: HESS J1420-607
-source_id: 66
-reference_id: 2006A&A...456..245A
 
-RA          : 214.69 deg
-DEC         : -60.98 deg
-GLON        : 313.33 deg
-GLAT        : 0.12 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 65
+Common name     : HESS J1420-607
+Other names     : HESS J1420-607,PSR J1420-6048
+Location        : gal
+Class           : pwn
+
+TeVCat ID       : 124
+TeVCat 2 ID     : zUDsnw
+TeVCat name     : TeV J1420-607
+
+TGeVCat ID      : 66
+TGeVCat name    : TeV J1420-6045
+
+Discoverer      : hess
+Discovery date  : 2006-09
+Seen by         : hess
+Reference       : 2006A&A...456..245A
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 214.692 deg
+DEC                  : -60.978 deg
+GLON                 : 313.326 deg
+GLAT                 : 0.119 deg
+
+Measurement:
+RA                   : 215.038 deg
+DEC                  : -60.760 deg
+GLON                 : 313.558 deg
+GLAT                 : 0.268 deg
+Position error       : 0.012 deg
+
+*** Morphology info ***
+
+Morphology model type     : gauss
+Sigma                     : 0.055 deg
+Sigma error               : 0.008 deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : 15.200
+Livetime        : 18.100 h
+
+Spectrum type   : pl 
+norm            : 3.48e-12 +- 2e-13 cm-2 s-1 TeV-1 (statistical)
+                  3.48e-12 +- 7e-13 cm-2 s-1 TeV-1 (systematic)
+index           : 2.17 +- 0.06 (statistical)
+                  2.17 +- 0.1 (systematic)
+reference       : 1.0 TeV
+
+energy range min     : 0.3 TeV
+energy range max     : nan TeV
+theta                : 0.16 deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : 3.48e-12 +- 2e-13 cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : 2.97e-12 +- 2.29e-13 cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : 14.3 +- 1.1 (crab units)
+Integrated flux (1-10 TeV)     : 1.06e-11 +- 9.18e-13 erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 2006A&A...456..245A
+Number of spectral points : 10
+Number of upper limits    : 0
+
+e_ref       dnde         dnde_errn       dnde_errp   
+ TeV  1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
+----- --------------- --------------- ---------------
+  0.4        2.63e-11        7.64e-12        7.56e-12
+  0.6        9.13e-12        1.04e-12        1.11e-12
+  1.0        3.38e-12        4.04e-13        4.03e-13
+  1.5        1.46e-12         1.8e-13        1.78e-13
+  2.5        5.91e-13        8.19e-14        8.15e-14
+  3.9        1.97e-13        3.52e-14        3.55e-14
+  6.1        7.09e-14        1.59e-14        1.56e-14
+  9.7        2.54e-14        7.33e-15        7.28e-15
+ 15.4        6.81e-15        2.95e-15        2.99e-15
+ 24.5        1.05e-15        9.56e-16        7.72e-16
 
 ===
 

@@ -1,12 +1,81 @@
-Source: Tycho SNR
-source_id: 3
-reference_id: 2017arXiv170106740V
 
-RA          : 6.34 deg
-DEC         : 64.14 deg
-GLON        : 120.09 deg
-GLAT        : 1.41 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 2
+Common name     : Tycho SNR
+Other names     : SNR G120.1+1.4,3C10,SN1572
+Location        : gal
+Class           : snr
+
+TeVCat ID       : 209
+TeVCat 2 ID     : xCyAjF
+TeVCat name     : TeV J0025+641
+
+TGeVCat ID      : 3
+TGeVCat name    : TeV J0025+6410
+
+Discoverer      : veritas
+Discovery date  : 2010-05
+Seen by         : veritas
+Reference       : 2017arXiv170106740V
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 6.340 deg
+DEC                  : 64.141 deg
+GLON                 : 120.092 deg
+GLAT                 : 1.413 deg
+
+Measurement:
+RA                   : 6.340 deg
+DEC                  : 64.130 deg
+GLON                 : 120.091 deg
+GLAT                 : 1.402 deg
+Position error       : 0.024 deg
+
+*** Morphology info ***
+
+Morphology model type     : point
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : 6.900
+Livetime        : 147.000 h
+
+Spectrum type   : pl 
+norm            : 2.2e-13 +- 5e-14 cm-2 s-1 TeV-1 (statistical)
+                  2.2e-13 +- 6e-14 cm-2 s-1 TeV-1 (systematic)
+index           : 2.92 +- 0.42 (statistical)
+                  2.92 +- 0.2 (systematic)
+reference       : 1.0 TeV
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : 2.2e-13 +- 5e-14 cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : 1.15e-13 +- 3.61e-14 cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : 0.552 +- 0.174 (crab units)
+Integrated flux (1-10 TeV)     : 3.37e-13 +- 1.33e-13 erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 
@@ -83,12 +152,12 @@ OrderedDict([('source_id', 3),
              ('spec_flux_1TeV', <Quantity 1.1458333739298998e-13 1 / (cm2 s)>),
              ('spec_flux_1TeV_err',
               <Quantity 3.614454249139046e-14 1 / (cm2 s)>),
-             ('spec_flux_1TeV_crab', 0.55235696),
+             ('spec_flux_1TeV_crab', 0.55235702),
              ('spec_flux_1TeV_crab_err', 0.1742373),
              ('spec_eflux_1TeV_10TeV',
-              <Quantity 3.3706690867260636e-13 erg / (cm2 s)>),
+              <Quantity 3.3706693577766067e-13 erg / (cm2 s)>),
              ('spec_eflux_1TeV_10TeV_err',
-              <Quantity 1.3349918230338292e-13 erg / (cm2 s)>),
+              <Quantity 1.3349919585591008e-13 erg / (cm2 s)>),
              ('sed_reference_id', ''),
              ('sed_n_points', 0),
              ('sed_n_ul', 0),

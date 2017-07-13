@@ -1,12 +1,81 @@
-Source: Cassiopeia A
-source_id: 153
-reference_id: 2015arXiv151100309G
 
-RA          : 350.85 deg
-DEC         : 58.81 deg
-GLON        : 111.73 deg
-GLAT        : -2.13 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 159
+Common name     : Cassiopeia A
+Other names     : Cas A,3C461,G111.7-2.1
+Location        : gal
+Class           : snr
+
+TeVCat ID       : 82
+TeVCat 2 ID     : 3dz45u
+TeVCat name     : TeV J2323+588
+
+TGeVCat ID      : 153
+TGeVCat name    : TeV J2323+5848
+
+Discoverer      : hegra
+Discovery date  : 2001-04
+Seen by         : hegra,magic,veritas
+Reference       : 2015arXiv151100309G
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 350.850 deg
+DEC                  : 58.815 deg
+GLON                 : 111.735 deg
+GLAT                 : -2.130 deg
+
+Measurement:
+RA                   : 350.835 deg
+DEC                  : 58.817 deg
+GLON                 : 111.728 deg
+GLAT                 : -2.125 deg
+Position error       : 0.006 deg
+
+*** Morphology info ***
+
+Morphology model type     : point
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : 11.000
+Livetime        : 60.000 h
+
+Spectrum type   : pl 
+norm            : 1.45e-12 +- 1.1e-13 cm-2 s-1 TeV-1 (statistical)
+                  1.45e-12 +- nan cm-2 s-1 TeV-1 (systematic)
+index           : 2.75 +- 0.1 (statistical)
+                  2.75 +- 0.2 (systematic)
+reference       : 1.0 TeV
+
+energy range min     : 0.3 TeV
+energy range max     : 7.0 TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : 1.45e-12 +- 1.1e-13 cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : 8.29e-13 +- 7.87e-14 cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : 3.99 +- 0.379 (crab units)
+Integrated flux (1-10 TeV)     : 2.55e-12 +- 2.87e-13 erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 
@@ -83,7 +152,7 @@ OrderedDict([('source_id', 153),
              ('spec_flux_1TeV_err',
               <Quantity 7.86940499743205e-14 1 / (cm2 s)>),
              ('spec_flux_1TeV_crab', 3.9941866),
-             ('spec_flux_1TeV_crab_err', 0.37935016),
+             ('spec_flux_1TeV_crab_err', 0.37935019),
              ('spec_eflux_1TeV_10TeV',
               <Quantity 2.546711973250293e-12 erg / (cm2 s)>),
              ('spec_eflux_1TeV_10TeV_err',

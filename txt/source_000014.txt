@@ -1,12 +1,78 @@
-Source: LS I +61 303
-source_id: 14
-reference_id: 2011ApJ...738....3A
 
-RA          : 40.13 deg
-DEC         : 61.23 deg
-GLON        : 135.68 deg
-GLAT        : 1.09 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 13
+Common name     : LS I +61 303
+Other names     : 
+Location        : gal
+Class           : bin
+
+TeVCat ID       : 89
+TeVCat 2 ID     : fW749W
+TeVCat name     : TeV J0240+612
+
+TGeVCat ID      : 14
+TGeVCat name    : TeV J0240+6115
+
+Discoverer      : magic
+Discovery date  : 2006-06
+Seen by         : veritas,magic
+Reference       : 2011ApJ...738....3A
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 40.132 deg
+DEC                  : 61.229 deg
+GLON                 : 135.675 deg
+GLAT                 : 1.086 deg
+
+Measurement:
+RA                   : nan deg
+DEC                  : nan deg
+GLON                 : nan deg
+GLAT                 : nan deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : none
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : nan h
+
+Spectrum type   : none 
+
+Spectral model printout not yet implemented.
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : nan +- nan cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan (crab units)
+Integrated flux (1-10 TeV)     : nan +- nan erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 

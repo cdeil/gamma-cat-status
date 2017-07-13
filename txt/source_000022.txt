@@ -1,12 +1,78 @@
-Source: 1ES 0502+675
-source_id: 22
-reference_id: 
 
-RA          : 76.98 deg
-DEC         : 67.62 deg
-GLON        : 143.79 deg
-GLAT        : 15.89 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 21
+Common name     : 1ES 0502+675
+Other names     : 
+Location        : egal
+Class           : hbl
+
+TeVCat ID       : 200
+TeVCat 2 ID     : 1G0nr7
+TeVCat name     : TeV J0507+676
+
+TGeVCat ID      : 22
+TGeVCat name    : TeV J0507+6737
+
+Discoverer      : veritas
+Discovery date  : 2009-11
+Seen by         : veritas
+Reference       : 
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 76.984 deg
+DEC                  : 67.623 deg
+GLON                 : 143.795 deg
+GLAT                 : 15.890 deg
+
+Measurement:
+RA                   : nan deg
+DEC                  : nan deg
+GLON                 : nan deg
+GLAT                 : nan deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : none
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : nan h
+
+Spectrum type   : none 
+
+Spectral model printout not yet implemented.
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : nan +- nan cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan (crab units)
+Integrated flux (1-10 TeV)     : nan +- nan erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 

@@ -1,12 +1,81 @@
-Source: IC 443
-source_id: 29
-reference_id: 2015arXiv151201911H
 
-RA          : 94.51 deg
-DEC         : 22.66 deg
-GLON        : 189.06 deg
-GLAT        : 3.23 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 28
+Common name     : IC 443
+Other names     : MAGIC 0616+223,3C 157,SNR 189.1+03.0
+Location        : gal
+Class           : snr
+
+TeVCat ID       : 120
+TeVCat 2 ID     : 9xMcgD
+TeVCat name     : TeV J0616+225
+
+TGeVCat ID      : 29
+TGeVCat name    : TeV J0616+2230
+
+Discoverer      : magic
+Discovery date  : 2007-05
+Seen by         : magic,veritas,milagro
+Reference       : 2015arXiv151201911H
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 94.511 deg
+DEC                  : 22.660 deg
+GLON                 : 189.065 deg
+GLAT                 : 3.235 deg
+
+Measurement:
+RA                   : 94.220 deg
+DEC                  : 23.550 deg
+GLON                 : 188.152 deg
+GLAT                 : 3.419 deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : shell
+Sigma                     : 0.300 deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : 155.000 h
+
+Spectrum type   : pl 
+norm            : 9.92e-13 +- 9e-14 cm-2 s-1 TeV-1 (statistical)
+                  9.92e-13 +- nan cm-2 s-1 TeV-1 (systematic)
+index           : 2.8 +- 0.09 (statistical)
+                  2.8 +- nan (systematic)
+reference       : 0.55 TeV
+
+energy range min     : 0.19 TeV
+energy range max     : nan TeV
+theta                : 0.3 deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : 1.86e-13 +- 1.96e-14 cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : 1.03e-13 +- 1.42e-14 cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : 0.498 +- 0.0687 (crab units)
+Integrated flux (1-10 TeV)     : 3.13e-13 +- 4.9e-14 erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 
@@ -82,7 +151,7 @@ OrderedDict([('source_id', 29),
              ('spec_flux_1TeV', <Quantity 1.0333672529868124e-13 1 / (cm2 s)>),
              ('spec_flux_1TeV_err',
               <Quantity 1.4246502943820148e-14 1 / (cm2 s)>),
-             ('spec_flux_1TeV_crab', 0.49814191),
+             ('spec_flux_1TeV_crab', 0.49814194),
              ('spec_flux_1TeV_crab_err', 0.068676263),
              ('spec_eflux_1TeV_10TeV',
               <Quantity 3.134781117412194e-13 erg / (cm2 s)>),

@@ -1,12 +1,81 @@
-Source: 3C 58
-source_id: 9
-reference_id: 2014A&A...567L...8A
 
-RA          : 31.40 deg
-DEC         : 64.83 deg
-GLON        : 130.72 deg
-GLAT        : 3.08 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 8
+Common name     : 3C 58
+Other names     : 
+Location        : gal
+Class           : pwn
+
+TeVCat ID       : 252
+TeVCat 2 ID     : 2I2TuY
+TeVCat name     : TeV J0209+648
+
+TGeVCat ID      : 9
+TGeVCat name    : TeV J0205+6451
+
+Discoverer      : magic
+Discovery date  : 2014-05
+Seen by         : magic
+Reference       : 2014A&A...567L...8A
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 31.404 deg
+DEC                  : 64.828 deg
+GLON                 : 130.718 deg
+GLAT                 : 3.084 deg
+
+Measurement:
+RA                   : 31.379 deg
+DEC                  : 64.850 deg
+GLON                 : 130.701 deg
+GLAT                 : 3.102 deg
+Position error       : 0.025 deg
+
+*** Morphology info ***
+
+Morphology model type     : point
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : 5.700
+Livetime        : 99.000 h
+
+Spectrum type   : pl 
+norm            : 2e-13 +- 4e-14 cm-2 s-1 TeV-1 (statistical)
+                  2e-13 +- 6e-14 cm-2 s-1 TeV-1 (systematic)
+index           : 2.4 +- 0.2 (statistical)
+                  2.4 +- 0.2 (systematic)
+reference       : 1.0 TeV
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : 2e-13 +- 4e-14 cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : 1.43e-13 +- 3.51e-14 cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : 0.689 +- 0.169 (crab units)
+Integrated flux (1-10 TeV)     : 4.82e-13 +- 1.35e-13 erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 

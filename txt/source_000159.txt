@@ -1,12 +1,78 @@
-Source: Arc source
-source_id: 159
-reference_id: 
 
-RA          : 266.60 deg
-DEC         : -28.88 deg
-GLON        : 0.14 deg
-GLAT        : -0.11 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 108
+Common name     : Arc source
+Other names     : HESS J1746-285,VER J1746-289,SNR G0.13-0.13,G0.13-0.11
+Location        : gal
+Class           : unid
+
+TeVCat ID       : 277
+TeVCat 2 ID     : LsZtAg
+TeVCat name     : TeV J1746-289
+
+TGeVCat ID      : -9223372036854775808
+TGeVCat name    : 
+
+Discoverer      : hess
+Discovery date  : 2015-07
+Seen by         : hess
+Reference       : 
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 266.599 deg
+DEC                  : -28.875 deg
+GLON                 : 0.141 deg
+GLAT                 : -0.113 deg
+
+Measurement:
+RA                   : nan deg
+DEC                  : nan deg
+GLON                 : nan deg
+GLAT                 : nan deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : none
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : nan h
+
+Spectrum type   : none 
+
+Spectral model printout not yet implemented.
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : nan +- nan cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan (crab units)
+Integrated flux (1-10 TeV)     : nan +- nan erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 

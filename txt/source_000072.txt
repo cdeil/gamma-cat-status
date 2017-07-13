@@ -1,12 +1,78 @@
-Source: HESS J1457-593
-source_id: 72
-reference_id: 
 
-RA          : 223.70 deg
-DEC         : -59.07 deg
-GLON        : 318.21 deg
-GLAT        : 0.10 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 71
+Common name     : HESS J1457-593
+Other names     : HESS J1457-593,G318.2+00.1,G318.2+0.1
+Location        : gal
+Class           : snr,mc
+
+TeVCat ID       : 222
+TeVCat 2 ID     : MN9aoz
+TeVCat name     : TeV J1457-594
+
+TGeVCat ID      : 72
+TGeVCat name    : TeV J1457-5928
+
+Discoverer      : hess
+Discovery date  : 2010-12
+Seen by         : hess
+Reference       : 
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 223.700 deg
+DEC                  : -59.067 deg
+GLON                 : 318.211 deg
+GLAT                 : 0.096 deg
+
+Measurement:
+RA                   : nan deg
+DEC                  : nan deg
+GLON                 : nan deg
+GLAT                 : nan deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : none
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : nan h
+
+Spectrum type   : none 
+
+Spectral model printout not yet implemented.
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : nan +- nan cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan (crab units)
+Integrated flux (1-10 TeV)     : nan +- nan erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 

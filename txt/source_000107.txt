@@ -1,12 +1,78 @@
-Source: Galactic Centre ridge
-source_id: 107
-reference_id: 
 
-RA          : 266.42 deg
-DEC         : -29.01 deg
-GLON        : 359.94 deg
-GLAT        : -0.05 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 107
+Common name     : Galactic Centre ridge
+Other names     : 
+Location        : gal
+Class           : unid
+
+TeVCat ID       : 121
+TeVCat 2 ID     : PehQOM
+TeVCat name     : TeV J1745-290d
+
+TGeVCat ID      : 107
+TGeVCat name    : TeV J1745-2900
+
+Discoverer      : hess
+Discovery date  : 2006-02
+Seen by         : hess
+Reference       : 
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 266.417 deg
+DEC                  : -29.008 deg
+GLON                 : 359.944 deg
+GLAT                 : -0.046 deg
+
+Measurement:
+RA                   : nan deg
+DEC                  : nan deg
+GLON                 : nan deg
+GLAT                 : nan deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : none
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : nan h
+
+Spectrum type   : none 
+
+Spectral model printout not yet implemented.
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : nan +- nan cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan (crab units)
+Integrated flux (1-10 TeV)     : nan +- nan erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 

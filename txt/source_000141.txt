@@ -1,12 +1,78 @@
-Source: VER J2016+371
-source_id: 141
-reference_id: 
 
-RA          : 304.01 deg
-DEC         : 37.21 deg
-GLON        : 74.95 deg
-GLAT        : 1.15 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 148
+Common name     : VER J2016+371
+Other names     : MGRO J2019+37,CTB 87
+Location        : gal
+Class           : pwn,snr
+
+TeVCat ID       : 228
+TeVCat 2 ID     : wbkK3X
+TeVCat name     : TeV J2016+372
+
+TGeVCat ID      : 141
+TGeVCat name    : TeV J2016+3711
+
+Discoverer      : veritas
+Discovery date  : 2011-08
+Seen by         : veritas,milagro
+Reference       : 
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 304.008 deg
+DEC                  : 37.215 deg
+GLON                 : 74.954 deg
+GLAT                 : 1.150 deg
+
+Measurement:
+RA                   : nan deg
+DEC                  : nan deg
+GLON                 : nan deg
+GLAT                 : nan deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : none
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : nan h
+
+Spectrum type   : none 
+
+Spectral model printout not yet implemented.
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : nan +- nan cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan (crab units)
+Integrated flux (1-10 TeV)     : nan +- nan erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 

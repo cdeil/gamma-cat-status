@@ -1,12 +1,81 @@
-Source: W 51C
-source_id: 135
-reference_id: 2012A&A...541A..13A
 
-RA          : 290.82 deg
-DEC         : 14.15 deg
-GLON        : 49.12 deg
-GLAT        : -0.46 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 142
+Common name     : W 51C
+Other names     : HESS J1923+141,SNR G49.2-0.7,0FGL J1923.0+1411
+Location        : gal
+Class           : snr,mc
+
+TeVCat ID       : 178
+TeVCat 2 ID     : ParXkE
+TeVCat name     : TeV J1923+141
+
+TGeVCat ID      : 135
+TGeVCat name    : TeV J1922+1411
+
+Discoverer      : hess
+Discovery date  : 2008-10
+Seen by         : hess,magic,milagro
+Reference       : 2012A&A...541A..13A
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 290.818 deg
+DEC                  : 14.145 deg
+GLON                 : 49.116 deg
+GLAT                 : -0.462 deg
+
+Measurement:
+RA                   : 290.730 deg
+DEC                  : 14.191 deg
+GLON                 : 49.116 deg
+GLAT                 : -0.365 deg
+Position error       : 0.015 deg
+
+*** Morphology info ***
+
+Morphology model type     : gauss
+Sigma                     : 0.120 deg
+Sigma error               : 0.020 deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : 11.400
+Livetime        : 50.000 h
+
+Spectrum type   : pl 
+norm            : 9.7e-13 +- 1e-13 cm-2 s-1 TeV-1 (statistical)
+                  9.7e-13 +- nan cm-2 s-1 TeV-1 (systematic)
+index           : 2.58 +- 0.07 (statistical)
+                  2.58 +- 0.22 (systematic)
+reference       : 1.0 TeV
+
+energy range min     : 0.075 TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : 9.7e-13 +- 1e-13 cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : 6.14e-13 +- 6.89e-14 cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : 2.96 +- 0.332 (crab units)
+Integrated flux (1-10 TeV)     : 1.97e-12 +- 2.39e-13 erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 

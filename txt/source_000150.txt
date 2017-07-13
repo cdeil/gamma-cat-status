@@ -1,12 +1,78 @@
-Source: Boomerang PWN
-source_id: 150
-reference_id: 
 
-RA          : 337.25 deg
-DEC         : 61.20 deg
-GLON        : 106.62 deg
-GLAT        : 2.92 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 156
+Common name     : Boomerang PWN
+Other names     : MGRO C4,MGRO J2228+61,0FGL J2229.0+6114,SNR G106.6+2.9,PSR J2229+6114
+Location        : gal
+Class           : pwn,snr
+
+TeVCat ID       : 182
+TeVCat 2 ID     : qsRoN6
+TeVCat name     : TeV J2228+611
+
+TGeVCat ID      : 150
+TGeVCat name    : TeV J2228+6110
+
+Discoverer      : milagro
+Discovery date  : 2009-04
+Seen by         : milagro
+Reference       : 
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 337.250 deg
+DEC                  : 61.200 deg
+GLON                 : 106.620 deg
+GLAT                 : 2.923 deg
+
+Measurement:
+RA                   : nan deg
+DEC                  : nan deg
+GLON                 : nan deg
+GLAT                 : nan deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : none
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : nan h
+
+Spectrum type   : none 
+
+Spectral model printout not yet implemented.
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : nan +- nan cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan (crab units)
+Integrated flux (1-10 TeV)     : nan +- nan erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 

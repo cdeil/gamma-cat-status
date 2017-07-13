@@ -1,12 +1,78 @@
-Source: HESS J1828-099
-source_id: 162
-reference_id: 
 
-RA          : 277.25 deg
-DEC         : -9.99 deg
-GLON        : 21.49 deg
-GLAT        : 0.38 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 123
+Common name     : HESS J1828-099
+Other names     : HESS J1828-099
+Location        : gal
+Class           : unid
+
+TeVCat ID       : 272
+TeVCat 2 ID     : 2Jribp
+TeVCat name     : TeV J1828-099
+
+TGeVCat ID      : -9223372036854775808
+TGeVCat name    : 
+
+Discoverer      : hess
+Discovery date  : 2015-07
+Seen by         : hess
+Reference       : 
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 277.250 deg
+DEC                  : -9.990 deg
+GLON                 : 21.495 deg
+GLAT                 : 0.377 deg
+
+Measurement:
+RA                   : nan deg
+DEC                  : nan deg
+GLON                 : nan deg
+GLAT                 : nan deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : none
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : nan h
+
+Spectrum type   : none 
+
+Spectral model printout not yet implemented.
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : nan +- nan cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan (crab units)
+Integrated flux (1-10 TeV)     : nan +- nan erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 

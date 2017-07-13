@@ -1,12 +1,89 @@
-Source: SNR G054.1+00.3
-source_id: 136
-reference_id: 2010ApJ...719L..69A
 
-RA          : 292.63 deg
-DEC         : 18.87 deg
-GLON        : 54.09 deg
-GLAT        : 0.26 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 143
+Common name     : SNR G054.1+00.3
+Other names     : VER J1930+188,PSR J1930+1852
+Location        : gal
+Class           : pwn,snr
+
+TeVCat ID       : 193
+TeVCat 2 ID     : F0Luol
+TeVCat name     : TeV J1930+188
+
+TGeVCat ID      : 136
+TGeVCat name    : TeV J1930+1852
+
+Discoverer      : veritas
+Discovery date  : 2009-07
+Seen by         : veritas
+Reference       : 2010ApJ...719L..69A
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 292.629 deg
+DEC                  : 18.867 deg
+GLON                 : 54.095 deg
+GLAT                 : 0.260 deg
+
+Measurement:
+RA                   : 292.633 deg
+DEC                  : 18.870 deg
+GLON                 : 54.099 deg
+GLAT                 : 0.258 deg
+Position error       : 0.024 deg
+
+*** Morphology info ***
+
+Morphology model type     : gauss
+Sigma                     : 0.055 deg
+Sigma error               : 0.008 deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : 7.000
+Livetime        : 36.600 h
+
+Spectrum type   : pl 
+norm            : 7.5e-13 +- 1.2e-13 cm-2 s-1 TeV-1 (statistical)
+                  7.5e-13 +- 1.5e-13 cm-2 s-1 TeV-1 (systematic)
+index           : 2.39 +- 0.23 (statistical)
+                  2.39 +- 0.3 (systematic)
+reference       : 1.0 TeV
+
+energy range min     : 0.25 TeV
+energy range max     : 4.0 TeV
+theta                : 0.15 deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : 7.5e-13 +- 1.2e-13 cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : 5.4e-13 +- 1.24e-13 cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : 2.6 +- 0.599 (crab units)
+Integrated flux (1-10 TeV)     : 1.83e-12 +- 5.05e-13 erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 2010ApJ...719L..69A
+Number of spectral points : 5
+Number of upper limits    : 2
+
+e_ref       dnde          dnde_err        dnde_ul    
+ TeV  1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
+----- --------------- --------------- ---------------
+  0.3       1.098e-11     5.66021e-12             nan
+  0.5     4.23584e-12     1.43402e-12             nan
+  0.8     1.11824e-12     4.53778e-13             nan
+  1.2     6.16714e-13     1.65801e-13             nan
+  2.0             nan             nan     2.89359e-13
+  3.1     3.94788e-14     2.11699e-14             nan
+  4.9             nan             nan     3.80571e-14
 
 ===
 

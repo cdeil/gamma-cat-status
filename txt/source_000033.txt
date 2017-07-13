@@ -1,12 +1,78 @@
-Source: 1ES 0647+250
-source_id: 33
-reference_id: 
 
-RA          : 102.69 deg
-DEC         : 25.05 deg
-GLON        : 190.28 deg
-GLAT        : 11.00 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 32
+Common name     : 1ES 0647+250
+Other names     : 
+Location        : egal
+Class           : hbl
+
+TeVCat ID       : 238
+TeVCat 2 ID     : zp72d7
+TeVCat name     : TeV J0650+250
+
+TGeVCat ID      : 33
+TGeVCat name    : TeV J0650+2503
+
+Discoverer      : magic
+Discovery date  : 2011-09
+Seen by         : magic,veritas
+Reference       : 
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 102.694 deg
+DEC                  : 25.050 deg
+GLON                 : 190.282 deg
+GLAT                 : 10.996 deg
+
+Measurement:
+RA                   : nan deg
+DEC                  : nan deg
+GLON                 : nan deg
+GLAT                 : nan deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : none
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : nan h
+
+Spectrum type   : none 
+
+Spectral model printout not yet implemented.
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : nan +- nan cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan (crab units)
+Integrated flux (1-10 TeV)     : nan +- nan erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
 
 ===
 

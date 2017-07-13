@@ -1,12 +1,91 @@
-Source: HESS J1641-463
-source_id: 89
-reference_id: 2014ApJ...794L...1A
 
-RA          : 250.26 deg
-DEC         : -46.30 deg
-GLON        : 338.52 deg
-GLAT        : 0.09 deg
+*** Basic info ***
 
+Catalog row index (zero-based) : 88
+Common name     : HESS J1641-463
+Other names     : HESS J1641-463,SNR G338.5+0.1
+Location        : gal
+Class           : unid
+
+TeVCat ID       : 243
+TeVCat 2 ID     : oeIIrE
+TeVCat name     : TeV J1641-463
+
+TGeVCat ID      : 89
+TGeVCat name    : TeV J1641-4618
+
+Discoverer      : hess
+Discovery date  : 2012-10
+Seen by         : hess
+Reference       : 2014ApJ...794L...1A
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 250.257 deg
+DEC                  : -46.303 deg
+GLON                 : 338.522 deg
+GLAT                 : 0.092 deg
+
+Measurement:
+RA                   : 250.259 deg
+DEC                  : -46.304 deg
+GLON                 : 338.523 deg
+GLAT                 : 0.091 deg
+Position error       : 0.011 deg
+
+*** Morphology info ***
+
+Morphology model type     : point
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : 8.500
+Livetime        : 72.000 h
+
+Spectrum type   : pl 
+norm            : 3.91e-13 +- 6.9e-14 cm-2 s-1 TeV-1 (statistical)
+                  3.91e-13 +- 7.8e-14 cm-2 s-1 TeV-1 (systematic)
+index           : 2.07 +- 0.11 (statistical)
+                  2.07 +- 0.2 (systematic)
+reference       : 1.0 TeV
+
+energy range min     : 0.64 TeV
+energy range max     : 1e+02 TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : 3.91e-13 +- 6.9e-14 cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : 3.65e-13 +- 7.46e-14 cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : 1.76 +- 0.36 (crab units)
+Integrated flux (1-10 TeV)     : 1.33e-12 +- 2.87e-13 erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 2014ApJ...794L...1A
+Number of spectral points : 7
+Number of upper limits    : 2
+
+e_ref e_min  e_max        dnde         dnde_errn       dnde_errp        dnde_ul    
+ TeV   TeV    TeV   1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
+----- ------ ------ --------------- --------------- --------------- ---------------
+  0.8 0.5623    1.0       4.332e-13        2.09e-13       2.253e-13             nan
+  1.3 1.0004 1.7787       3.037e-13        5.68e-14       6.099e-14             nan
+  2.4 1.7786 3.1626       3.797e-14       1.259e-14         1.4e-14             nan
+  4.2  3.163  5.624       1.522e-14       5.048e-15       5.605e-15             nan
+  7.4  5.623   10.0        1.12e-14        2.39e-15       2.642e-15             nan
+ 13.2  9.998 17.781       2.076e-15       7.588e-16       8.833e-16             nan
+ 23.4 17.783 31.623       6.192e-16       2.896e-16       3.551e-16             nan
+ 41.5    nan    nan             nan             nan             nan       4.101e-16
+ 68.7    nan    nan             nan             nan             nan       2.884e-16
 
 ===
 
@@ -84,12 +163,12 @@ OrderedDict([('source_id', 89),
              ('spec_flux_1TeV', <Quantity 3.6542042178636103e-13 1 / (cm2 s)>),
              ('spec_flux_1TeV_err',
               <Quantity 7.463022983888318e-14 1 / (cm2 s)>),
-             ('spec_flux_1TeV_crab', 1.7615347),
+             ('spec_flux_1TeV_crab', 1.7615348),
              ('spec_flux_1TeV_crab_err', 0.35976025),
              ('spec_eflux_1TeV_10TeV',
-              <Quantity 1.3322103836754806e-12 erg / (cm2 s)>),
+              <Quantity 1.3322104920956979e-12 erg / (cm2 s)>),
              ('spec_eflux_1TeV_10TeV_err',
-              <Quantity 2.8675147109233357e-13 erg / (cm2 s)>),
+              <Quantity 2.867514981973879e-13 erg / (cm2 s)>),
              ('sed_reference_id', '2014ApJ...794L...1A'),
              ('sed_n_points', 7),
              ('sed_n_ul', 2),
