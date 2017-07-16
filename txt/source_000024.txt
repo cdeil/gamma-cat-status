@@ -77,9 +77,9 @@ Number of upper limits    : 1
 e_ref       dnde         dnde_errn       dnde_errp        dnde_ul    
  TeV  1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
 ----- --------------- --------------- --------------- ---------------
-  1.6       3.167e-14       4.332e-14       2.095e-14             nan
-  4.0       5.483e-15       6.962e-15       4.186e-15             nan
- 12.7       2.309e-16       3.828e-16       1.219e-16             nan
+  1.6       3.167e-14       1.072e-14       1.165e-14             nan
+  4.0       5.483e-15       1.297e-15       1.479e-15             nan
+ 12.7       2.309e-16        1.09e-16       1.519e-16             nan
  27.1             nan             nan             nan       2.736e-16
 
 ===
@@ -208,7 +208,7 @@ OrderedDict([('source_id', 24),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
              ('sed_dnde_errp',
-              <Quantity [  2.09499996e-14,  4.18599998e-15,  1.21900005e-16,
+              <Quantity [  1.16499997e-14,  1.47899999e-15,  1.51899993e-16,
                         nan,             nan,             nan,
                         nan,             nan,             nan,
                         nan,             nan,             nan,
@@ -223,7 +223,7 @@ OrderedDict([('source_id', 24),
                         nan,             nan,             nan,
                         nan] 1 / (cm2 s TeV)>),
              ('sed_dnde_errn',
-              <Quantity [  4.33199991e-14,  6.96200012e-15,  3.82799997e-16,
+              <Quantity [  1.07199999e-14,  1.29700004e-15,  1.08999998e-16,
                         nan,             nan,             nan,
                         nan,             nan,             nan,
                         nan,             nan,             nan,
@@ -259,7 +259,7 @@ OrderedDict([('source_id', 24),
 e_ref       dnde         dnde_errn       dnde_errp        dnde_ul    
  TeV  1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
 ----- --------------- --------------- --------------- ---------------
-1.559       3.167e-14       4.332e-14       2.095e-14             nan
-4.033       5.483e-15       6.962e-15       4.186e-15             nan
-12.71       2.309e-16       3.828e-16       1.219e-16             nan
+1.559       3.167e-14       1.072e-14       1.165e-14             nan
+4.033       5.483e-15       1.297e-15       1.479e-15             nan
+12.71       2.309e-16        1.09e-16       1.519e-16             nan
 27.13             nan             nan             nan       2.736e-16
