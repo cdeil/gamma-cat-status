@@ -146,7 +146,7 @@ source_id,common_name,where,classes,reference_id,morph_type,spec_type
 141,VER J2016+371,gal,"pwn,snr",,none,none
 142,Dragonfly,gal,"pwn,unid",,none,none
 143,VER J2019+368,gal,unid,2014ApJ...788...78A,gauss,pl
-144,Gamma Cygni,gal,unid,,none,none
+144,Gamma Cygni,gal,unid,2013ApJ...770...93A,gauss,pl
 145,MGRO J2031+41,gal,unid,,none,none
 146,TeV J2032+4130,gal,unid,2014ApJ...783...16A,gauss,pl
 150,Boomerang PWN,gal,"pwn,snr",,none,none
@@ -160,4 +160,5 @@ source_id,common_name,where,classes,reference_id,morph_type,spec_type
 162,HESS J1828-099,gal,unid,,none,none
 163,HESS J1832-085,gal,unid,,none,none
 164,HESS J1844-030,gal,unid,,none,none
+165,VER J1746-289,gal,unid,2016ApJ...821..129A,gauss,none
 12,MAGIC J0223+403,unid,unid,,none,none

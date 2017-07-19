@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 159
+Catalog row index (zero-based) : 160
 Common name     : Cassiopeia A
 Other names     : Cas A,3C461,G111.7-2.1
 Location        : gal
@@ -200,7 +200,7 @@ OrderedDict([('source_id', 153),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 159)])
+             ('catalog_row_index', 160)])
 
 ===
 

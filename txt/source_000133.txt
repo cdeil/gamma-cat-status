@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 140
+Catalog row index (zero-based) : 141
 Common name     : W 49B
 Other names     : HESS J1911+090,SNR G043.3-00.2,0FGL J1911.0+0905,1FGL J1910.9+0906c
 Location        : gal
@@ -263,7 +263,7 @@ OrderedDict([('source_id', 133),
                         nan,             nan,             nan,
                         nan,             nan,             nan,
                         nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 140)])
+             ('catalog_row_index', 141)])
 
 ===
 

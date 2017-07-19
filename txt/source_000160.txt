@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 117
+Catalog row index (zero-based) : 118
 Common name     : HESS J1813-126
 Other names     : HESS J1813-126,PSR J1813-1246
 Location        : gal
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 160),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 117)])
+             ('catalog_row_index', 118)])
 
 ===
 

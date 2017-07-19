@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 156
+Catalog row index (zero-based) : 157
 Common name     : Boomerang PWN
 Other names     : MGRO C4,MGRO J2228+61,0FGL J2229.0+6114,SNR G106.6+2.9,PSR J2229+6114
 Location        : gal
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 150),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 156)])
+             ('catalog_row_index', 157)])
 
 ===
 

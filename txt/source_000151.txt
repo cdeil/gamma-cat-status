@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 157
+Catalog row index (zero-based) : 158
 Common name     : RGB J2243+203
 Other names     : 
 Location        : egal
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 151),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 157)])
+             ('catalog_row_index', 158)])
 
 ===
 

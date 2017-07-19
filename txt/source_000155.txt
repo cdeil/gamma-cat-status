@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 161
+Catalog row index (zero-based) : 162
 Common name     : H 2356-309
 Other names     : HESS J2359-306,1H 2354-315
 Location        : egal
@@ -230,7 +230,7 @@ OrderedDict([('source_id', 155),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 161)])
+             ('catalog_row_index', 162)])
 
 ===
 

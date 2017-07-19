@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 158
+Catalog row index (zero-based) : 159
 Common name     : B3 2247+381
 Other names     : 
 Location        : egal
@@ -230,7 +230,7 @@ OrderedDict([('source_id', 152),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 158)])
+             ('catalog_row_index', 159)])
 
 ===
 

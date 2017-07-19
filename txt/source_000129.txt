@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 135
+Catalog row index (zero-based) : 136
 Common name     : HESS J1849-000
 Other names     : HESS J1849-000,IGR J18490-0000,3C 391,PSR J1849-0001
 Location        : gal
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 129),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 135)])
+             ('catalog_row_index', 136)])
 
 ===
 

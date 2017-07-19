@@ -1,54 +1,54 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 151
-Common name     : Dragonfly
-Other names     : MGRO J2019+37,VER J2019+368,VER J2016+371,0FGL J2020.8+3649
+Catalog row index (zero-based) : 108
+Common name     : VER J1746-289
+Other names     : VER J1746-289,HESS J1746-285,MAGIC J1746.4-2853,Arc source,GC Radio Arc
 Location        : gal
-Class           : pwn,unid
+Class           : unid
 
-TeVCat ID       : 145
-TeVCat 2 ID     : RZ7qzv
-TeVCat name     : TeV J2019+368
+TeVCat ID       : 269
+TeVCat 2 ID     : LsZtAg
+TeVCat name     : TeV J1746-289
 
-TGeVCat ID      : 142
-TGeVCat name    : TeV J2018+3642
+TGeVCat ID      : -9223372036854775808
+TGeVCat name    : 
 
-Discoverer      : milagro
-Discovery date  : 2007-03
-Seen by         : milagro,veritas
-Reference       : 
+Discoverer      : veritas
+Discovery date  : 2014-06
+Seen by         : veritas,hess,magic
+Reference       : 2016ApJ...821..129A
 
 *** Position info ***
 
 SIMBAD:
-RA                   : 305.273 deg
-DEC                  : 36.851 deg
-GLON                 : 75.222 deg
-GLAT                 : 0.111 deg
+RA                   : 266.582 deg
+DEC                  : -28.966 deg
+GLON                 : 0.055 deg
+GLAT                 : -0.148 deg
 
 Measurement:
-RA                   : nan deg
-DEC                  : nan deg
-GLON                 : nan deg
-GLAT                 : nan deg
-Position error       : nan deg
+RA                   : 266.582 deg
+DEC                  : -28.966 deg
+GLON                 : 0.055 deg
+GLAT                 : -0.148 deg
+Position error       : 0.010 deg
 
 *** Morphology info ***
 
-Morphology model type     : none
-Sigma                     : nan deg
+Morphology model type     : gauss
+Sigma                     : 0.080 deg
 Sigma error               : nan deg
-Sigma2                    : nan deg
+Sigma2                    : 0.030 deg
 Sigma2 error              : nan deg
-Position angle            : nan deg
+Position angle            : 15.400 deg
 Position angle error      : nan deg
-Position angle frame      : 
+Position angle frame      : galactic
 
 *** Spectral info ***
 
-Significance    : nan
-Livetime        : nan h
+Significance    : 6.700
+Livetime        : 85.000 h
 
 Spectrum type   : none 
 
@@ -76,41 +76,41 @@ No spectral points available for this source.
 
 ===
 
-OrderedDict([('source_id', 142),
-             ('common_name', 'Dragonfly'),
-             ('gamma_names', 'MGRO J2019+37,VER J2019+368,VER J2016+371'),
+OrderedDict([('source_id', 165),
+             ('common_name', 'VER J1746-289'),
+             ('gamma_names', 'VER J1746-289,HESS J1746-285,MAGIC J1746.4-2853'),
              ('fermi_names', ''),
-             ('other_names', '0FGL J2020.8+3649'),
+             ('other_names', 'Arc source,GC Radio Arc'),
              ('where', 'gal'),
-             ('classes', 'pwn,unid'),
-             ('discoverer', 'milagro'),
-             ('seen_by', 'milagro,veritas'),
-             ('discovery_date', '2007-03'),
-             ('tevcat_id', 145),
-             ('tevcat2_id', 'RZ7qzv'),
-             ('tevcat_name', 'TeV J2019+368'),
-             ('tgevcat_id', 142),
-             ('tgevcat_name', 'TeV J2018+3642'),
-             ('reference_id', ''),
-             ('significance', nan),
-             ('livetime', <Quantity nan h>),
-             ('ra', <Quantity 305.27252197265625 deg>),
-             ('dec', <Quantity 36.851261138916016 deg>),
-             ('glon', <Quantity 75.22187042236328 deg>),
-             ('glat', <Quantity 0.11098740994930267 deg>),
-             ('pos_ra', <Quantity nan deg>),
-             ('pos_dec', <Quantity nan deg>),
-             ('pos_glon', <Quantity nan deg>),
-             ('pos_glat', <Quantity nan deg>),
-             ('pos_err', <Quantity nan deg>),
-             ('morph_type', 'none'),
-             ('morph_sigma', <Quantity nan deg>),
+             ('classes', 'unid'),
+             ('discoverer', 'veritas'),
+             ('seen_by', 'veritas,hess,magic'),
+             ('discovery_date', '2014-06'),
+             ('tevcat_id', 269),
+             ('tevcat2_id', 'LsZtAg'),
+             ('tevcat_name', 'TeV J1746-289'),
+             ('tgevcat_id', -9223372036854775808),
+             ('tgevcat_name', ''),
+             ('reference_id', '2016ApJ...821..129A'),
+             ('significance', 6.6999998),
+             ('livetime', <Quantity 85.0 h>),
+             ('ra', <Quantity 266.58209228515625 deg>),
+             ('dec', <Quantity -28.96622657775879 deg>),
+             ('glon', <Quantity 0.05499047413468361 deg>),
+             ('glat', <Quantity -0.14797726273536682 deg>),
+             ('pos_ra', <Quantity 266.5821228027344 deg>),
+             ('pos_dec', <Quantity -28.966230392456055 deg>),
+             ('pos_glon', <Quantity 0.054999999701976776 deg>),
+             ('pos_glat', <Quantity -0.14800000190734863 deg>),
+             ('pos_err', <Quantity 0.009999999776482582 deg>),
+             ('morph_type', 'gauss'),
+             ('morph_sigma', <Quantity 0.07999999821186066 deg>),
              ('morph_sigma_err', <Quantity nan deg>),
-             ('morph_sigma2', <Quantity nan deg>),
+             ('morph_sigma2', <Quantity 0.029999999329447746 deg>),
              ('morph_sigma2_err', <Quantity nan deg>),
-             ('morph_pa', <Quantity nan deg>),
+             ('morph_pa', <Quantity 15.399999618530273 deg>),
              ('morph_pa_err', <Quantity nan deg>),
-             ('morph_pa_frame', ''),
+             ('morph_pa_frame', 'galactic'),
              ('spec_type', 'none'),
              ('spec_pl_norm', <Quantity nan 1 / (cm2 s TeV)>),
              ('spec_pl_norm_err', <Quantity nan 1 / (cm2 s TeV)>),
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 142),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 151)])
+             ('catalog_row_index', 108)])
 
 ===
 

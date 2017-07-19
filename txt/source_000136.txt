@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 143
+Catalog row index (zero-based) : 144
 Common name     : SNR G054.1+00.3
 Other names     : VER J1930+188,PSR J1930+1852
 Location        : gal
@@ -243,7 +243,7 @@ OrderedDict([('source_id', 136),
                         nan,             nan,             nan,
                         nan,             nan,             nan,
                         nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 143)])
+             ('catalog_row_index', 144)])
 
 ===
 

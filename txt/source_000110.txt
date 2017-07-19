@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 109
+Catalog row index (zero-based) : 110
 Common name     : SNR G0.9+0.1
 Other names     : HESS J1747-281,SNR G000.9+00.1
 Location        : gal
@@ -234,7 +234,7 @@ OrderedDict([('source_id', 110),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 109)])
+             ('catalog_row_index', 110)])
 
 ===
 

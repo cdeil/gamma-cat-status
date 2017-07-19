@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 112
+Catalog row index (zero-based) : 113
 Common name     : W28
 Other names     : HESS J1801-233,W 28,SNR G6.4-0.1,SNR G006.4-00.1,GRO J1801-2320
 Location        : gal
@@ -246,7 +246,7 @@ OrderedDict([('source_id', 112),
                         nan,             nan,             nan,
                         nan,             nan,             nan,
                         nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 112)])
+             ('catalog_row_index', 113)])
 
 ===
 

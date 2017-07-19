@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 154
+Catalog row index (zero-based) : 155
 Common name     : PKS 2155-304
 Other names     : HESS J2158-302
 Location        : egal
@@ -238,7 +238,7 @@ OrderedDict([('source_id', 147),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 154)])
+             ('catalog_row_index', 155)])
 
 ===
 
