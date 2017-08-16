@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 2
 Common name     : Tycho SNR
-Other names     : SNR G120.1+1.4,3C10,SN1572
+Other names     : VER J0025+641,SNR G120.1+1.4,3C10,SN1572
 Location        : gal
 Class           : snr
 
@@ -88,7 +88,7 @@ e_ref       dnde          dnde_err        dnde_ul
 
 OrderedDict([('source_id', 3),
              ('common_name', 'Tycho SNR'),
-             ('gamma_names', ''),
+             ('gamma_names', 'VER J0025+641'),
              ('fermi_names', ''),
              ('other_names', 'SNR G120.1+1.4,3C10,SN1572'),
              ('where', 'gal'),

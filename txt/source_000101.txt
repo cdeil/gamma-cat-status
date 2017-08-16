@@ -1,9 +1,9 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 100
+Catalog row index (zero-based) : 102
 Common name     : 1ES 1727+502
-Other names     : OT546
+Other names     : VER J1728+502,OT546
 Location        : egal
 Class           : hbl
 
@@ -78,7 +78,7 @@ No spectral points available for this source.
 
 OrderedDict([('source_id', 101),
              ('common_name', '1ES 1727+502'),
-             ('gamma_names', ''),
+             ('gamma_names', 'VER J1728+502'),
              ('fermi_names', ''),
              ('other_names', 'OT546'),
              ('where', 'egal'),
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 101),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 100)])
+             ('catalog_row_index', 102)])
 
 ===
 

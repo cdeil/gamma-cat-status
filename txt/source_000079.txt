@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 77
+Catalog row index (zero-based) : 79
 Common name     : MSH 15-5-02
 Other names     : HESS J1514-591,G320.3-01.1,MSH 15-52
 Location        : gal
@@ -254,7 +254,7 @@ OrderedDict([('source_id', 79),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 77)])
+             ('catalog_row_index', 79)])
 
 ===
 

@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 30
+Catalog row index (zero-based) : 31
 Common name     : Geminga
 Other names     : MGRO J0632+17
 Location        : gal
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 31),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 30)])
+             ('catalog_row_index', 31)])
 
 ===
 

@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 86
+Catalog row index (zero-based) : 88
 Common name     : HESS J1634-472
 Other names     : HESS J1634-472
 Location        : gal
@@ -244,7 +244,7 @@ OrderedDict([('source_id', 87),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 86)])
+             ('catalog_row_index', 88)])
 
 ===
 

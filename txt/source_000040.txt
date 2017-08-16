@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 39
+Catalog row index (zero-based) : 40
 Common name     : M 82
 Other names     : 1FGL J0956.5+6938,2FGL J0955.9+6936,3FGL J0955.4+6940,NGC 3034
 Location        : egal
@@ -192,7 +192,7 @@ OrderedDict([('source_id', 40),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 39)])
+             ('catalog_row_index', 40)])
 
 ===
 

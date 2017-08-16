@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 36
+Catalog row index (zero-based) : 37
 Common name     : Vela X
 Other names     : HESS J0835-455
 Location        : gal
@@ -265,7 +265,7 @@ OrderedDict([('source_id', 37),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 36)])
+             ('catalog_row_index', 37)])
 
 ===
 

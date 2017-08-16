@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 37
+Catalog row index (zero-based) : 38
 Common name     : RBS 0723
 Other names     : 1FGL J0847.2+113,2FGL J0847.2+1134,3FGL J0847.1+1134,1FHL J0847.0+1132
 Location        : egal
@@ -192,7 +192,7 @@ OrderedDict([('source_id', 38),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 37)])
+             ('catalog_row_index', 38)])
 
 ===
 

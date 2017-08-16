@@ -1,9 +1,9 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 146
+Catalog row index (zero-based) : 148
 Common name     : 1ES 1959+650
-Other names     : 
+Other names     : VER J1959+651
 Location        : egal
 Class           : hbl
 
@@ -100,7 +100,7 @@ e_ref       dnde         dnde_errn       dnde_errp
 
 OrderedDict([('source_id', 138),
              ('common_name', '1ES 1959+650'),
-             ('gamma_names', ''),
+             ('gamma_names', 'VER J1959+651'),
              ('fermi_names', ''),
              ('other_names', ''),
              ('where', 'egal'),
@@ -249,7 +249,7 @@ OrderedDict([('source_id', 138),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 146)])
+             ('catalog_row_index', 148)])
 
 ===
 

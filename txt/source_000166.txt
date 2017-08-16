@@ -1,0 +1,198 @@
+
+*** Basic info ***
+
+Catalog row index (zero-based) : 24
+Common name     : Crab pulsar
+Other names     : PSR 0531+21,V* CM Tau
+Location        : gal
+Class           : psr
+
+TeVCat ID       : 129
+TeVCat 2 ID     : 06r8mb
+TeVCat name     : TeV J0534+220p
+
+TGeVCat ID      : -9223372036854775808
+TGeVCat name    : 
+
+Discoverer      : magic
+Discovery date  : 2008-11
+Seen by         : magic,veritas
+Reference       : 
+
+*** Position info ***
+
+SIMBAD:
+RA                   : 83.633 deg
+DEC                  : 22.014 deg
+GLON                 : 184.557 deg
+GLAT                 : -5.784 deg
+
+Measurement:
+RA                   : nan deg
+DEC                  : nan deg
+GLON                 : nan deg
+GLAT                 : nan deg
+Position error       : nan deg
+
+*** Morphology info ***
+
+Morphology model type     : none
+Sigma                     : nan deg
+Sigma error               : nan deg
+Sigma2                    : nan deg
+Sigma2 error              : nan deg
+Position angle            : nan deg
+Position angle error      : nan deg
+Position angle frame      : 
+
+*** Spectral info ***
+
+Significance    : nan
+Livetime        : nan h
+
+Spectrum type   : none 
+
+Spectral model printout not yet implemented.
+
+energy range min     : nan TeV
+energy range max     : nan TeV
+theta                : nan deg
+
+
+Derived fluxes:
+Spectral model norm (1 TeV)    : nan +- nan cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : nan +- nan (crab units)
+Integrated flux (1-10 TeV)     : nan +- nan erg cm-2 s-1 (statistical)
+
+*** Spectral points ***
+
+SED reference id          : 
+Number of spectral points : 0
+Number of upper limits    : 0
+
+
+No spectral points available for this source.
+
+===
+
+OrderedDict([('source_id', 166),
+             ('common_name', 'Crab pulsar'),
+             ('gamma_names', ''),
+             ('fermi_names', ''),
+             ('other_names', 'PSR 0531+21,V* CM Tau'),
+             ('where', 'gal'),
+             ('classes', 'psr'),
+             ('discoverer', 'magic'),
+             ('seen_by', 'magic,veritas'),
+             ('discovery_date', '2008-11'),
+             ('tevcat_id', 129),
+             ('tevcat2_id', '06r8mb'),
+             ('tevcat_name', 'TeV J0534+220p'),
+             ('tgevcat_id', -9223372036854775808),
+             ('tgevcat_name', ''),
+             ('reference_id', ''),
+             ('significance', nan),
+             ('livetime', <Quantity nan h>),
+             ('ra', <Quantity 83.6330795288086 deg>),
+             ('dec', <Quantity 22.014493942260742 deg>),
+             ('glon', <Quantity 184.55746459960938 deg>),
+             ('glat', <Quantity -5.784365653991699 deg>),
+             ('pos_ra', <Quantity nan deg>),
+             ('pos_dec', <Quantity nan deg>),
+             ('pos_glon', <Quantity nan deg>),
+             ('pos_glat', <Quantity nan deg>),
+             ('pos_err', <Quantity nan deg>),
+             ('morph_type', 'none'),
+             ('morph_sigma', <Quantity nan deg>),
+             ('morph_sigma_err', <Quantity nan deg>),
+             ('morph_sigma2', <Quantity nan deg>),
+             ('morph_sigma2_err', <Quantity nan deg>),
+             ('morph_pa', <Quantity nan deg>),
+             ('morph_pa_err', <Quantity nan deg>),
+             ('morph_pa_frame', ''),
+             ('spec_type', 'none'),
+             ('spec_pl_norm', <Quantity nan 1 / (cm2 s TeV)>),
+             ('spec_pl_norm_err', <Quantity nan 1 / (cm2 s TeV)>),
+             ('spec_pl_norm_err_sys', <Quantity nan 1 / (cm2 s TeV)>),
+             ('spec_pl_index', nan),
+             ('spec_pl_index_err', nan),
+             ('spec_pl_index_err_sys', nan),
+             ('spec_pl_e_ref', <Quantity nan TeV>),
+             ('spec_pl2_flux', <Quantity nan 1 / (cm2 s)>),
+             ('spec_pl2_flux_err', <Quantity nan 1 / (cm2 s)>),
+             ('spec_pl2_flux_err_sys', <Quantity nan 1 / (cm2 s)>),
+             ('spec_pl2_index', nan),
+             ('spec_pl2_index_err', nan),
+             ('spec_pl2_index_err_sys', nan),
+             ('spec_pl2_e_min', <Quantity nan TeV>),
+             ('spec_pl2_e_max', <Quantity nan TeV>),
+             ('spec_ecpl_norm', <Quantity nan 1 / (cm2 s TeV)>),
+             ('spec_ecpl_norm_err', <Quantity nan 1 / (cm2 s TeV)>),
+             ('spec_ecpl_norm_err_sys', <Quantity nan 1 / (cm2 s TeV)>),
+             ('spec_ecpl_index', nan),
+             ('spec_ecpl_index_err', nan),
+             ('spec_ecpl_index_err_sys', nan),
+             ('spec_ecpl_e_cut', <Quantity nan TeV>),
+             ('spec_ecpl_e_cut_err', <Quantity nan TeV>),
+             ('spec_ecpl_e_cut_err_sys', <Quantity nan TeV>),
+             ('spec_ecpl_e_ref', <Quantity nan TeV>),
+             ('spec_erange_min', <Quantity nan TeV>),
+             ('spec_erange_max', <Quantity nan TeV>),
+             ('spec_theta', <Quantity nan deg>),
+             ('spec_dnde_1TeV', <Quantity nan 1 / (cm2 s TeV)>),
+             ('spec_dnde_1TeV_err', <Quantity nan 1 / (cm2 s TeV)>),
+             ('spec_flux_1TeV', <Quantity nan 1 / (cm2 s)>),
+             ('spec_flux_1TeV_err', <Quantity nan 1 / (cm2 s)>),
+             ('spec_flux_1TeV_crab', nan),
+             ('spec_flux_1TeV_crab_err', nan),
+             ('spec_eflux_1TeV_10TeV', <Quantity nan erg / (cm2 s)>),
+             ('spec_eflux_1TeV_10TeV_err', <Quantity nan erg / (cm2 s)>),
+             ('sed_reference_id', ''),
+             ('sed_n_points', 0),
+             ('sed_n_ul', 0),
+             ('sed_e_ref',
+              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan] TeV>),
+             ('sed_e_min',
+              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan] TeV>),
+             ('sed_e_max',
+              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan] TeV>),
+             ('sed_dnde',
+              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan] 1 / (cm2 s TeV)>),
+             ('sed_dnde_err',
+              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan] 1 / (cm2 s TeV)>),
+             ('sed_dnde_errp',
+              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan] 1 / (cm2 s TeV)>),
+             ('sed_dnde_errn',
+              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan] 1 / (cm2 s TeV)>),
+             ('sed_dnde_ul',
+              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan] 1 / (cm2 s TeV)>),
+             ('catalog_row_index', 24)])
+
+===
+
+No flux points available.

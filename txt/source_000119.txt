@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 123
+Catalog row index (zero-based) : 125
 Common name     : LS 5039
 Other names     : HESS J1826-148,RX J1826.2-1450
 Location        : gal
@@ -248,7 +248,7 @@ OrderedDict([('source_id', 119),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 123)])
+             ('catalog_row_index', 125)])
 
 ===
 

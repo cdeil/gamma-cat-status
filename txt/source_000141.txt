@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 149
+Catalog row index (zero-based) : 151
 Common name     : VER J2016+371
 Other names     : MGRO J2019+37,CTB 87
 Location        : gal
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 141),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 149)])
+             ('catalog_row_index', 151)])
 
 ===
 

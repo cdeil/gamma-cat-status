@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 68
+Catalog row index (zero-based) : 69
 Common name     : H 1426+428
 Other names     : 1ES 1426+428,1H 1430+423
 Location        : egal
@@ -230,7 +230,7 @@ OrderedDict([('source_id', 69),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 68)])
+             ('catalog_row_index', 69)])
 
 ===
 

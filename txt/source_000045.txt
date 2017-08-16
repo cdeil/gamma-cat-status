@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 44
+Catalog row index (zero-based) : 45
 Common name     : HESS J1018-589 A
 Other names     : HESS J1018-589 A,SNR G284.3-01.8,MSH 10-53
 Location        : gal
@@ -248,7 +248,7 @@ OrderedDict([('source_id', 45),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 44)])
+             ('catalog_row_index', 45)])
 
 ===
 

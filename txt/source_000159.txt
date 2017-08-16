@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 109
+Catalog row index (zero-based) : 111
 Common name     : Arc source
 Other names     : HESS J1746-285,VER J1746-289,SNR G0.13-0.13,G0.13-0.11
 Location        : gal
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 159),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 109)])
+             ('catalog_row_index', 111)])
 
 ===
 

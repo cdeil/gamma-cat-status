@@ -64,12 +64,13 @@ source_id,common_name,where,classes,reference_id,morph_type,spec_type
 152,B3 2247+381,egal,hbl,,none,none
 154,1ES 2344+514,egal,hbl,,none,none
 155,H 2356-309,egal,hbl,,none,none
+167,PKS 1441+25,egal,fsrq,2015ApJ...815L..22A,none,pl2
 1,CTA 1,gal,"pwn,snr",2013ApJ...764...38A,gauss,pl
 3,Tycho SNR,gal,snr,2017ApJ...836...23A,point,pl
 9,3C 58,gal,pwn,2014A&A...567L...8A,point,pl
 14,LS I +61 303,gal,bin,2016ApJ...817L...7A,none,pl
 25,Crab nebula,gal,pwn,2014ApJ...781L..11A,none,pl
-29,IC 443,gal,snr,2015arXiv151201911H,shell,pl
+29,IC 443,gal,snr,2009ApJ...698L.133A,gauss,pl
 30,HESS J0632+057,gal,bin,2016arXiv161003751S,point,pl
 31,Geminga,gal,"psr,pwn",,none,none
 37,Vela X,gal,pwn,2012A&A...548A..38A,gauss,ecpl
@@ -149,8 +150,9 @@ source_id,common_name,where,classes,reference_id,morph_type,spec_type
 144,Gamma Cygni,gal,unid,2013ApJ...770...93A,gauss,pl
 145,MGRO J2031+41,gal,unid,,none,none
 146,TeV J2032+4130,gal,unid,2014ApJ...783...16A,gauss,pl
+149,SNR G106.3+02.7,gal,"pwn,snr",2009ApJ...703L...6A,gauss,pl
 150,Boomerang PWN,gal,"pwn,snr",,none,none
-153,Cassiopeia A,gal,snr,2015arXiv151100309G,point,pl
+153,Cassiopeia A,gal,snr,2010ApJ...714..163A,point,pl
 156,HESS J1800-240B,gal,"snr,mc",2008A&A...481..401A,gauss,pl
 157,HESS J1852-000,gal,unid,,none,none
 158,SNR G323.7-01.0,gal,snr,,none,none
@@ -161,4 +163,5 @@ source_id,common_name,where,classes,reference_id,morph_type,spec_type
 163,HESS J1832-085,gal,unid,,none,none
 164,HESS J1844-030,gal,unid,,none,none
 165,VER J1746-289,gal,unid,2016ApJ...821..129A,gauss,none
+166,Crab pulsar,gal,psr,,none,none
 12,MAGIC J0223+403,unid,unid,,none,none

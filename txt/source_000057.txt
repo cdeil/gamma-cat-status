@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 55
+Catalog row index (zero-based) : 56
 Common name     : MS1221.8+2452
 Other names     : RGB J1224+246
 Location        : egal
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 57),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 55)])
+             ('catalog_row_index', 56)])
 
 ===
 

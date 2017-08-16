@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 19
 Common name     : 1ES 0414+009
-Other names     : 
+Other names     : VER J0416+011
 Location        : egal
 Class           : hbl
 
@@ -83,7 +83,7 @@ e_ref       dnde         dnde_errn       dnde_errp
 
 OrderedDict([('source_id', 20),
              ('common_name', '1ES 0414+009'),
-             ('gamma_names', ''),
+             ('gamma_names', 'VER J0416+011'),
              ('fermi_names', ''),
              ('other_names', ''),
              ('where', 'egal'),

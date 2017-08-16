@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 105
+Catalog row index (zero-based) : 107
 Common name     : HESS J1745-303
 Other names     : G359.1-0.5
 Location        : gal
@@ -246,7 +246,7 @@ OrderedDict([('source_id', 108),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 105)])
+             ('catalog_row_index', 107)])
 
 ===
 

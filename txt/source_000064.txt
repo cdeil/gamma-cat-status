@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 63
+Catalog row index (zero-based) : 64
 Common name     : HESS J1356-645
 Other names     : HESS J1356-645,PSR J1357-6429
 Location        : gal
@@ -235,7 +235,7 @@ OrderedDict([('source_id', 64),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 63)])
+             ('catalog_row_index', 64)])
 
 ===
 

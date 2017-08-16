@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 147
+Catalog row index (zero-based) : 149
 Common name     : MAGIC J2001+435
 Other names     : 1FGL J2001.1+4351,MG4 J200112+4352
 Location        : egal
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 139),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 147)])
+             ('catalog_row_index', 149)])
 
 ===
 

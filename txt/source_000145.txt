@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 153
+Catalog row index (zero-based) : 155
 Common name     : MGRO J2031+41
 Other names     : TeV J2032+4130,TeV 2032+413,0FGL J2032.2+4122
 Location        : gal
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 145),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 153)])
+             ('catalog_row_index', 155)])
 
 ===
 

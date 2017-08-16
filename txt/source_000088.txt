@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 87
+Catalog row index (zero-based) : 89
 Common name     : HESS J1640-465
 Other names     : HESS J1640-465,SNR G338.3-0.0
 Location        : gal
@@ -283,7 +283,7 @@ OrderedDict([('source_id', 88),
                         nan,             nan,             nan,
                         nan,             nan,             nan,
                         nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 87)])
+             ('catalog_row_index', 89)])
 
 ===
 

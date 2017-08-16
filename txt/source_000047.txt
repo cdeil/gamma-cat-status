@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 46
+Catalog row index (zero-based) : 47
 Common name     : HESS J1026-582
 Other names     : HESS J1026-582,PSR J1028-5819
 Location        : gal
@@ -244,7 +244,7 @@ OrderedDict([('source_id', 47),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 46)])
+             ('catalog_row_index', 47)])
 
 ===
 

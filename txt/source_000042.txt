@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 41
+Catalog row index (zero-based) : 42
 Common name     : 1RXS J101015.9-311909
 Other names     : 
 Location        : egal
@@ -230,7 +230,7 @@ OrderedDict([('source_id', 42),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 41)])
+             ('catalog_row_index', 42)])
 
 ===
 

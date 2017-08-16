@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 48
+Catalog row index (zero-based) : 49
 Common name     : Markarian 421
 Other names     : HESS J1104+382,Markarian 421,Mrk 421,1ES 1101+384,1H 1104+382,H 1105+38
 Location        : egal
@@ -235,7 +235,7 @@ OrderedDict([('source_id', 49),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 48)])
+             ('catalog_row_index', 49)])
 
 ===
 

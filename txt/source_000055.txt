@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 53
+Catalog row index (zero-based) : 54
 Common name     : 1ES 1218+304
 Other names     : VER J1221+301,1H 1219+301,H 1219+305,QSO B1218+304
 Location        : egal
@@ -235,7 +235,7 @@ OrderedDict([('source_id', 55),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 53)])
+             ('catalog_row_index', 54)])
 
 ===
 

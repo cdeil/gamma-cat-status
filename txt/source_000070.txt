@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 69
+Catalog row index (zero-based) : 70
 Common name     : RCW 86
 Other names     : HESS J1442-624,G315.4-2.3,MSH 14-63
 Location        : gal
@@ -260,7 +260,7 @@ OrderedDict([('source_id', 70),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 69)])
+             ('catalog_row_index', 70)])
 
 ===
 

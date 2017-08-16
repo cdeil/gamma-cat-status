@@ -1,9 +1,9 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 104
+Catalog row index (zero-based) : 106
 Common name     : 1ES 1741+196
-Other names     : 
+Other names     : VER J1744+195
 Location        : egal
 Class           : hbl
 
@@ -86,7 +86,7 @@ e_ref       dnde          dnde_err        dnde_ul
 
 OrderedDict([('source_id', 105),
              ('common_name', '1ES 1741+196'),
-             ('gamma_names', ''),
+             ('gamma_names', 'VER J1744+195'),
              ('fermi_names', ''),
              ('other_names', ''),
              ('where', 'egal'),
@@ -240,7 +240,7 @@ OrderedDict([('source_id', 105),
                         nan,             nan,             nan,
                         nan,             nan,             nan,
                         nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 104)])
+             ('catalog_row_index', 106)])
 
 ===
 

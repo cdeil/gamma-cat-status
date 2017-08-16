@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 137
+Catalog row index (zero-based) : 139
 Common name     : HESS J1852-000
 Other names     : HESS J1852-000,Kes 78
 Location        : gal
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 157),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 137)])
+             ('catalog_row_index', 139)])
 
 ===
 

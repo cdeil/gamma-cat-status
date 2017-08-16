@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 120
+Catalog row index (zero-based) : 122
 Common name     : SNR G15.4+0.1
 Other names     : HESS J1818-154
 Location        : gal
@@ -250,7 +250,7 @@ OrderedDict([('source_id', 117),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 120)])
+             ('catalog_row_index', 122)])
 
 ===
 

@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 108
+Catalog row index (zero-based) : 110
 Common name     : VER J1746-289
 Other names     : VER J1746-289,HESS J1746-285,MAGIC J1746.4-2853,Arc source,GC Radio Arc
 Location        : gal
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 165),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 108)])
+             ('catalog_row_index', 110)])
 
 ===
 

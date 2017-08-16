@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 50
+Catalog row index (zero-based) : 51
 Common name     : Markarian 180
 Other names     : Mrk 180,1ES 1133+704,1H 1137+699
 Location        : egal
@@ -230,7 +230,7 @@ OrderedDict([('source_id', 52),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 50)])
+             ('catalog_row_index', 51)])
 
 ===
 

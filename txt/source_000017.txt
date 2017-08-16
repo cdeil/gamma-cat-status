@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 17
 Common name     : RBS 0413
-Other names     : RBS 0413,EXO 0317.0+1834,1E 0317.0+1835
+Other names     : VER J0319+187,RBS 0413,EXO 0317.0+1834,1E 0317.0+1835
 Location        : egal
 Class           : hbl
 
@@ -83,7 +83,7 @@ e_ref       dnde         dnde_errn       dnde_errp
 
 OrderedDict([('source_id', 17),
              ('common_name', 'RBS 0413'),
-             ('gamma_names', ''),
+             ('gamma_names', 'VER J0319+187'),
              ('fermi_names', ''),
              ('other_names', 'RBS 0413,EXO 0317.0+1834,1E 0317.0+1835'),
              ('where', 'egal'),

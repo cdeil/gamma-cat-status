@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 72
+Catalog row index (zero-based) : 74
 Common name     : HESS J1458-608
 Other names     : HESS J1458-608,PSR J1459-6053
 Location        : gal
@@ -200,7 +200,7 @@ OrderedDict([('source_id', 73),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 72)])
+             ('catalog_row_index', 74)])
 
 ===
 

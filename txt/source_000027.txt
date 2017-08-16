@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 26
+Catalog row index (zero-based) : 27
 Common name     : N 157B
 Other names     : HESS J0537-691,LHA 120-N 157B,PSR J0537-6910
 Location        : egal
@@ -267,7 +267,7 @@ OrderedDict([('source_id', 27),
                         nan,             nan,             nan,
                         nan,             nan,             nan,
                         nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 26)])
+             ('catalog_row_index', 27)])
 
 ===
 

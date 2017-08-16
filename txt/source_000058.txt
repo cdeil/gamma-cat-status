@@ -1,9 +1,9 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 57
+Catalog row index (zero-based) : 58
 Common name     : M 87
-Other names     : 1ES 1228+126,1H 1226+128
+Other names     : VER J1230+123,1ES 1228+126,1H 1226+128
 Location        : egal
 Class           : fri
 
@@ -78,7 +78,7 @@ No spectral points available for this source.
 
 OrderedDict([('source_id', 58),
              ('common_name', 'M 87'),
-             ('gamma_names', ''),
+             ('gamma_names', 'VER J1230+123'),
              ('fermi_names', ''),
              ('other_names', '1ES 1228+126,1H 1226+128'),
              ('where', 'egal'),
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 58),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 57)])
+             ('catalog_row_index', 58)])
 
 ===
 

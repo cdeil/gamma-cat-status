@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 45
+Catalog row index (zero-based) : 46
 Common name     : Westerlund 2
 Other names     : HESS J1023-575,RCW 49,WR20a,PSR J1022-5746
 Location        : gal
@@ -245,7 +245,7 @@ OrderedDict([('source_id', 46),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 45)])
+             ('catalog_row_index', 46)])
 
 ===
 

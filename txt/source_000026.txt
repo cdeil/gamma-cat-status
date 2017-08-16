@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 25
+Catalog row index (zero-based) : 26
 Common name     : 30 Dor C
 Other names     : 
 Location        : egal
@@ -258,7 +258,7 @@ OrderedDict([('source_id', 26),
                         nan,             nan,             nan,
                         nan,             nan,             nan,
                         nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 25)])
+             ('catalog_row_index', 26)])
 
 ===
 

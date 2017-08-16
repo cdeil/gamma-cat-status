@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 152
+Catalog row index (zero-based) : 154
 Common name     : Gamma Cygni
 Other names     : VER J2019+407,1FGL J2020.0+4049,SNR G78.2+2.1
 Location        : gal
@@ -251,7 +251,7 @@ OrderedDict([('source_id', 144),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 152)])
+             ('catalog_row_index', 154)])
 
 ===
 

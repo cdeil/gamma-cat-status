@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 13
 Common name     : LS I +61 303
-Other names     : 
+Other names     : VER J0240+612
 Location        : gal
 Class           : bin
 
@@ -87,7 +87,7 @@ e_ref       dnde          dnde_err
 
 OrderedDict([('source_id', 14),
              ('common_name', 'LS I +61 303'),
-             ('gamma_names', ''),
+             ('gamma_names', 'VER J0240+612'),
              ('fermi_names', ''),
              ('other_names', ''),
              ('where', 'gal'),

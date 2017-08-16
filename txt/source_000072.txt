@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 71
+Catalog row index (zero-based) : 73
 Common name     : HESS J1457-593
 Other names     : HESS J1457-593,G318.2+00.1,G318.2+0.1
 Location        : gal
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 72),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 71)])
+             ('catalog_row_index', 73)])
 
 ===
 

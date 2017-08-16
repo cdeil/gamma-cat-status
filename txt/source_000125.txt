@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 131
+Catalog row index (zero-based) : 133
 Common name     : HESS J1841-055
 Other names     : HESS J1841-055,ARGO J1839-0627,1HWC J1838-060
 Location        : gal
@@ -247,7 +247,7 @@ OrderedDict([('source_id', 125),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 131)])
+             ('catalog_row_index', 133)])
 
 ===
 

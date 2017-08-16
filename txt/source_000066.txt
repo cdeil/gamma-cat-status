@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 65
+Catalog row index (zero-based) : 66
 Common name     : HESS J1420-607
 Other names     : HESS J1420-607,PSR J1420-6048
 Location        : gal
@@ -249,7 +249,7 @@ OrderedDict([('source_id', 66),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 65)])
+             ('catalog_row_index', 66)])
 
 ===
 

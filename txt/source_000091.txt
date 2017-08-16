@@ -1,9 +1,9 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 90
+Catalog row index (zero-based) : 92
 Common name     : Markarian 501
-Other names     : Mrk 501
+Other names     : VER J1653+397,Mrk 501
 Location        : egal
 Class           : hbl
 
@@ -84,7 +84,7 @@ e_ref       dnde         dnde_errn       dnde_errp
 
 OrderedDict([('source_id', 91),
              ('common_name', 'Markarian 501'),
-             ('gamma_names', ''),
+             ('gamma_names', 'VER J1653+397'),
              ('fermi_names', ''),
              ('other_names', 'Mrk 501'),
              ('where', 'egal'),
@@ -233,7 +233,7 @@ OrderedDict([('source_id', 91),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 90)])
+             ('catalog_row_index', 92)])
 
 ===
 

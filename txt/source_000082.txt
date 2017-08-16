@@ -1,9 +1,9 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 81
+Catalog row index (zero-based) : 83
 Common name     : PG 1553+113
-Other names     : HESS J1555+111,1ES 1553+113
+Other names     : HESS J1555+111,VER J1555+111,1ES 1553+113
 Location        : egal
 Class           : hbl
 
@@ -86,7 +86,7 @@ e_ref       dnde         dnde_errn       dnde_errp
 
 OrderedDict([('source_id', 82),
              ('common_name', 'PG 1553+113'),
-             ('gamma_names', 'HESS J1555+111'),
+             ('gamma_names', 'HESS J1555+111,VER J1555+111'),
              ('fermi_names', ''),
              ('other_names', '1ES 1553+113'),
              ('where', 'egal'),
@@ -233,7 +233,7 @@ OrderedDict([('source_id', 82),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 81)])
+             ('catalog_row_index', 83)])
 
 ===
 

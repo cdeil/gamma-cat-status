@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 116
+Catalog row index (zero-based) : 118
 Common name     : HESS J1808-204
 Other names     : HESS J1808-204,SGR 1806-20,LBV 1806-20,C1 1806-20
 Location        : gal
@@ -241,7 +241,7 @@ OrderedDict([('source_id', 114),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 116)])
+             ('catalog_row_index', 118)])
 
 ===
 

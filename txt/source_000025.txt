@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 24
+Catalog row index (zero-based) : 25
 Common name     : Crab nebula
 Other names     : G184.6-5.8,3C 144,SN 1054
 Location        : gal
@@ -14,9 +14,9 @@ TeVCat name     : TeV J0534+220
 TGeVCat ID      : 25
 TGeVCat name    : TeV J0534+2200
 
-Discoverer      : hess
+Discoverer      : whipple
 Discovery date  : 1989-07
-Seen by         : hess,hegra,magic,veritas,hawc
+Seen by         : whipple,hess,hegra,magic,veritas,hawc
 Reference       : 2014ApJ...781L..11A
 
 *** Position info ***
@@ -101,8 +101,8 @@ OrderedDict([('source_id', 25),
              ('other_names', 'G184.6-5.8,3C 144,SN 1054'),
              ('where', 'gal'),
              ('classes', 'pwn'),
-             ('discoverer', 'hess'),
-             ('seen_by', 'hess,hegra,magic,veritas,hawc'),
+             ('discoverer', 'whipple'),
+             ('seen_by', 'whipple,hess,hegra,magic,veritas,hawc'),
              ('discovery_date', '1989-07'),
              ('tevcat_id', 74),
              ('tevcat2_id', 'BlJI6q'),
@@ -254,7 +254,7 @@ OrderedDict([('source_id', 25),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 24)])
+             ('catalog_row_index', 25)])
 
 ===
 

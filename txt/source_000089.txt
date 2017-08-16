@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 88
+Catalog row index (zero-based) : 90
 Common name     : HESS J1641-463
 Other names     : HESS J1641-463,SNR G338.5+0.1
 Location        : gal
@@ -270,7 +270,7 @@ OrderedDict([('source_id', 89),
                         nan,             nan,             nan,
                         nan,             nan,             nan,
                         nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 88)])
+             ('catalog_row_index', 90)])
 
 ===
 

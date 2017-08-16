@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 58
+Catalog row index (zero-based) : 59
 Common name     : 3C 279
 Other names     : 
 Location        : egal
@@ -231,7 +231,7 @@ OrderedDict([('source_id', 59),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 58)])
+             ('catalog_row_index', 59)])
 
 ===
 

@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 93
+Catalog row index (zero-based) : 95
 Common name     : HESS J1708-410
 Other names     : HESS J1708-410
 Location        : gal
@@ -244,7 +244,7 @@ OrderedDict([('source_id', 93),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 93)])
+             ('catalog_row_index', 95)])
 
 ===
 

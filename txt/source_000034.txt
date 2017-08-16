@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 33
+Catalog row index (zero-based) : 34
 Common name     : RGB J0710+591
 Other names     : VER J0710+591,1FGL J0710.6+5911,RX J0710.5+5908,1H 0658+595
 Location        : egal
@@ -231,7 +231,7 @@ OrderedDict([('source_id', 34),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 33)])
+             ('catalog_row_index', 34)])
 
 ===
 

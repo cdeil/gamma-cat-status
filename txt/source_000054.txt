@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 54
+Catalog row index (zero-based) : 55
 Common name     : W Comae
 Other names     : B2 1219+28
 Location        : egal
@@ -232,7 +232,7 @@ OrderedDict([('source_id', 54),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 54)])
+             ('catalog_row_index', 55)])
 
 ===
 

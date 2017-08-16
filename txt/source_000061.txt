@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 60
+Catalog row index (zero-based) : 61
 Common name     : HESS J1303-631
 Other names     : 
 Location        : gal
@@ -252,7 +252,7 @@ OrderedDict([('source_id', 61),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 60)])
+             ('catalog_row_index', 61)])
 
 ===
 

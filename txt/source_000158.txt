@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 79
+Catalog row index (zero-based) : 81
 Common name     : SNR G323.7-01.0
 Other names     : HESS J1534-571
 Location        : gal
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 158),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 79)])
+             ('catalog_row_index', 81)])
 
 ===
 

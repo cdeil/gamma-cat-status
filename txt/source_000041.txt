@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 40
+Catalog row index (zero-based) : 41
 Common name     : S4 0954+65
 Other names     : 
 Location        : egal
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 41),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 40)])
+             ('catalog_row_index', 41)])
 
 ===
 

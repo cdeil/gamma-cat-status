@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 98
+Catalog row index (zero-based) : 100
 Common name     : HESS J1718-385
 Other names     : HESS J1718-385
 Location        : gal
@@ -247,7 +247,7 @@ OrderedDict([('source_id', 99),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 98)])
+             ('catalog_row_index', 100)])
 
 ===
 

@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 70
+Catalog row index (zero-based) : 71
 Common name     : 1ES 1440+122
 Other names     : VER J1443+120
 Location        : egal
@@ -230,7 +230,7 @@ OrderedDict([('source_id', 71),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 70)])
+             ('catalog_row_index', 71)])
 
 ===
 

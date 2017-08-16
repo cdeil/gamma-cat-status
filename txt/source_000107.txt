@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 107
+Catalog row index (zero-based) : 109
 Common name     : Galactic Centre ridge
 Other names     : 
 Location        : gal
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 107),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 107)])
+             ('catalog_row_index', 109)])
 
 ===
 

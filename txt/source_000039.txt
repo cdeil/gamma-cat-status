@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 38
+Catalog row index (zero-based) : 39
 Common name     : Vela Junior
 Other names     : HESS J0852-463,1FGL J0854.0-4632,2FGL J0851.7-4635,3FGL J0852.7-4631e,1FHL J0852.7-4631,RX J0852.0-4622,SNR G266.2-01.2
 Location        : gal
@@ -253,7 +253,7 @@ OrderedDict([('source_id', 39),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 38)])
+             ('catalog_row_index', 39)])
 
 ===
 

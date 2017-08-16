@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 143
+Catalog row index (zero-based) : 145
 Common name     : W 51C
 Other names     : HESS J1923+141,SNR G49.2-0.7,0FGL J1923.0+1411
 Location        : gal
@@ -200,7 +200,7 @@ OrderedDict([('source_id', 135),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 143)])
+             ('catalog_row_index', 145)])
 
 ===
 

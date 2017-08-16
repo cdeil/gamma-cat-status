@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 84
+Catalog row index (zero-based) : 86
 Common name     : HESS J1626-490
 Other names     : HESS J1626-490,SNR G335.2+00.1
 Location        : gal
@@ -247,7 +247,7 @@ OrderedDict([('source_id', 85),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 84)])
+             ('catalog_row_index', 86)])
 
 ===
 

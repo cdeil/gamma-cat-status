@@ -1,7 +1,7 @@
 
 *** Basic info ***
 
-Catalog row index (zero-based) : 49
+Catalog row index (zero-based) : 50
 Common name     : HESS J1119-614
 Other names     : HESS J1119-614,SNR G292.2-00.5,PSR J1119-6127
 Location        : gal
@@ -191,7 +191,7 @@ OrderedDict([('source_id', 50),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
-             ('catalog_row_index', 49)])
+             ('catalog_row_index', 50)])
 
 ===
 
