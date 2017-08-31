@@ -17,7 +17,7 @@ TGeVCat name    : TeV J0632+0548
 Discoverer      : hess
 Discovery date  : 2007-07
 Seen by         : hess,veritas,magic
-Reference       : 2016arXiv161003751S
+Reference       : 2017arXiv170804045M
 
 *** Position info ***
 
@@ -36,7 +36,7 @@ Position error       : nan deg
 
 *** Morphology info ***
 
-Morphology model type     : point
+Morphology model type     : none
 Sigma                     : nan deg
 Sigma error               : nan deg
 Sigma2                    : nan deg
@@ -47,41 +47,41 @@ Position angle frame      :
 
 *** Spectral info ***
 
-Significance    : nan
-Livetime        : nan h
+Significance    : 6.200
+Livetime        : 60.000 h
 
 Spectrum type   : pl 
-norm            : 2.34e-13 +- 4e-14 cm-2 s-1 TeV-1 (statistical)
-                  2.34e-13 +- nan cm-2 s-1 TeV-1 (systematic)
-index           : 2.72 +- 0.2 (statistical)
-                  2.72 +- nan (systematic)
+norm            : 2.1e-13 +- 4e-13 cm-2 s-1 TeV-1 (statistical)
+                  2.1e-13 +- 4e-14 cm-2 s-1 TeV-1 (systematic)
+index           : 2.67 +- 0.2 (statistical)
+                  2.67 +- nan (systematic)
 reference       : 1.0 TeV
 
-energy range min     : 0.28 TeV
-energy range max     : 6.31 TeV
+energy range min     : 0.235 TeV
+energy range max     : 10.5 TeV
 theta                : nan deg
 
 
 Derived fluxes:
-Spectral model norm (1 TeV)    : 2.34e-13 +- 4e-14 cm-2 s-1 TeV-1 (statistical)
-Integrated flux (<1 TeV)       : 1.36e-13 +- 2.81e-14 cm-2 s-1 (statistical)
-Integrated flux (<1 TeV)       : 0.656 +- 0.136 (crab units)
-Integrated flux (1-10 TeV)     : 4.21e-13 +- 1.01e-13 erg cm-2 s-1 (statistical)
+Spectral model norm (1 TeV)    : 2.1e-13 +- 4e-13 cm-2 s-1 TeV-1 (statistical)
+Integrated flux (<1 TeV)       : 1.26e-13 +- 2.4e-13 cm-2 s-1 (statistical)
+Integrated flux (<1 TeV)       : 0.606 +- 1.16 (crab units)
+Integrated flux (1-10 TeV)     : 3.95e-13 +- 7.55e-13 erg cm-2 s-1 (statistical)
 
 *** Spectral points ***
 
-SED reference id          : 2016arXiv161003751S
+SED reference id          : 2017arXiv170804045M
 Number of spectral points : 5
 Number of upper limits    : 0
 
-e_ref e_min e_max       dnde         dnde_errn       dnde_errp   
- TeV   TeV   TeV  1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
------ ----- ----- --------------- --------------- ---------------
-  0.3   0.2 0.398       4.981e-12       3.227e-12       3.056e-12
-  0.6 0.398 0.794       1.194e-12       3.072e-13       2.953e-13
-  1.1 0.794 1.585       2.459e-13       6.254e-14       5.854e-14
-  2.2 1.585 3.162       1.903e-14       1.138e-14       9.853e-15
-  4.5 3.162  6.31       2.752e-15       2.729e-15       2.104e-15
+e_ref       dnde         dnde_errn       dnde_errp   
+ TeV  1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
+----- --------------- --------------- ---------------
+  0.3     5.36899e-12     2.84304e-12     2.70609e-12
+  0.6     1.02002e-12     2.85798e-13     2.74892e-13
+  1.1     1.98311e-13     5.70538e-14     5.33767e-14
+  2.2     2.15715e-14      1.1123e-14     9.69571e-15
+  4.4      3.3622e-15     2.74454e-15     2.15629e-15
 
 ===
 
@@ -100,9 +100,9 @@ OrderedDict([('source_id', 30),
              ('tevcat_name', 'TeV J0632+058'),
              ('tgevcat_id', 30),
              ('tgevcat_name', 'TeV J0632+0548'),
-             ('reference_id', '2016arXiv161003751S'),
-             ('significance', nan),
-             ('livetime', <Quantity nan h>),
+             ('reference_id', '2017arXiv170804045M'),
+             ('significance', 6.1999998),
+             ('livetime', <Quantity 60.0 h>),
              ('ra', <Quantity 98.24689483642578 deg>),
              ('dec', <Quantity 5.800327301025391 deg>),
              ('glon', <Quantity 205.66653442382812 deg>),
@@ -112,7 +112,7 @@ OrderedDict([('source_id', 30),
              ('pos_glon', <Quantity nan deg>),
              ('pos_glat', <Quantity nan deg>),
              ('pos_err', <Quantity nan deg>),
-             ('morph_type', 'point'),
+             ('morph_type', 'none'),
              ('morph_sigma', <Quantity nan deg>),
              ('morph_sigma_err', <Quantity nan deg>),
              ('morph_sigma2', <Quantity nan deg>),
@@ -121,11 +121,12 @@ OrderedDict([('source_id', 30),
              ('morph_pa_err', <Quantity nan deg>),
              ('morph_pa_frame', ''),
              ('spec_type', 'pl'),
-             ('spec_pl_norm', <Quantity 2.339999938608117e-13 1 / (cm2 s TeV)>),
+             ('spec_pl_norm', <Quantity 2.099999997029825e-13 1 / (cm2 s TeV)>),
              ('spec_pl_norm_err',
+              <Quantity 3.99999992980668e-13 1 / (cm2 s TeV)>),
+             ('spec_pl_norm_err_sys',
               <Quantity 3.99999992980668e-14 1 / (cm2 s TeV)>),
-             ('spec_pl_norm_err_sys', <Quantity nan 1 / (cm2 s TeV)>),
-             ('spec_pl_index', 2.72),
+             ('spec_pl_index', 2.6700001),
              ('spec_pl_index_err', 0.2),
              ('spec_pl_index_err_sys', nan),
              ('spec_pl_e_ref', <Quantity 1.0 TeV>),
@@ -147,27 +148,27 @@ OrderedDict([('source_id', 30),
              ('spec_ecpl_e_cut_err', <Quantity nan TeV>),
              ('spec_ecpl_e_cut_err_sys', <Quantity nan TeV>),
              ('spec_ecpl_e_ref', <Quantity nan TeV>),
-             ('spec_erange_min', <Quantity 0.2800000011920929 TeV>),
-             ('spec_erange_max', <Quantity 6.309999942779541 TeV>),
+             ('spec_erange_min', <Quantity 0.23499999940395355 TeV>),
+             ('spec_erange_max', <Quantity 10.5 TeV>),
              ('spec_theta', <Quantity nan deg>),
              ('spec_dnde_1TeV',
-              <Quantity 2.339999938608117e-13 1 / (cm2 s TeV)>),
+              <Quantity 2.099999997029825e-13 1 / (cm2 s TeV)>),
              ('spec_dnde_1TeV_err',
-              <Quantity 3.99999992980668e-14 1 / (cm2 s TeV)>),
-             ('spec_flux_1TeV', <Quantity 1.3604651530763762e-13 1 / (cm2 s)>),
+              <Quantity 3.99999992980668e-13 1 / (cm2 s TeV)>),
+             ('spec_flux_1TeV', <Quantity 1.2574850557535433e-13 1 / (cm2 s)>),
              ('spec_flux_1TeV_err',
-              <Quantity 2.81262355392815e-14 1 / (cm2 s)>),
-             ('spec_flux_1TeV_crab', 0.65582174),
-             ('spec_flux_1TeV_crab_err', 0.13558449),
+              <Quantity 2.399939242562349e-13 1 / (cm2 s)>),
+             ('spec_flux_1TeV_crab', 0.60617948),
+             ('spec_flux_1TeV_crab_err', 1.1569076),
              ('spec_eflux_1TeV_10TeV',
-              <Quantity 4.214886631988962e-13 erg / (cm2 s)>),
+              <Quantity 3.948117061145645e-13 erg / (cm2 s)>),
              ('spec_eflux_1TeV_10TeV_err',
-              <Quantity 1.0142677442284004e-13 erg / (cm2 s)>),
-             ('sed_reference_id', '2016arXiv161003751S'),
+              <Quantity 7.551276227577008e-13 erg / (cm2 s)>),
+             ('sed_reference_id', '2017arXiv170804045M'),
              ('sed_n_points', 5),
              ('sed_n_ul', 0),
              ('sed_e_ref',
-              <Quantity [ 0.28200001, 0.56199998, 1.12199998, 2.23900008, 4.46700001,
+              <Quantity [ 0.27908501, 0.55684799, 1.11106002, 2.21685004, 4.42320013,
                    nan,        nan,        nan,        nan,        nan,
                    nan,        nan,        nan,        nan,        nan,
                    nan,        nan,        nan,        nan,        nan,
@@ -176,26 +177,18 @@ OrderedDict([('source_id', 30),
                    nan,        nan,        nan,        nan,        nan,
                    nan,        nan,        nan,        nan,        nan] TeV>),
              ('sed_e_min',
-              <Quantity [ 0.2       , 0.398     , 0.79400003, 1.58500004, 3.16199994,
-                   nan,        nan,        nan,        nan,        nan,
-                   nan,        nan,        nan,        nan,        nan,
-                   nan,        nan,        nan,        nan,        nan,
-                   nan,        nan,        nan,        nan,        nan,
-                   nan,        nan,        nan,        nan,        nan,
-                   nan,        nan,        nan,        nan,        nan,
-                   nan,        nan,        nan,        nan,        nan] TeV>),
+              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan] TeV>),
              ('sed_e_max',
-              <Quantity [ 0.398     , 0.79400003, 1.58500004, 3.16199994, 6.30999994,
-                   nan,        nan,        nan,        nan,        nan,
-                   nan,        nan,        nan,        nan,        nan,
-                   nan,        nan,        nan,        nan,        nan,
-                   nan,        nan,        nan,        nan,        nan,
-                   nan,        nan,        nan,        nan,        nan,
-                   nan,        nan,        nan,        nan,        nan,
-                   nan,        nan,        nan,        nan,        nan] TeV>),
+              <Quantity [ nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
+            nan, nan, nan, nan] TeV>),
              ('sed_dnde',
-              <Quantity [  4.98099999e-12,  1.19399998e-12,  2.45900007e-13,
-             1.90299995e-14,  2.75200009e-15,             nan,
+              <Quantity [  5.36898997e-12,  1.02002001e-12,  1.98310999e-13,
+             2.15714999e-14,  3.36220009e-15,             nan,
                         nan,             nan,             nan,
                         nan,             nan,             nan,
                         nan,             nan,             nan,
@@ -214,8 +207,8 @@ OrderedDict([('source_id', 30),
             nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
             nan, nan, nan, nan] 1 / (cm2 s TeV)>),
              ('sed_dnde_errp',
-              <Quantity [  3.05599990e-12,  2.95299999e-13,  5.85399987e-14,
-             9.85299980e-15,  2.10399998e-15,             nan,
+              <Quantity [  2.70608991e-12,  2.74892007e-13,  5.33766994e-14,
+             9.69571001e-15,  2.15629008e-15,             nan,
                         nan,             nan,             nan,
                         nan,             nan,             nan,
                         nan,             nan,             nan,
@@ -229,8 +222,8 @@ OrderedDict([('source_id', 30),
                         nan,             nan,             nan,
                         nan] 1 / (cm2 s TeV)>),
              ('sed_dnde_errn',
-              <Quantity [  3.22700005e-12,  3.07200012e-13,  6.25400000e-14,
-             1.13800003e-14,  2.72899997e-15,             nan,
+              <Quantity [  2.84304004e-12,  2.85797997e-13,  5.70538015e-14,
+             1.11230003e-14,  2.74454006e-15,             nan,
                         nan,             nan,             nan,
                         nan,             nan,             nan,
                         nan,             nan,             nan,
@@ -252,11 +245,11 @@ OrderedDict([('source_id', 30),
 
 ===
 
-e_ref e_min e_max       dnde         dnde_errn       dnde_errp   
- TeV   TeV   TeV  1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
------ ----- ----- --------------- --------------- ---------------
-0.282   0.2 0.398       4.981e-12       3.227e-12       3.056e-12
-0.562 0.398 0.794       1.194e-12       3.072e-13       2.953e-13
-1.122 0.794 1.585       2.459e-13       6.254e-14       5.854e-14
-2.239 1.585 3.162       1.903e-14       1.138e-14       9.853e-15
-4.467 3.162  6.31       2.752e-15       2.729e-15       2.104e-15
+ e_ref         dnde         dnde_errn       dnde_errp   
+  TeV    1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
+-------- --------------- --------------- ---------------
+0.279085     5.36899e-12     2.84304e-12     2.70609e-12
+0.556848     1.02002e-12     2.85798e-13     2.74892e-13
+ 1.11106     1.98311e-13     5.70538e-14     5.33767e-14
+ 2.21685     2.15715e-14      1.1123e-14     9.69571e-15
+  4.4232      3.3622e-15     2.74454e-15     2.15629e-15

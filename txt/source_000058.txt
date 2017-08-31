@@ -17,7 +17,7 @@ TGeVCat name    : TeV J1230+1223
 Discoverer      : hegra
 Discovery date  : 2003-05
 Seen by         : hegra,hess,veritas,magic
-Reference       : 
+Reference       : 2012ApJ...746..151A
 
 *** Position info ***
 
@@ -47,8 +47,8 @@ Position angle frame      :
 
 *** Spectral info ***
 
-Significance    : nan
-Livetime        : nan h
+Significance    : 26.000
+Livetime        : 48.200 h
 
 Spectrum type   : none 
 
@@ -91,9 +91,9 @@ OrderedDict([('source_id', 58),
              ('tevcat_name', 'TeV J1230+123'),
              ('tgevcat_id', 58),
              ('tgevcat_name', 'TeV J1230+1223'),
-             ('reference_id', ''),
-             ('significance', nan),
-             ('livetime', <Quantity nan h>),
+             ('reference_id', '2012ApJ...746..151A'),
+             ('significance', 26.0),
+             ('livetime', <Quantity 48.20000076293945 h>),
              ('ra', <Quantity 187.7059326171875 deg>),
              ('dec', <Quantity 12.39112377166748 deg>),
              ('glon', <Quantity 283.7777404785156 deg>),
