@@ -156,7 +156,7 @@
 ,       156 ,       HESS J1800-240B ,   gal ,      snr,mc , 2008A&A...481..401A ,      gauss ,        pl ,
 ,       157 ,        HESS J1852-000 ,   gal ,        unid ,                     ,       none ,      none ,
 ,       158 ,       SNR G323.7-01.0 ,   gal ,         snr , 2018arXiv180106020H ,      shell ,        pl ,
-,       159 ,            Arc source ,   gal ,        unid ,                     ,       none ,      none ,
+,       159 ,            Arc source ,   gal ,        unid , 2017arXiv170604535H ,      point ,        pl ,
 ,       160 ,        HESS J1813-126 ,   gal ,        unid ,                     ,       none ,      none ,
 ,       161 ,        HESS J1826-130 ,   gal ,        unid , 2017arXiv170107002A ,      gauss ,      ecpl ,
 ,       162 ,        HESS J1828-099 ,   gal ,        unid ,                     ,       none ,      none ,
