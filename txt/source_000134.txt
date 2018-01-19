@@ -51,7 +51,7 @@ Significance    : 17.300
 Livetime        : 121.100 h
 
 Spectrum type   : pl
-norm            : 4.82e-12 +- 4.3e-13 (stat) +- 1.45e-12 (sys) cm-2 s-1 TeV-1
+norm            : 4.82e-13 +- 4.3e-14 (stat) +- 1.45e-13 (sys) cm-2 s-1 TeV-1
 index           : 2.56 +- 0.09 (stat) +- 0.2 (sys)
 reference       : 2.25 TeV
 
@@ -60,10 +60,10 @@ theta                : 0.56 deg
 
 
 Derived fluxes:
-Spectral model norm (1 TeV)    : 3.84e-11 +- 4.43e-12 (stat) cm-2 s-1 TeV-1
-Integrated flux (>1 TeV)       : 2.46e-11 +- 2.23e-12 (stat) cm-2 s-1
-Integrated flux (>1 TeV)       : 118.743 +- 10.748 (% Crab)
-Integrated flux (1-10 TeV)     : 7.97e-11 +- 7.14e-12 (stat) erg cm-2 s-1
+Spectral model norm (1 TeV)    : 3.84e-12 +- 4.43e-13 (stat) cm-2 s-1 TeV-1
+Integrated flux (>1 TeV)       : 2.46e-12 +- 2.23e-13 (stat) cm-2 s-1
+Integrated flux (>1 TeV)       : 11.874 +- 1.075 (% Crab)
+Integrated flux (1-10 TeV)     : 7.97e-12 +- 7.14e-13 (stat) erg cm-2 s-1
 
 *** Spectral points ***
 
@@ -121,9 +121,9 @@ OrderedDict([('source_id', 134),
              ('morph_pa_err', <Quantity nan deg>),
              ('morph_pa_frame', ''),
              ('spec_type', 'pl'),
-             ('spec_pl_norm', <Quantity 4.82e-12 1 / (cm2 s TeV)>),
-             ('spec_pl_norm_err', <Quantity 4.3e-13 1 / (cm2 s TeV)>),
-             ('spec_pl_norm_err_sys', <Quantity 1.45e-12 1 / (cm2 s TeV)>),
+             ('spec_pl_norm', <Quantity 4.82e-13 1 / (cm2 s TeV)>),
+             ('spec_pl_norm_err', <Quantity 4.3e-14 1 / (cm2 s TeV)>),
+             ('spec_pl_norm_err_sys', <Quantity 1.45e-13 1 / (cm2 s TeV)>),
              ('spec_pl_index', 2.56),
              ('spec_pl_index_err', 0.09),
              ('spec_pl_index_err_sys', 0.2),
@@ -149,15 +149,15 @@ OrderedDict([('source_id', 134),
              ('spec_erange_min', <Quantity 0.68 TeV>),
              ('spec_erange_max', <Quantity 61.9 TeV>),
              ('spec_theta', <Quantity 0.56 deg>),
-             ('spec_dnde_1TeV', <Quantity 3.8426807e-11 1 / (cm2 s TeV)>),
-             ('spec_dnde_1TeV_err', <Quantity 4.429152e-12 1 / (cm2 s TeV)>),
-             ('spec_flux_1TeV', <Quantity 2.4632569e-11 1 / (cm2 s)>),
-             ('spec_flux_1TeV_err', <Quantity 2.229559e-12 1 / (cm2 s)>),
-             ('spec_flux_1TeV_crab', 118.74302),
-             ('spec_flux_1TeV_crab_err', 10.7477455),
-             ('spec_eflux_1TeV_10TeV', <Quantity 7.9660174e-11 erg / (cm2 s)>),
+             ('spec_dnde_1TeV', <Quantity 3.8426805e-12 1 / (cm2 s TeV)>),
+             ('spec_dnde_1TeV_err', <Quantity 4.4291518e-13 1 / (cm2 s TeV)>),
+             ('spec_flux_1TeV', <Quantity 2.4632568e-12 1 / (cm2 s)>),
+             ('spec_flux_1TeV_err', <Quantity 2.229559e-13 1 / (cm2 s)>),
+             ('spec_flux_1TeV_crab', 11.874302),
+             ('spec_flux_1TeV_crab_err', 1.0747745),
+             ('spec_eflux_1TeV_10TeV', <Quantity 7.966018e-12 erg / (cm2 s)>),
              ('spec_eflux_1TeV_10TeV_err',
-              <Quantity 7.1423527e-12 erg / (cm2 s)>),
+              <Quantity 7.1423526e-13 erg / (cm2 s)>),
              ('sed_reference_id', '2018arXiv180106020H'),
              ('sed_n_points', 8),
              ('sed_n_ul', 0),
