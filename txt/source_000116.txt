@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 121
 Common name     : HESS J1813-178
-Other names     : HESS J1813-178,G12.82-0.02,PSR J1813-1749,CXOU J181335.1-174957,IGR J18135-1751,W33
+Other names     : HESS J1813-178,AX J1813-178,G12.82-0.02,PSR J1813-1749,CXOU J181335.1-174957,IGR J18135-1751,W33
 Location        : gal
 Class           : pwn
 
@@ -96,8 +96,8 @@ OrderedDict([('source_id', 116),
              ('gamma_names', 'HESS J1813-178'),
              ('fermi_names', ''),
              ('other_names',
-              'G12.82-0.02,PSR J1813-1749,CXOU J181335.1-174957,IGR '
-              'J18135-1751,W33'),
+              'AX J1813-178,G12.82-0.02,PSR J1813-1749,CXOU '
+              'J181335.1-174957,IGR J18135-1751,W33'),
              ('where', 'gal'),
              ('classes', 'pwn'),
              ('discoverer', 'hess'),

@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 62
 Common name     : 1ES 1312-423
-Other names     : 
+Other names     : HESS J1315-426
 Location        : egal
 Class           : hbl
 
@@ -17,7 +17,7 @@ TGeVCat name    : TeV J1314-4235
 Discoverer      : hess
 Discovery date  : 2010-12
 Seen by         : hess
-Reference       : 
+Reference       : 2013MNRAS.434.1889H
 
 *** Position info ***
 
@@ -83,7 +83,7 @@ e_ref       dnde         dnde_errn       dnde_errp
 
 OrderedDict([('source_id', 62),
              ('common_name', '1ES 1312-423'),
-             ('gamma_names', ''),
+             ('gamma_names', 'HESS J1315-426'),
              ('fermi_names', ''),
              ('other_names', ''),
              ('where', 'egal'),
@@ -96,7 +96,7 @@ OrderedDict([('source_id', 62),
              ('tevcat_name', 'TeV J1315-426'),
              ('tgevcat_id', 62),
              ('tgevcat_name', 'TeV J1314-4235'),
-             ('reference_id', ''),
+             ('reference_id', '2013MNRAS.434.1889H'),
              ('significance', nan),
              ('livetime', <Quantity nan h>),
              ('ra', <Quantity 198.76414 deg>),

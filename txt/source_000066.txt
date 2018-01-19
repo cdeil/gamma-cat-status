@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 66
 Common name     : HESS J1420-607
-Other names     : HESS J1420-607,PSR J1420-6048
+Other names     : HESS J1420-607,PSR J1420-6048,Kookaburra
 Location        : gal
 Class           : pwn
 
@@ -91,7 +91,7 @@ OrderedDict([('source_id', 66),
              ('common_name', 'HESS J1420-607'),
              ('gamma_names', 'HESS J1420-607'),
              ('fermi_names', ''),
-             ('other_names', 'PSR J1420-6048'),
+             ('other_names', 'PSR J1420-6048,Kookaburra'),
              ('where', 'gal'),
              ('classes', 'pwn'),
              ('discoverer', 'hess'),

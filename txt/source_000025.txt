@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 25
 Common name     : Crab nebula
-Other names     : G184.6-5.8,3C 144,SN 1054
+Other names     : HESS J0534+220,G184.6-5.8,3C 144,SN 1054
 Location        : gal
 Class           : pwn
 
@@ -92,7 +92,7 @@ e_ref        dnde         dnde_errn       dnde_errp
 
 OrderedDict([('source_id', 25),
              ('common_name', 'Crab nebula'),
-             ('gamma_names', ''),
+             ('gamma_names', 'HESS J0534+220'),
              ('fermi_names', ''),
              ('other_names', 'G184.6-5.8,3C 144,SN 1054'),
              ('where', 'gal'),

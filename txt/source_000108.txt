@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 107
 Common name     : HESS J1745-303
-Other names     : G359.1-0.5
+Other names     : G359.1-0.5,3EG J1744-3011
 Location        : gal
 Class           : unid,snr,mc
 
@@ -88,7 +88,7 @@ OrderedDict([('source_id', 108),
              ('common_name', 'HESS J1745-303'),
              ('gamma_names', ''),
              ('fermi_names', ''),
-             ('other_names', 'G359.1-0.5'),
+             ('other_names', 'G359.1-0.5,3EG J1744-3011'),
              ('where', 'gal'),
              ('classes', 'unid,snr,mc'),
              ('discoverer', 'hess'),

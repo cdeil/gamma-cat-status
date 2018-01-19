@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 46
 Common name     : Westerlund 2
-Other names     : HESS J1023-575,RCW 49,WR20a,PSR J1022-5746
+Other names     : HESS J1023-575,RCW 49,WR 20a,PSR J1022-5746
 Location        : gal
 Class           : unid
 
@@ -88,7 +88,7 @@ OrderedDict([('source_id', 46),
              ('common_name', 'Westerlund 2'),
              ('gamma_names', 'HESS J1023-575'),
              ('fermi_names', ''),
-             ('other_names', 'RCW 49,WR20a,PSR J1022-5746'),
+             ('other_names', 'RCW 49,WR 20a,PSR J1022-5746'),
              ('where', 'gal'),
              ('classes', 'unid'),
              ('discoverer', 'hess'),

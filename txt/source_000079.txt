@@ -2,8 +2,8 @@
 *** Basic info ***
 
 Catalog row index (zero-based) : 79
-Common name     : MSH 15-5-02
-Other names     : HESS J1514-591,G320.3-01.1,MSH 15-52
+Common name     : MSH 15-52
+Other names     : HESS J1514-591,MSH 15-5-02,G320.3-01.1
 Location        : gal
 Class           : pwn
 
@@ -22,10 +22,10 @@ Reference       : 2005A&A...435L..17A
 *** Position info ***
 
 SIMBAD:
-RA                   : 228.321 deg
-DEC                  : -59.082 deg
-GLON                 : 320.278 deg
-GLAT                 : -1.073 deg
+RA                   : 228.529 deg
+DEC                  : -59.158 deg
+GLON                 : 320.330 deg
+GLAT                 : -1.193 deg
 
 Measurement:
 RA                   : 228.529 deg
@@ -92,10 +92,10 @@ e_ref  e_min e_max       dnde          dnde_err
 ===
 
 OrderedDict([('source_id', 79),
-             ('common_name', 'MSH 15-5-02'),
+             ('common_name', 'MSH 15-52'),
              ('gamma_names', 'HESS J1514-591'),
              ('fermi_names', ''),
-             ('other_names', 'G320.3-01.1,MSH 15-52'),
+             ('other_names', 'MSH 15-5-02,G320.3-01.1'),
              ('where', 'gal'),
              ('classes', 'pwn'),
              ('discoverer', 'cangaroo'),
@@ -109,10 +109,10 @@ OrderedDict([('source_id', 79),
              ('reference_id', '2005A&A...435L..17A'),
              ('significance', 25.0),
              ('livetime', <Quantity 22.1 h>),
-             ('ra', <Quantity 228.3208 deg>),
-             ('dec', <Quantity -59.0817 deg>),
-             ('glon', <Quantity 320.27808 deg>),
-             ('glat', <Quantity -1.0728266 deg>),
+             ('ra', <Quantity 228.52916 deg>),
+             ('dec', <Quantity -59.1575 deg>),
+             ('glon', <Quantity 320.33035 deg>),
+             ('glat', <Quantity -1.1930457 deg>),
              ('pos_ra', <Quantity 228.52916 deg>),
              ('pos_dec', <Quantity -59.1575 deg>),
              ('pos_glon', <Quantity 320.33035 deg>),

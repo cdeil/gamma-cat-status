@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 65
 Common name     : HESS J1418-609
-Other names     : HESS J1418-609,Kookaburra
+Other names     : HESS J1418-609,G313.3+0.1,Kookaburra,Rabbit
 Location        : gal
 Class           : pwn
 
@@ -90,7 +90,7 @@ OrderedDict([('source_id', 65),
              ('common_name', 'HESS J1418-609'),
              ('gamma_names', 'HESS J1418-609'),
              ('fermi_names', ''),
-             ('other_names', 'Kookaburra'),
+             ('other_names', 'G313.3+0.1,Kookaburra,Rabbit'),
              ('where', 'gal'),
              ('classes', 'pwn'),
              ('discoverer', 'hess'),

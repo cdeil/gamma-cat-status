@@ -17,7 +17,7 @@ TGeVCat name    : TeV J2359-3037
 Discoverer      : hess
 Discovery date  : 2006-04
 Seen by         : hess
-Reference       : 
+Reference       : 2010A&A...516A..56H
 
 *** Position info ***
 
@@ -95,7 +95,7 @@ OrderedDict([('source_id', 155),
              ('tevcat_name', 'TeV J2359-306'),
              ('tgevcat_id', 155),
              ('tgevcat_name', 'TeV J2359-3037'),
-             ('reference_id', ''),
+             ('reference_id', '2010A&A...516A..56H'),
              ('significance', nan),
              ('livetime', <Quantity nan h>),
              ('ra', <Quantity 359.78296 deg>),

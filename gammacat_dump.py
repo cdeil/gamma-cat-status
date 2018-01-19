@@ -21,7 +21,7 @@ log = logging.getLogger(__name__)
 class GammaCatDump:
     def __init__(self, row_idxs=None):
         folder = os.environ['GAMMA_CAT']
-        filename = os.path.join(folder, 'docs/data/gammacat.fits.gz')
+        filename = os.path.join(folder, 'output/gammacat.fits.gz')
         log.info('Reading {}'.format(filename))
         self.cat = SourceCatalogGammaCat(filename)
 

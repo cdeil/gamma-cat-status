@@ -28,15 +28,15 @@ GLON                 : 74.632 deg
 GLAT                 : -78.087 deg
 
 Measurement:
-RA                   : nan deg
-DEC                  : nan deg
-GLON                 : nan deg
-GLAT                 : nan deg
-Position error       : nan deg
+RA                   : 3.467 deg
+DEC                  : -18.891 deg
+GLON                 : 74.613 deg
+GLAT                 : -78.068 deg
+Position error       : 0.006 deg
 
 *** Morphology info ***
 
-Morphology model type     : none
+Morphology model type     : point
 Sigma                     : nan deg
 Sigma error               : nan deg
 Sigma2                    : nan deg
@@ -47,22 +47,23 @@ Position angle frame      :
 
 *** Spectral info ***
 
-Significance    : nan
-Livetime        : nan h
+Significance    : 5.500
+Livetime        : 41.500 h
 
-Spectrum type   : none
-
-Spectral model printout not yet implemented.
+Spectrum type   : pl
+norm            : 1.16e-12 +- 2.3e-13 (stat) +- 2.3e-13 (sys) cm-2 s-1 TeV-1
+index           : 3.4 +- 0.5 (stat) +- 0.2 (sys)
+reference       : 0.51 TeV
 
 Energy range         : (nan, nan) TeV
 theta                : nan deg
 
 
 Derived fluxes:
-Spectral model norm (1 TeV)    : nan +- nan (stat) cm-2 s-1 TeV-1
-Integrated flux (>1 TeV)       : nan +- nan (stat) cm-2 s-1
-Integrated flux (>1 TeV)       : nan +- nan (% Crab)
-Integrated flux (1-10 TeV)     : nan +- nan (stat) erg cm-2 s-1
+Spectral model norm (1 TeV)    : 1.18e-13 +- 4.59e-14 (stat) cm-2 s-1 TeV-1
+Integrated flux (>1 TeV)       : 4.9e-14 +- 2.84e-14 (stat) cm-2 s-1
+Integrated flux (>1 TeV)       : 0.236 +- 0.137 (% Crab)
+Integrated flux (1-10 TeV)     : 1.29e-13 +- 8.73e-14 (stat) erg cm-2 s-1
 
 *** Spectral points ***
 
@@ -95,18 +96,18 @@ OrderedDict([('source_id', 2),
              ('tgevcat_id', 2),
              ('tgevcat_name', 'TeV J0013-1853'),
              ('reference_id', '2013A&A...554A..72H'),
-             ('significance', nan),
-             ('livetime', <Quantity nan h>),
+             ('significance', 5.5),
+             ('livetime', <Quantity 41.5 h>),
              ('ra', <Quantity 3.4835584 deg>),
              ('dec', <Quantity -18.901848 deg>),
              ('glon', <Quantity 74.63201 deg>),
              ('glat', <Quantity -78.08694 deg>),
-             ('pos_ra', <Quantity nan deg>),
-             ('pos_dec', <Quantity nan deg>),
-             ('pos_glon', <Quantity nan deg>),
-             ('pos_glat', <Quantity nan deg>),
-             ('pos_err', <Quantity nan deg>),
-             ('morph_type', 'none'),
+             ('pos_ra', <Quantity 3.4666667 deg>),
+             ('pos_dec', <Quantity -18.891388 deg>),
+             ('pos_glon', <Quantity 74.61251 deg>),
+             ('pos_glat', <Quantity -78.06827 deg>),
+             ('pos_err', <Quantity 0.00618017 deg>),
+             ('morph_type', 'point'),
              ('morph_sigma', <Quantity nan deg>),
              ('morph_sigma_err', <Quantity nan deg>),
              ('morph_sigma2', <Quantity nan deg>),
@@ -114,14 +115,14 @@ OrderedDict([('source_id', 2),
              ('morph_pa', <Quantity nan deg>),
              ('morph_pa_err', <Quantity nan deg>),
              ('morph_pa_frame', ''),
-             ('spec_type', 'none'),
-             ('spec_pl_norm', <Quantity nan 1 / (cm2 s TeV)>),
-             ('spec_pl_norm_err', <Quantity nan 1 / (cm2 s TeV)>),
-             ('spec_pl_norm_err_sys', <Quantity nan 1 / (cm2 s TeV)>),
-             ('spec_pl_index', nan),
-             ('spec_pl_index_err', nan),
-             ('spec_pl_index_err_sys', nan),
-             ('spec_pl_e_ref', <Quantity nan TeV>),
+             ('spec_type', 'pl'),
+             ('spec_pl_norm', <Quantity 1.16e-12 1 / (cm2 s TeV)>),
+             ('spec_pl_norm_err', <Quantity 2.3e-13 1 / (cm2 s TeV)>),
+             ('spec_pl_norm_err_sys', <Quantity 2.3e-13 1 / (cm2 s TeV)>),
+             ('spec_pl_index', 3.4),
+             ('spec_pl_index_err', 0.5),
+             ('spec_pl_index_err_sys', 0.2),
+             ('spec_pl_e_ref', <Quantity 0.51 TeV>),
              ('spec_pl2_flux', <Quantity nan 1 / (cm2 s)>),
              ('spec_pl2_flux_err', <Quantity nan 1 / (cm2 s)>),
              ('spec_pl2_flux_err_sys', <Quantity nan 1 / (cm2 s)>),
@@ -143,14 +144,15 @@ OrderedDict([('source_id', 2),
              ('spec_erange_min', <Quantity nan TeV>),
              ('spec_erange_max', <Quantity nan TeV>),
              ('spec_theta', <Quantity nan deg>),
-             ('spec_dnde_1TeV', <Quantity nan 1 / (cm2 s TeV)>),
-             ('spec_dnde_1TeV_err', <Quantity nan 1 / (cm2 s TeV)>),
-             ('spec_flux_1TeV', <Quantity nan 1 / (cm2 s)>),
-             ('spec_flux_1TeV_err', <Quantity nan 1 / (cm2 s)>),
-             ('spec_flux_1TeV_crab', nan),
-             ('spec_flux_1TeV_crab_err', nan),
-             ('spec_eflux_1TeV_10TeV', <Quantity nan erg / (cm2 s)>),
-             ('spec_eflux_1TeV_10TeV_err', <Quantity nan erg / (cm2 s)>),
+             ('spec_dnde_1TeV', <Quantity 1.1754295e-13 1 / (cm2 s TeV)>),
+             ('spec_dnde_1TeV_err', <Quantity 4.5926296e-14 1 / (cm2 s TeV)>),
+             ('spec_flux_1TeV', <Quantity 4.897623e-14 1 / (cm2 s)>),
+             ('spec_flux_1TeV_err', <Quantity 2.8403868e-14 1 / (cm2 s)>),
+             ('spec_flux_1TeV_crab', 0.23609334),
+             ('spec_flux_1TeV_crab_err', 0.13692284),
+             ('spec_eflux_1TeV_10TeV', <Quantity 1.291623e-13 erg / (cm2 s)>),
+             ('spec_eflux_1TeV_10TeV_err',
+              <Quantity 8.72906e-14 erg / (cm2 s)>),
              ('sed_reference_id', '2013A&A...554A..72H'),
              ('sed_n_points', 3),
              ('sed_n_ul', 0),

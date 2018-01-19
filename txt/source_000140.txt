@@ -17,7 +17,7 @@ TGeVCat name    : TeV J2009-4849
 Discoverer      : hess
 Discovery date  : 2005-06
 Seen by         : hess
-Reference       : 
+Reference       : 2010A&A...511A..52A
 
 *** Position info ***
 
@@ -101,7 +101,7 @@ OrderedDict([('source_id', 140),
              ('tevcat_name', 'TeV J2009-488'),
              ('tgevcat_id', 140),
              ('tgevcat_name', 'TeV J2009-4849'),
-             ('reference_id', ''),
+             ('reference_id', '2010A&A...511A..52A'),
              ('significance', nan),
              ('livetime', <Quantity nan h>),
              ('ra', <Quantity 302.3558 deg>),

@@ -17,7 +17,7 @@ TGeVCat name    : TeV J2158-3013
 Discoverer      : durham
 Discovery date  : 1999-06
 Seen by         : durham,hess,magic
-Reference       : 
+Reference       : 2010A&A...520A..83H
 
 *** Position info ***
 
@@ -103,7 +103,7 @@ OrderedDict([('source_id', 147),
              ('tevcat_name', 'TeV J2158-302'),
              ('tgevcat_id', 147),
              ('tgevcat_name', 'TeV J2158-3013'),
-             ('reference_id', ''),
+             ('reference_id', '2010A&A...520A..83H'),
              ('significance', nan),
              ('livetime', <Quantity nan h>),
              ('ra', <Quantity 329.71695 deg>),

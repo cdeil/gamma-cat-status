@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 116
 Common name     : HESS J1800-240A
-Other names     : HESS J1800-240A
+Other names     : HESS J1800-240A,G006.1-006,W 28
 Location        : gal
 Class           : snr,mc
 
@@ -79,7 +79,7 @@ OrderedDict([('source_id', 111),
              ('common_name', 'HESS J1800-240A'),
              ('gamma_names', 'HESS J1800-240A'),
              ('fermi_names', ''),
-             ('other_names', ''),
+             ('other_names', 'G006.1-006,W 28'),
              ('where', 'gal'),
              ('classes', 'snr,mc'),
              ('discoverer', 'hess'),

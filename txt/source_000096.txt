@@ -22,10 +22,10 @@ Reference       : 2016arXiv160908671H
 *** Position info ***
 
 SIMBAD:
-RA                   : 258.112 deg
-DEC                  : -39.687 deg
-GLON                 : 347.269 deg
-GLAT                 : -0.257 deg
+RA                   : 258.355 deg
+DEC                  : -39.771 deg
+GLON                 : 347.311 deg
+GLAT                 : -0.457 deg
 
 Measurement:
 RA                   : 258.355 deg
@@ -126,10 +126,10 @@ OrderedDict([('source_id', 96),
              ('reference_id', '2016arXiv160908671H'),
              ('significance', nan),
              ('livetime', <Quantity 164. h>),
-             ('ra', <Quantity 258.1125 deg>),
-             ('dec', <Quantity -39.6867 deg>),
-             ('glon', <Quantity 347.26944 deg>),
-             ('glat', <Quantity -0.2569129 deg>),
+             ('ra', <Quantity 258.355 deg>),
+             ('dec', <Quantity -39.771 deg>),
+             ('glon', <Quantity 347.31085 deg>),
+             ('glat', <Quantity -0.4573556 deg>),
              ('pos_ra', <Quantity 258.355 deg>),
              ('pos_dec', <Quantity -39.771 deg>),
              ('pos_glon', <Quantity 347.31085 deg>),

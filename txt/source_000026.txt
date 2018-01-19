@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 26
 Common name     : 30 Dor C
-Other names     : 
+Other names     : HESS J0535-691
 Location        : egal
 Class           : other
 
@@ -89,7 +89,7 @@ e_ref        dnde         dnde_errn       dnde_errp        dnde_ul
 
 OrderedDict([('source_id', 26),
              ('common_name', '30 Dor C'),
-             ('gamma_names', ''),
+             ('gamma_names', 'HESS J0535-691'),
              ('fermi_names', ''),
              ('other_names', ''),
              ('where', 'egal'),

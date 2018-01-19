@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 88
 Common name     : HESS J1634-472
-Other names     : HESS J1634-472
+Other names     : HESS J1634-472,IGR J16358-4726,G337.2+0.1
 Location        : gal
 Class           : unid
 
@@ -89,7 +89,7 @@ OrderedDict([('source_id', 87),
              ('common_name', 'HESS J1634-472'),
              ('gamma_names', 'HESS J1634-472'),
              ('fermi_names', ''),
-             ('other_names', ''),
+             ('other_names', 'IGR J16358-4726,G337.2+0.1'),
              ('where', 'gal'),
              ('classes', 'unid'),
              ('discoverer', 'hess'),

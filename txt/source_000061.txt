@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 61
 Common name     : HESS J1303-631
-Other names     : 
+Other names     : PSR J1301-6305
 Location        : gal
 Class           : pwn
 
@@ -93,7 +93,7 @@ OrderedDict([('source_id', 61),
              ('common_name', 'HESS J1303-631'),
              ('gamma_names', ''),
              ('fermi_names', ''),
-             ('other_names', ''),
+             ('other_names', 'PSR J1301-6305'),
              ('where', 'gal'),
              ('classes', 'pwn'),
              ('discoverer', 'hess'),

@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 45
 Common name     : HESS J1018-589 A
-Other names     : HESS J1018-589 A,SNR G284.3-01.8,MSH 10-53
+Other names     : HESS J1018-589 A,1FGL J1018.6-5856,SNR G284.3-01.8,MSH 10-53
 Location        : gal
 Class           : bin
 
@@ -89,7 +89,7 @@ e_ref        dnde         dnde_errn       dnde_errp
 OrderedDict([('source_id', 45),
              ('common_name', 'HESS J1018-589 A'),
              ('gamma_names', 'HESS J1018-589 A'),
-             ('fermi_names', ''),
+             ('fermi_names', '1FGL J1018.6-5856'),
              ('other_names', 'SNR G284.3-01.8,MSH 10-53'),
              ('where', 'gal'),
              ('classes', 'bin'),

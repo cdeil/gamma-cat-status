@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 131
 Common name     : HESS J1834-087
-Other names     : HESS J1834-087,1HWC J1836-090c,W41
+Other names     : HESS J1834-087,1HWC J1836-090c,G23.3-0.3,W41
 Location        : gal
 Class           : unid
 
@@ -88,7 +88,7 @@ OrderedDict([('source_id', 123),
              ('common_name', 'HESS J1834-087'),
              ('gamma_names', 'HESS J1834-087,1HWC J1836-090c'),
              ('fermi_names', ''),
-             ('other_names', 'W41'),
+             ('other_names', 'G23.3-0.3,W41'),
              ('where', 'gal'),
              ('classes', 'unid'),
              ('discoverer', 'hess'),

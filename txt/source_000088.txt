@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 89
 Common name     : HESS J1640-465
-Other names     : HESS J1640-465,SNR G338.3-0.0
+Other names     : HESS J1640-465,SNR G338.3-0.0,3EG J1639-4702
 Location        : gal
 Class           : pwn
 
@@ -102,7 +102,7 @@ OrderedDict([('source_id', 88),
              ('common_name', 'HESS J1640-465'),
              ('gamma_names', 'HESS J1640-465'),
              ('fermi_names', ''),
-             ('other_names', 'SNR G338.3-0.0'),
+             ('other_names', 'SNR G338.3-0.0,3EG J1639-4702'),
              ('where', 'gal'),
              ('classes', 'pwn'),
              ('discoverer', 'hess'),

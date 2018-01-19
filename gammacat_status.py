@@ -23,7 +23,7 @@ def write_table(table, filename_base):
 class GammaCatStatus:
     def __init__(self):
         folder = os.environ['GAMMA_CAT']
-        filename = os.path.join(folder, 'docs/data/gammacat.fits.gz')
+        filename = os.path.join(folder, 'output/gammacat.fits.gz')
         print('Reading {}'.format(filename))
         self.table = Table.read(filename)
 

@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 119
 Common name     : HESS J1809-193
-Other names     : HESS J1809-193
+Other names     : HESS J1809-193,PSR J1809-1917
 Location        : gal
 Class           : unid
 
@@ -88,7 +88,7 @@ OrderedDict([('source_id', 115),
              ('common_name', 'HESS J1809-193'),
              ('gamma_names', 'HESS J1809-193'),
              ('fermi_names', ''),
-             ('other_names', ''),
+             ('other_names', 'PSR J1809-1917'),
              ('where', 'gal'),
              ('classes', 'unid'),
              ('discoverer', 'hess'),

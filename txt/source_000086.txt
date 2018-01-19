@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 87
 Common name     : HESS J1632-478
-Other names     : HESS J1632-478
+Other names     : HESS J1632-478,IGR J16320-4751
 Location        : gal
 Class           : pwn
 
@@ -86,7 +86,7 @@ OrderedDict([('source_id', 86),
              ('common_name', 'HESS J1632-478'),
              ('gamma_names', 'HESS J1632-478'),
              ('fermi_names', ''),
-             ('other_names', ''),
+             ('other_names', 'IGR J16320-4751'),
              ('where', 'gal'),
              ('classes', 'pwn'),
              ('discoverer', 'hess'),

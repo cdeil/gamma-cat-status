@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 80
 Common name     : AP Librae
-Other names     : PKS B1514-241
+Other names     : HESS J1517-243,PKS B1514-241
 Location        : egal
 Class           : lbl
 
@@ -89,7 +89,7 @@ e_ref       dnde          dnde_err
 
 OrderedDict([('source_id', 80),
              ('common_name', 'AP Librae'),
-             ('gamma_names', ''),
+             ('gamma_names', 'HESS J1517-243'),
              ('fermi_names', ''),
              ('other_names', 'PKS B1514-241'),
              ('where', 'egal'),

@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 42
 Common name     : 1RXS J101015.9-311909
-Other names     : 
+Other names     : HESS J1010-313
 Location        : egal
 Class           : hbl
 
@@ -82,7 +82,7 @@ e_ref       dnde         dnde_errn       dnde_errp
 
 OrderedDict([('source_id', 42),
              ('common_name', '1RXS J101015.9-311909'),
-             ('gamma_names', ''),
+             ('gamma_names', 'HESS J1010-313'),
              ('fermi_names', ''),
              ('other_names', ''),
              ('where', 'egal'),

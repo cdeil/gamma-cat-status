@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 63
 Common name     : Centaurus A
-Other names     : Cen A
+Other names     : HESS J1325-430,Cen A
 Location        : egal
 Class           : fri
 
@@ -77,7 +77,7 @@ No spectral points available for this source.
 
 OrderedDict([('source_id', 63),
              ('common_name', 'Centaurus A'),
-             ('gamma_names', ''),
+             ('gamma_names', 'HESS J1325-430'),
              ('fermi_names', ''),
              ('other_names', 'Cen A'),
              ('where', 'egal'),

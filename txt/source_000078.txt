@@ -3,7 +3,7 @@
 
 Catalog row index (zero-based) : 78
 Common name     : PKS 1510-089
-Other names     : 
+Other names     : HESS J1512-090
 Location        : egal
 Class           : fsrq
 
@@ -83,7 +83,7 @@ e_ref       dnde         dnde_errn       dnde_errp
 
 OrderedDict([('source_id', 78),
              ('common_name', 'PKS 1510-089'),
-             ('gamma_names', ''),
+             ('gamma_names', 'HESS J1512-090'),
              ('fermi_names', ''),
              ('other_names', ''),
              ('where', 'egal'),
