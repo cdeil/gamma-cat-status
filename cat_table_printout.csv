@@ -112,7 +112,7 @@ source_id,common_name,where,classes,reference_id,morph_type,spec_type
 99,HESS J1718-385,gal,pwn,2007A&A...472..489A,gauss,ecpl
 102,HESS J1729-345,gal,unid,2011A&A...531A..81H,gauss,pl
 103,HESS J1731-347,gal,snr,2011A&A...531A..81H,shell,pl
-104,HESS J1741-302,gal,unid,2008AIPC.1085..249T,none,none
+104,HESS J1741-302,gal,unid,2017arXiv171101350H,point,pl
 106,Galactic Centre,gal,unid,2016Natur.531..476H,point,ecpl
 107,Galactic Centre ridge,gal,unid,,none,none
 108,HESS J1745-303,gal,"unid,snr,mc",2008A&A...483..509A,gauss,pl
