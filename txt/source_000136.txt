@@ -36,9 +36,9 @@ Position error       : 0.024 deg
 
 *** Morphology info ***
 
-Morphology model type     : gauss
-Sigma                     : 0.055 deg
-Sigma error               : 0.008 deg
+Morphology model type     : point
+Sigma                     : nan deg
+Sigma error               : nan deg
 Sigma2                    : nan deg
 Sigma2 error              : nan deg
 Position angle            : nan deg
@@ -111,9 +111,9 @@ OrderedDict([('source_id', 136),
              ('pos_glon', <Quantity 54.09925 deg>),
              ('pos_glat', <Quantity 0.25846338 deg>),
              ('pos_err', <Quantity 0.02405626 deg>),
-             ('morph_type', 'gauss'),
-             ('morph_sigma', <Quantity 0.055 deg>),
-             ('morph_sigma_err', <Quantity 0.00833333 deg>),
+             ('morph_type', 'point'),
+             ('morph_sigma', <Quantity nan deg>),
+             ('morph_sigma_err', <Quantity nan deg>),
              ('morph_sigma2', <Quantity nan deg>),
              ('morph_sigma2_err', <Quantity nan deg>),
              ('morph_pa', <Quantity nan deg>),

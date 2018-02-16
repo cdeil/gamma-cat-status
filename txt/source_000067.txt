@@ -66,18 +66,23 @@ Integrated flux (1-10 TeV)     : nan +- nan (stat) erg cm-2 s-1
 
 *** Spectral points ***
 
-SED reference id          : 2014A&A...567A.135A
-Number of spectral points : 5
+SED reference id          : 2006A&A...456..245A
+Number of spectral points : 10
 Number of upper limits    : 0
 
-e_ref       dnde         dnde_errn       dnde_errp   
- TeV  1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
------ --------------- --------------- ---------------
-0.078       2.250e-09       7.280e-10       7.280e-10
-0.113       8.260e-10       1.830e-10       1.830e-10
-0.164       2.380e-10       6.480e-11       6.480e-11
-0.237       6.740e-11       1.810e-11       1.810e-11
-0.342       8.010e-12       6.840e-12       6.840e-12
+e_ref        dnde         dnde_errn       dnde_errp   
+ TeV   1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
+------ --------------- --------------- ---------------
+ 0.390       2.630e-11       7.640e-12       7.560e-12
+ 0.610       9.130e-12       1.040e-12       1.110e-12
+ 0.970       3.380e-12       4.040e-13       4.030e-13
+ 1.540       1.460e-12       1.800e-13       1.780e-13
+ 2.450       5.910e-13       8.190e-14       8.150e-14
+ 3.880       1.970e-13       3.520e-14       3.550e-14
+ 6.140       7.090e-14       1.590e-14       1.560e-14
+ 9.730       2.540e-14       7.330e-15       7.280e-15
+15.430       6.810e-15       2.950e-15       2.990e-15
+24.450       1.050e-15       9.560e-16       7.720e-16
 
 ===
 
@@ -153,18 +158,15 @@ OrderedDict([('source_id', 67),
              ('spec_flux_1TeV_crab_err', nan),
              ('spec_eflux_1TeV_10TeV', <Quantity nan erg / (cm2 s)>),
              ('spec_eflux_1TeV_10TeV_err', <Quantity nan erg / (cm2 s)>),
-             ('sed_reference_id', '2014A&A...567A.135A'),
-             ('sed_n_points', 5),
+             ('sed_reference_id', '2006A&A...456..245A'),
+             ('sed_n_points', 10),
              ('sed_n_ul', 0),
              ('sed_e_ref',
-              <Quantity [0.0783998, 0.113    , 0.164    , 0.237    , 0.342    ,
-                 nan,       nan,       nan,       nan,       nan,
-                 nan,       nan,       nan,       nan,       nan,
-                 nan,       nan,       nan,       nan,       nan,
-                 nan,       nan,       nan,       nan,       nan,
-                 nan,       nan,       nan,       nan,       nan,
-                 nan,       nan,       nan,       nan,       nan,
-                 nan,       nan,       nan,       nan,       nan] TeV>),
+              <Quantity [ 0.39,  0.61,  0.97,  1.54,  2.45,  3.88,  6.14,  9.73, 15.43,
+           24.45,   nan,   nan,   nan,   nan,   nan,   nan,   nan,   nan,
+             nan,   nan,   nan,   nan,   nan,   nan,   nan,   nan,   nan,
+             nan,   nan,   nan,   nan,   nan,   nan,   nan,   nan,   nan,
+             nan,   nan,   nan,   nan] TeV>),
              ('sed_e_min',
               <Quantity [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
@@ -176,37 +178,34 @@ OrderedDict([('source_id', 67),
            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
            nan] TeV>),
              ('sed_dnde',
-              <Quantity [2.25001e-09, 8.26000e-10, 2.38000e-10, 6.73998e-11, 8.01001e-12,
-                   nan,         nan,         nan,         nan,         nan,
-                   nan,         nan,         nan,         nan,         nan,
-                   nan,         nan,         nan,         nan,         nan,
-                   nan,         nan,         nan,         nan,         nan,
-                   nan,         nan,         nan,         nan,         nan,
-                   nan,         nan,         nan,         nan,         nan,
-                   nan,         nan,         nan,         nan,         nan] 1 / (cm2 s TeV)>),
+              <Quantity [2.63e-11, 9.13e-12, 3.38e-12, 1.46e-12, 5.91e-13, 1.97e-13,
+           7.09e-14, 2.54e-14, 6.81e-15, 1.05e-15,      nan,      nan,
+                nan,      nan,      nan,      nan,      nan,      nan,
+                nan,      nan,      nan,      nan,      nan,      nan,
+                nan,      nan,      nan,      nan,      nan,      nan,
+                nan,      nan,      nan,      nan,      nan,      nan,
+                nan,      nan,      nan,      nan] 1 / (cm2 s TeV)>),
              ('sed_dnde_err',
               <Quantity [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
            nan] 1 / (cm2 s TeV)>),
              ('sed_dnde_errp',
-              <Quantity [7.28003e-10, 1.83000e-10, 6.48001e-11, 1.81000e-11, 6.84003e-12,
-                   nan,         nan,         nan,         nan,         nan,
-                   nan,         nan,         nan,         nan,         nan,
-                   nan,         nan,         nan,         nan,         nan,
-                   nan,         nan,         nan,         nan,         nan,
-                   nan,         nan,         nan,         nan,         nan,
-                   nan,         nan,         nan,         nan,         nan,
-                   nan,         nan,         nan,         nan,         nan] 1 / (cm2 s TeV)>),
+              <Quantity [7.56e-12, 1.11e-12, 4.03e-13, 1.78e-13, 8.15e-14, 3.55e-14,
+           1.56e-14, 7.28e-15, 2.99e-15, 7.72e-16,      nan,      nan,
+                nan,      nan,      nan,      nan,      nan,      nan,
+                nan,      nan,      nan,      nan,      nan,      nan,
+                nan,      nan,      nan,      nan,      nan,      nan,
+                nan,      nan,      nan,      nan,      nan,      nan,
+                nan,      nan,      nan,      nan] 1 / (cm2 s TeV)>),
              ('sed_dnde_errn',
-              <Quantity [7.28003e-10, 1.83000e-10, 6.48001e-11, 1.81000e-11, 6.84003e-12,
-                   nan,         nan,         nan,         nan,         nan,
-                   nan,         nan,         nan,         nan,         nan,
-                   nan,         nan,         nan,         nan,         nan,
-                   nan,         nan,         nan,         nan,         nan,
-                   nan,         nan,         nan,         nan,         nan,
-                   nan,         nan,         nan,         nan,         nan,
-                   nan,         nan,         nan,         nan,         nan] 1 / (cm2 s TeV)>),
+              <Quantity [7.64e-12, 1.04e-12, 4.04e-13, 1.80e-13, 8.19e-14, 3.52e-14,
+           1.59e-14, 7.33e-15, 2.95e-15, 9.56e-16,      nan,      nan,
+                nan,      nan,      nan,      nan,      nan,      nan,
+                nan,      nan,      nan,      nan,      nan,      nan,
+                nan,      nan,      nan,      nan,      nan,      nan,
+                nan,      nan,      nan,      nan,      nan,      nan,
+                nan,      nan,      nan,      nan] 1 / (cm2 s TeV)>),
              ('sed_dnde_ul',
               <Quantity [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
            nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
@@ -216,11 +215,16 @@ OrderedDict([('source_id', 67),
 
 ===
 
-  e_ref         dnde         dnde_errn       dnde_errp   
-   TeV    1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
---------- --------------- --------------- ---------------
-0.0783998     2.25001e-09     7.28003e-10     7.28003e-10
-    0.113        8.26e-10        1.83e-10        1.83e-10
-    0.164        2.38e-10     6.48001e-11     6.48001e-11
-    0.237     6.73998e-11        1.81e-11        1.81e-11
-    0.342     8.01001e-12     6.84003e-12     6.84003e-12
+e_ref       dnde         dnde_errn       dnde_errp   
+ TeV  1 / (cm2 s TeV) 1 / (cm2 s TeV) 1 / (cm2 s TeV)
+----- --------------- --------------- ---------------
+ 0.39        2.63e-11        7.64e-12        7.56e-12
+ 0.61        9.13e-12        1.04e-12        1.11e-12
+ 0.97        3.38e-12        4.04e-13        4.03e-13
+ 1.54        1.46e-12         1.8e-13        1.78e-13
+ 2.45        5.91e-13        8.19e-14        8.15e-14
+ 3.88        1.97e-13        3.52e-14        3.55e-14
+ 6.14        7.09e-14        1.59e-14        1.56e-14
+ 9.73        2.54e-14        7.33e-15        7.28e-15
+15.43        6.81e-15        2.95e-15        2.99e-15
+24.45        1.05e-15        9.56e-16        7.72e-16
