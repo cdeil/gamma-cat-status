@@ -55,7 +55,7 @@ norm            : 3.1e-13 +- 9e-14 (stat) +- 6e-14 (sys) cm-2 s-1 TeV-1
 index           : 2.3 +- 0.3 (stat) +- 0.2 (sys)
 reference       : 1.0 TeV
 
-Energy range         : (0.65, 10.0) TeV
+Energy range         : (0.5, 15.0) TeV
 theta                : 0.09 deg
 
 
@@ -142,8 +142,8 @@ OrderedDict([('source_id', 141),
              ('spec_ecpl_e_cut_err', <Quantity nan TeV>),
              ('spec_ecpl_e_cut_err_sys', <Quantity nan TeV>),
              ('spec_ecpl_e_ref', <Quantity nan TeV>),
-             ('spec_erange_min', <Quantity 0.65 TeV>),
-             ('spec_erange_max', <Quantity 10. TeV>),
+             ('spec_erange_min', <Quantity 0.5 TeV>),
+             ('spec_erange_max', <Quantity 15. TeV>),
              ('spec_theta', <Quantity 0.09 deg>),
              ('spec_dnde_1TeV', <Quantity 3.1e-13 1 / (cm2 s TeV)>),
              ('spec_dnde_1TeV_err', <Quantity 9.e-14 1 / (cm2 s TeV)>),

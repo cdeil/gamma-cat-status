@@ -71,8 +71,13 @@ SED reference id          : 2016MNRAS.461..202A
 Number of spectral points : 4
 Number of upper limits    : 0
 
-
-No spectral points available for this source.
+e_ref e_min  e_max        dnde          dnde_err   
+ TeV   TeV    TeV   1 / (cm2 s TeV) 1 / (cm2 s TeV)
+----- ------ ------ --------------- ---------------
+0.222 0.1778 0.2818       8.450e-12       4.150e-12
+0.352 0.2818 0.4467       3.750e-12       1.110e-12
+0.559 0.4467 0.7079       6.420e-13       3.350e-13
+0.885 0.7079  1.122       2.350e-13       1.240e-13
 
 ===
 
@@ -153,10 +158,11 @@ OrderedDict([('source_id', 71),
              ('sed_n_points', 4),
              ('sed_n_ul', 0),
              ('sed_e_ref',
-              <Quantity [nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-           nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-           nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan,
-           nan] TeV>),
+              <Quantity [0.2224, 0.3525, 0.5587, 0.8854,    nan,    nan,    nan,    nan,
+              nan,    nan,    nan,    nan,    nan,    nan,    nan,    nan,
+              nan,    nan,    nan,    nan,    nan,    nan,    nan,    nan,
+              nan,    nan,    nan,    nan,    nan,    nan,    nan,    nan,
+              nan,    nan,    nan,    nan,    nan,    nan,    nan,    nan] TeV>),
              ('sed_e_min',
               <Quantity [0.1778, 0.2818, 0.4467, 0.7079,    nan,    nan,    nan,    nan,
               nan,    nan,    nan,    nan,    nan,    nan,    nan,    nan,
@@ -170,7 +176,7 @@ OrderedDict([('source_id', 71),
               nan,    nan,    nan,    nan,    nan,    nan,    nan,    nan,
               nan,    nan,    nan,    nan,    nan,    nan,    nan,    nan] TeV>),
              ('sed_dnde',
-              <Quantity [8.45e-12, 3.75e-12, 6.42e-13, 1.35e-13,      nan,      nan,
+              <Quantity [8.45e-12, 3.75e-12, 6.42e-13, 2.35e-13,      nan,      nan,
                 nan,      nan,      nan,      nan,      nan,      nan,
                 nan,      nan,      nan,      nan,      nan,      nan,
                 nan,      nan,      nan,      nan,      nan,      nan,
@@ -204,4 +210,10 @@ OrderedDict([('source_id', 71),
 
 ===
 
-No flux points available.
+e_ref  e_min  e_max        dnde          dnde_err   
+ TeV    TeV    TeV   1 / (cm2 s TeV) 1 / (cm2 s TeV)
+------ ------ ------ --------------- ---------------
+0.2224 0.1778 0.2818        8.45e-12        4.15e-12
+0.3525 0.2818 0.4467        3.75e-12        1.11e-12
+0.5587 0.4467 0.7079        6.42e-13        3.35e-13
+0.8854 0.7079  1.122        2.35e-13        1.24e-13
